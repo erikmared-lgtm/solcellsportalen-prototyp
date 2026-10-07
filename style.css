@@ -17,3 +17,4 @@ form label{display:block;margin:14px 0;font-weight:600;font-size:.95rem}input,se
 @media(max-width:860px){.burger{display:block}nav{display:none;position:absolute;top:64px;left:0;right:0;background:var(--b);padding:10px 20px}body.open nav{display:block}nav ul{flex-direction:column;align-items:stretch}.dd ul{position:static;box-shadow:none}.split{grid-template-columns:1fr;margin-top:20px}.article{padding:20px;margin:0;border-radius:0}}
 .aeo blockquote{border-left:4px solid #f5a623;background:#fff8ec;margin:1em 0;padding:.8em 1em;font-size:1.05em}
 .aeo table{font-size:.9em}.updated{color:#666;font-size:.9em}
+.nlf{max-width:520px;margin:1.5rem 0}.nlf form{display:grid;gap:.6rem}.nlf label{display:grid;gap:.25rem}.nlf label.c{display:block}.nlf input[type=email],.nlf select{padding:.5rem}.nlhero{max-width:none;background:#fff7e0;border:2px solid #f2b705;border-radius:12px;padding:1.5rem;margin:2rem 0}
