@@ -1,4 +1,4 @@
-# Solcellsportalen
+# Norsolis
 
 > Oberoende kunskap om solceller och batterier för villaägare och bostadsrättsföreningar i Norden, med stöd och bidrag per land (Sverige, Norge, Danmark, Finland, Island) och offertförfrågan. Uppgifterna har källhänvisningar. Prototyp, senast uppdaterad 2026-10-07.
 
