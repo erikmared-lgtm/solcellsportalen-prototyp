@@ -15,3 +15,5 @@ h2{color:var(--b);margin-top:48px}.chips{display:flex;flex-wrap:wrap;gap:10px;ma
 form label{display:block;margin:14px 0;font-weight:600;font-size:.95rem}input,select,textarea{display:block;width:100%;margin-top:5px;padding:11px;border:1px solid #c8cfd8;border-radius:8px;font:inherit}fieldset{border:1px solid #c8cfd8;border-radius:8px;margin:14px 0}label.c{display:flex;gap:8px;align-items:center;margin:6px 0;font-weight:400}label.c input{width:auto;margin:0}
 .tack{text-align:center;padding:30px}footer{background:var(--b);color:#cfd8e3;padding:24px 0;font-size:.9rem}footer a{color:var(--y)}
 @media(max-width:860px){.burger{display:block}nav{display:none;position:absolute;top:64px;left:0;right:0;background:var(--b);padding:10px 20px}body.open nav{display:block}nav ul{flex-direction:column;align-items:stretch}.dd ul{position:static;box-shadow:none}.split{grid-template-columns:1fr;margin-top:20px}.article{padding:20px;margin:0;border-radius:0}}
+.aeo blockquote{border-left:4px solid #f5a623;background:#fff8ec;margin:1em 0;padding:.8em 1em;font-size:1.05em}
+.aeo table{font-size:.9em}.updated{color:#666;font-size:.9em}

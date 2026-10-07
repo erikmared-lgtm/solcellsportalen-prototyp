@@ -1,0 +1,43 @@
+# Solcellsportalen
+
+> Oberoende kunskap om solceller och batterier för villaägare och bostadsrättsföreningar i Norden, med stöd och bidrag per land (Sverige, Norge, Danmark, Finland, Island) och offertförfrågan. Uppgifterna har källhänvisningar. Prototyp, senast uppdaterad 2026-10-07.
+
+## Lär dig om solel
+
+- [Solcellernas historia – från 1839 till i dag](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solcellernas-historia.html): Solcellernas historia från Becquerels upptäckt 1839 och Einsteins fotoelektriska effekt till Bell Labs kiselcell 1954 och dagens solpaneler.
+- [Hur fungerar solceller? Enkel förklaring](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/sa-fungerar-solceller.html): Hur fungerar solceller? Läs hur solljus blir likström, hur växelriktaren gör växelström och vad som händer med överskottet i elnätet.
+- [Solceller verkningsgrad – teknik och typer](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-verkningsgrad.html): Solceller verkningsgrad förklarad: monokristallina, polykristallina och tunnfilm, dagens nivåer och vad som är viktigt när du jämför paneler.
+- [Solceller i Sverige – statistik och utveckling](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-i-sverige.html): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
+- [Perovskit solceller, tandem och V2G – framtiden](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/framtidens-solceller.html): Perovskit solceller och tandemceller slår rekord i labbet. Läs vad som är bevisat, vad som återstår och vad smarta nät och V2G kan betyda.
+
+## För BRF
+
+- [Solceller BRF – delningsmodeller och ekonomi](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-brf.html): Solceller BRF: så kan bostadsrättsföreningen använda och dela solelen, vad det kostar, vilka moms- och skatteregler som gäller och vad som ändras 2027.
+
+## För villa
+
+- [Solceller på villa – storlek, pris och steg](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
+
+## Ekonomi och teknik
+
+- [Solcellsbatteri – lagra solel och få avdrag](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solcellsbatteri.html): Solcellsbatteri: när ett batterilager lönar sig, grönt avdrag på 50 procent, stödtjänster via aggregator, reservkraft och vad som gäller för BRF.
+- [Grönt avdrag solceller 2026 – regler och belopp](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/gront-avdrag-solceller.html): Grönt avdrag för solceller 2026: 15 procent på arbete och material, 50 procent för batteri, tak 50 000 kr. Plus vad som gäller när 60-öringen är borta.
+- [Solceller och miljö – klimat, energi, återvinning](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-miljo.html): Solceller och miljö: hur snabbt en panel betalar tillbaka energin, vad den består av, hur återvinningen fungerar och vad producentansvaret innebär.
+
+## Kom igång
+
+- [Välja solcellsinstallatör – checklista](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/valja-solcellsinstallator.html): Så väljer du solcellsinstallatör: kontrollera registreringen hos Elsäkerhetsverket, jämför offerter per kW och fråga om certifiering.
+- [Vanliga frågor om solceller – svar med källor](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/vanliga-fragor-solceller.html): Vanliga frågor om solceller: kostnad, grönt avdrag, BRF, batterier, strömavbrott, bygglov, livslängd och att sälja överskottsel. Alla svar har källor.
+
+## Länder
+
+- [Solceller i Sverige – statistik och utveckling](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/solceller-i-sverige.html) (sv-SE): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
+- [Solceller i Norge – Enova-støtte og deling](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/no-solceller-i-norge.html) (nb-NO): Solceller i Norge 2026: Enova-støtte på 25 prosent, plusskundeordningen, deling av strøm i borettslag og hvor mye solkraft som er bygget.
+- [Solceller i Danmark – regler, afregning og tal](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/da-solceller-i-danmark.html) (da-DK): Solceller i Danmark 2026: 172.822 nettilsluttede anlæg, øjebliksafregning, produktionselleverandør og hvad der gælder for andelsboligforeninger.
+- [Aurinkopaneelit Suomessa – taloyhtiö ja vähennys](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/fi-aurinkopaneelit-suomessa.html) (fi-FI): Aurinkopaneelit Suomessa: kapasiteetti 2025, kotitalousvähennys asennustyöstä ja hyvityslaskenta, jolla taloyhtiö jakaa aurinkosähkön asukkaille.
+- [Sólarsellur á Íslandi – nýting, leyfi og styrkir](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/is-solarsellur-a-islandi.html) (is-IS): Sólarsellur á Íslandi: við hverju má búast af sólarorku, hvenær þarf leyfi, styrkir á köldum svæðum og reynsla af verkefnum Orkuseturs.
+
+## Optional
+
+- [Offert för villa](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/offert-villa.html)
+- [Offert för BRF](https://erikmared-lgtm.github.io/solcellsportalen-prototyp/offert-brf.html)
