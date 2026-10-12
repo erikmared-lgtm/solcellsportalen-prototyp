@@ -25,4 +25,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://erikmared-lgtm.github.io/solcellsportalen-prototyp/sitemap.xml
+Sitemap: https://norsolis.com/sitemap.xml
