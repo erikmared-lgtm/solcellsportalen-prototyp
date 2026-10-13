@@ -4,7 +4,7 @@
 
 ## Räkna & jämför
 
-- [Solcellskalkyl för villa – räkna på ditt hus | Norsolis](https://norsolis.com/solcellskalkyl.html): Räkna på solceller för din villa: investering efter grönt avdrag, årsnytta, egenanvändning och återbetalning i tre elprisscenarier. Utan kontaktuppgifter. Metodik och antaganden finns som text på sidan.
+- [Solcellskalkyl för villa – räkna på ditt hus | Norsolis](https://norsolis.com/solcellskalkyl.html): Räkna på batteri med solceller för ditt hus: investering efter grönt avdrag, årsnytta och återbetalning med ditt eget elpris. Utan kontaktuppgifter. Metodik och antaganden finns som text på sidan.
 - [Grönt avdrag solceller 2026 – regler och belopp](https://norsolis.com/gront-avdrag-solceller.html): Grönt avdrag för solceller 2026: 15 procent på arbete och material, 50 procent för batteri, tak 50 000 kr. Plus vad som gäller när 60-öringen är borta.
 - [Välja solcellsinstallatör – checklista](https://norsolis.com/valja-solcellsinstallator.html): Så väljer du solcellsinstallatör: kontrollera registreringen hos Elsäkerhetsverket, jämför offerter per kW och fråga om certifiering.
 
