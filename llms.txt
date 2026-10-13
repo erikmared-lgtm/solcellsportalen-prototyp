@@ -1,6 +1,6 @@
 # Norsolis
 
-> Transparent jämförelsetjänst för solceller och batterier, finansierad av anslutna installatörer. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Prototyp, senast uppdaterad 2026-10-09.
+> Transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Prototyp, senast uppdaterad 2026-10-09.
 
 ## Räkna & jämför
 
@@ -37,7 +37,7 @@
 
 ## Om tjänsten
 
-- [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en transparent jämförelsetjänst för solceller, finansierad av anslutna installatörer. Så fungerar urval, ersättning och kontakt.
+- [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Så fungerar urval, ersättning och kontakt.
 - [Alla guider](https://norsolis.com/kunskap.html)
 
 ## Optional
