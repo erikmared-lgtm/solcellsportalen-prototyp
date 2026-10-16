@@ -45,3 +45,8 @@ form label.c{align-items:flex-start}form label.c input{margin-top:5px}form h2{ma
 @media(max-width:480px){.hero{padding:48px 0 44px}.ctas .btn{width:100%;text-align:center}.formwrap{padding:18px 14px;margin:0;border-radius:0}.wrap{padding:0 14px}.btnrow .btn{flex:1 1 100%}.kpi strong{font-size:1.3rem}.article{padding:18px 14px}}
 .article{overflow-wrap:break-word}.article a{word-break:break-word}
 h2[id],h3[id],section[id]{scroll-margin-top:80px}
+/* Startsidans hero centrerad + läsbara länkar (2026-10-16) */
+.hero .wrap{text-align:center}.hero h1,.hero p,.hero p.kicker{margin-left:auto;margin-right:auto}.hero .ctas{justify-content:center}
+.hero .after{border-left:0;border-top:3px solid var(--y);padding:10px 0 0}
+.hero a:not(.btn){color:var(--y)}
+.nlhero a{color:var(--b)}
