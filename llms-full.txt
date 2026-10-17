@@ -1,0 +1,1614 @@
+# Norsolis
+
+> Transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
+
+## Räkna & jämför
+
+- [Solcellskalkyl för villa – räkna på ditt hus | Norsolis](https://norsolis.com/solcellskalkyl.html): Räkna på batteri med solceller för ditt hus: investering efter grönt avdrag, årsnytta och återbetalning med ditt eget elpris. Utan kontaktuppgifter. Metodik och antaganden finns som text på sidan.
+- [Grönt avdrag solceller 2026 – regler och belopp](https://norsolis.com/gront-avdrag-solceller.html): Grönt avdrag för solceller 2026: 15 procent på arbete och material, 50 procent för batteri, tak 50 000 kr. Plus vad som gäller när 60-öringen är borta.
+- [Välja solcellsinstallatör – checklista](https://norsolis.com/valja-solcellsinstallator.html): Så väljer du solcellsinstallatör: kontrollera registreringen hos Elsäkerhetsverket, jämför offerter per kW och fråga om certifiering.
+
+## För villa
+
+- [Solceller på villa – storlek, pris och steg](https://norsolis.com/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
+- [Solcellsbatteri – lagra solel och få avdrag](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: när ett batterilager lönar sig, grönt avdrag på 50 procent, stödtjänster via aggregator, reservkraft och vad som gäller för BRF.
+- [Vanliga frågor om solceller – svar med källor](https://norsolis.com/vanliga-fragor-solceller.html): Vanliga frågor om solceller: kostnad, grönt avdrag, BRF, batterier, strömavbrott, bygglov, livslängd och att sälja överskottsel. Alla svar har källor.
+
+## För BRF
+
+- [Solceller BRF – delningsmodeller och ekonomi](https://norsolis.com/solceller-brf.html): Solceller BRF: så kan bostadsrättsföreningen använda och dela solelen, vad det kostar, vilka moms- och skatteregler som gäller och vad som ändras 2027.
+
+## Kunskap
+
+- [Solcellernas historia – från 1839 till i dag](https://norsolis.com/solcellernas-historia.html): Solcellernas historia från Becquerels upptäckt 1839 och Einsteins fotoelektriska effekt till Bell Labs kiselcell 1954 och dagens solpaneler.
+- [Hur fungerar solceller? Enkel förklaring](https://norsolis.com/sa-fungerar-solceller.html): Hur fungerar solceller? Läs hur solljus blir likström, hur växelriktaren gör växelström och vad som händer med överskottet i elnätet.
+- [Solceller verkningsgrad – teknik och typer](https://norsolis.com/solceller-verkningsgrad.html): Solceller verkningsgrad förklarad: monokristallina, polykristallina och tunnfilm, dagens nivåer och vad som är viktigt när du jämför paneler.
+- [Solceller i Sverige – statistik och utveckling](https://norsolis.com/solceller-i-sverige.html): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
+- [Solceller och miljö – klimat, energi, återvinning](https://norsolis.com/solceller-miljo.html): Solceller och miljö: hur snabbt en panel betalar tillbaka energin, vad den består av, hur återvinningen fungerar och vad producentansvaret innebär.
+- [Perovskit solceller, tandem och V2G – framtiden](https://norsolis.com/framtidens-solceller.html): Perovskit solceller och tandemceller slår rekord i labbet. Läs vad som är bevisat, vad som återstår och vad smarta nät och V2G kan betyda.
+
+## Länder
+
+- [Solceller i Sverige – statistik och utveckling](https://norsolis.com/solceller-i-sverige.html) (sv-SE): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
+- [Solceller i Norge – Enova-støtte og deling](https://norsolis.com/no-solceller-i-norge.html) (nb-NO): Solceller i Norge 2026: Enova-støtte på 25 prosent, plusskundeordningen, deling av strøm i borettslag og hvor mye solkraft som er bygget.
+- [Solceller i Danmark – regler, afregning og tal](https://norsolis.com/da-solceller-i-danmark.html) (da-DK): Solceller i Danmark 2026: 172.822 nettilsluttede anlæg, øjebliksafregning, produktionselleverandør og hvad der gælder for andelsboligforeninger.
+- [Aurinkopaneelit Suomessa – taloyhtiö ja vähennys](https://norsolis.com/fi-aurinkopaneelit-suomessa.html) (fi-FI): Aurinkopaneelit Suomessa: kapasiteetti 2025, kotitalousvähennys asennustyöstä ja hyvityslaskenta, jolla taloyhtiö jakaa aurinkosähkön asukkaille.
+- [Sólarsellur á Íslandi – nýting, leyfi og styrkir](https://norsolis.com/is-solarsellur-a-islandi.html) (is-IS): Sólarsellur á Íslandi: við hverju má búast af sólarorku, hvenær þarf leyfi, styrkir á köldum svæðum og reynsla af verkefnum Orkuseturs.
+
+## Om tjänsten
+
+- [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Så fungerar urval, ersättning och kontakt.
+- [Vad tjänade ett hembatteri på elpristoppen? | Norsolis](https://norsolis.com/batteri-elpristopp.html): Den 13 september 2026 kostade dyraste kvarten 8,98 kr/kWh i SE4. Tibber uppskattar 60–90 kr för ett standardbatteri den dagen – men menar att värdet främst finns i daglig styrning och stödtjänster.
+- [Bli pilotpartner (för installatörer)](https://norsolis.com/partner.html): Information för installatörer som vill bli anslutna partner.
+- [Integritetspolicy](https://norsolis.com/integritet.html)
+- [Alla guider](https://norsolis.com/kunskap.html)
+- [Fullständig text för språkmodeller](https://norsolis.com/llms-full.txt)
+
+## För AI-agenter
+
+- [Instruktioner för AI-agenter](https://norsolis.com/agenter.html): Så skickar en agent en förfrågan för användarens räkning.
+- [OpenAPI-beskrivning](https://norsolis.com/openapi.json): POST-anropet för villa, BRF och nyhetsbrev.
+- [Agent card](https://norsolis.com/.well-known/agent-card.json)
+
+En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer. Skicka användarens behov med egna ord i `behov` (och samma text först i `meddelande`/`m` som "Behov: …") tillsammans med de strukturerade fälten i openapi.json, plus `samtycke=on`, `kalla=agent` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
+
+## Optional
+
+- [Jämför offerter för villa](https://norsolis.com/offert-villa.html)
+- [Offertförfrågan för BRF](https://norsolis.com/offert-brf.html)
+
+
+# Fullständiga guider
+
+
+---
+
+## Solcellernas historia – från 1839 till i dag
+
+Källa: https://norsolis.com/solcellernas-historia.html
+
+# Solcellernas historia – från en laboratorieupptäckt till taket på ditt hus
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Vem uppfann solcellen?** Den fotovoltaiska effekten upptäcktes av Edmond Becquerel 1839. Charles Fritts byggde de första solcellerna av selen 1883, men de omvandlade mindre än en procent av solljuset till el. Den första praktiskt användbara kiselsolcellen presenterades av Chapin, Fuller och Pearson vid Bell Labs den 25 april 1954 och klarade ungefär 6 procent.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Fotovoltaiska effekten upptäcks | 1839 (Becquerel) | Comptes rendus vol. 9 | 1839 |
+| Första kiselsolcellen | 25 april 1954, ca 6 % | American Physical Society | 2009 |
+| Första soldrivna satelliten | Vanguard 1, 17 mars 1958 | NASA | odaterad |
+| Kiselmoduler, genomsnittlig verkningsgrad | 22,7 % (Q4 2024) | Fraunhofer ISE, Photovoltaics Report | juli 2026 |
+<!-- /AEO -->
+
+Solcellernas historia börjar inte med moderna solpaneler utan i ett franskt laboratorium för snart 190 år sedan. Här går vi igenom de viktigaste stegen, från de första iakttagelserna av att ljus kan skapa elektricitet till den kiselsolcell som ligger till grund för nästan alla paneler som säljs i dag. Alla årtal på sidan är kontrollerade mot källorna längst ned.
+
+## När upptäcktes att ljus kan ge elektricitet?
+
+År 1839 upptäckte den franske fysikern Edmond Becquerel den fotovoltaiska effekten. Han experimenterade med en elektrolytisk cell, två metallelektroder i en vätska som leder ström, och märkte att elproduktionen ökade när cellen belystes. Hans rapport publicerades samma år i Franska vetenskapsakademiens tidskrift Comptes rendus. Upptäckten hade inga praktiska tillämpningar då, men den visade att ljus kan omvandlas direkt till el, utan att först bli värme.
+
+## 1870- och 1880-talen: selen blir det första solcellsmaterialet
+
+Nästa steg kom med grundämnet selen. År 1873 upptäckte den engelske ingenjören Willoughby Smith att selen blir mer elektriskt ledande när det belyses. Han testade material för undervattenskablar för telegrafi. År 1876 visade William Grylls Adams och Richard Evans Day att selen kan producera elektricitet när det utsätts för ljus. Det var ett viktigt bevis på att ett fast material kan omvandla ljus till el utan rörliga delar.
+
+År 1883 byggde den amerikanske uppfinnaren Charles Fritts de första solcellerna av selen. De omvandlade mindre än en procent av solljuset till el och var därför inte praktiskt användbara, men principen var etablerad.
+
+## 1887–1905: den fotoelektriska effekten förklaras
+
+År 1887 gjorde den tyske fysikern Heinrich Hertz en av de tidigaste dokumenterade iakttagelserna av den fotoelektriska effekten, under sina experiment med radiovågor. Han såg att ultraviolett ljus påverkade gnistor mellan metallkulor.
+
+Förklaringen kom 1905. Albert Einstein visade att ljus består av kvanta, energipaket vars energi beror på ljusets frekvens. En ljuspartikel, en foton, måste ha en viss minsta frekvens för att kunna slå loss en elektron. Einstein tilldelades Nobelpriset i fysik för 1921 med motiveringen "för hans förtjänster inom teoretisk fysik och särskilt för hans upptäckt av lagen för den fotoelektriska effekten". Priset delades ut först 1922, eftersom Nobelkommittén reserverade 1921 års pris till året därpå.
+
+Den fotoelektriska effekten, där elektroner lämnar ett material, och den fotovoltaiska effekten i en solcell, där ljuset skapar en spänning i materialet, är inte exakt samma fenomen. Men båda bygger på samma insikt: ljusets energi kommer i paket som kan sätta elektroner i rörelse.
+
+## 1940: pn-övergången upptäcks av en slump
+
+År 1940 undersökte Russell Shoemaker Ohl vid Bell Labs några kiselprover. Ett av dem hade en spricka, och när provet belystes flödade ström genom det. Sprickan visade sig markera gränsen mellan två områden med olika föroreningar. Ohl hade av en slump skapat en pn-övergång, den struktur som alla vanliga solceller bygger på. Hans patenterade solcell hade en verkningsgrad på ungefär en procent.
+
+## När kom den första användbara kiselsolcellen?
+
+Genombrottet kom vid Bell Labs i USA. Ingenjören Daryl Chapin letade efter en strömkälla till telefonsystem på avlägsna platser och hade testat selenceller, som var för ineffektiva. Kemisten Calvin Fuller och fysikern Gerald Pearson arbetade samtidigt med att styra kiselns egenskaper genom att tillsätta föroreningar. Tillsammans utvecklade de en solcell av kisel.
+
+Den 25 april 1954 presenterade Bell Labs uppfinningen och visade upp den genom att driva ett litet leksakspariserhjul och en radiosändare. De första kiselcellerna omvandlade ungefär 6 procent av solljusets energi till el. Det var en stor förbättring jämfört med tidigare solceller. Forskningsartikeln publicerades i Journal of Applied Physics i maj samma år.
+
+## När började solceller användas i rymden?
+
+Den första större användningen fick solcellerna i rymden. Vanguard 1, världens första soldrivna satellit, sköts upp den 17 mars 1958. Den var USA:s andra satellit i omloppsbana och är enligt NASA fortfarande det äldsta konstgjorda föremålet som kretsar kring jorden. I rymden spelade enkelhet och tillförlitlighet större roll än kostnad, och rymdprogrammens behov drev utvecklingen framåt under årtiondena som följde.
+
+## Var finns Sveriges äldsta solcellsanläggning?
+
+I Sverige finns den äldsta solcellsanläggningen på ett flerbostadshus i Huvudsta i Stockholm. Den är från 1984. Enligt Energimyndigheten producerar solcellerna något mer el i dag än när de installerades, eftersom växelriktarna har bytts ut mot effektivare modeller. Att Sveriges äldsta anläggning sitter på ett flerbostadshus är värt att minnas för den som i dag funderar på solceller till en bostadsrättsförening.
+
+## Från några procent till över 20 procent
+
+Sedan 1954 har tekniken förbättrats kraftigt. Enligt Fraunhofer ISE:s Photovoltaics Report (juli 2026) hade kommersiella moduler av kristallint kisel en genomsnittlig verkningsgrad på 22,7 procent under fjärde kvartalet 2024, och kiselbaserad teknik stod för omkring 98 procent av världens produktion 2025. Hur dagens solceller fungerar och hur verkningsgraden har utvecklats beskriver vi under flikarna Så fungerar det och Teknik.
+
+## Vanliga frågor om solcellernas historia
+
+**Vem uppfann solcellen?**
+Den fotovoltaiska effekten upptäcktes av Edmond Becquerel 1839. De första solcellerna av selen byggdes av Charles Fritts 1883, och den första praktiskt användbara kiselsolcellen presenterades av Chapin, Fuller och Pearson vid Bell Labs 1954.
+
+**Fick Einstein Nobelpriset för solceller?**
+Nej. Han fick Nobelpriset i fysik för 1921, bland annat för upptäckten av lagen för den fotoelektriska effekten. Den är en viktig del av den fysik som solceller bygger på.
+
+**Hur effektiva var de första solcellerna?**
+Fritts selenceller omvandlade mindre än en procent av solljuset till el. Bell Labs kiselceller från 1954 klarade ungefär 6 procent.
+
+## Vill du skriva nästa kapitel själv?
+
+Solceller har gått från laboratoriet till hustaken. Vill du veta vad en anläggning skulle kosta för just ert hus?
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- US DOE, Photovoltaics Overview (1997), om satelliter och rymdprogrammets roll: https://www1.eere.energy.gov/ba/pba/pdfs/pv_overview.pdf
+- NREL/US DOE, The History of Solar (tidslinje): https://www1.eere.energy.gov/solar/pdfs/solar_timeline.pdf
+- Becquerel 1839, Comptes rendus vol. 9 s. 561–567 (bibliografisk post): https://ndlsearch.ndl.go.jp/en/books/R100000136-I1570572699975814144
+- American Physical Society, "April 25, 1954: Bell Labs Demonstrates the First Practical Silicon Solar Cell": https://www.aps.org/apsnews/2009/04/bell-labs-silicon-solar-cell
+- Chapin, Fuller & Pearson, Journal of Applied Physics 25(5), 1954, doi:10.1063/1.1721711: https://doi.org/10.1063/1.1721711
+- IOP Spark, Hertz's photoelectric effect: https://spark.iop.org/hertzs-photoelectric-effect
+- NobelPrize.org, The Nobel Prize in Physics 1921: https://www.nobelprize.org/prizes/physics/1921/summary/
+- NobelPrize.org, Albert Einstein – Facts: https://www.nobelprize.org/prizes/physics/1921/einstein/
+- NASA, Vanguard Satellite, 1958: https://www.nasa.gov/image-article/vanguard-satellite-1958/
+- Energimyndigheten, Det här ingår i en solcellsanläggning (Huvudsta 1984): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Fraunhofer ISE, Photovoltaics Report (14 juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+
+
+---
+
+## Hur fungerar solceller? Enkel förklaring
+
+Källa: https://norsolis.com/sa-fungerar-solceller.html
+
+# Hur fungerar solceller? Från solljus till el i vägguttaget
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Hur fungerar solceller?** Solceller omvandlar solljus till likström när ljuset sätter elektroner i rörelse i halvledarmaterialet. En växelriktare gör om likströmmen till växelström som kan användas i huset. El du inte använder själv matas ut på elnätet och kan säljas till ett elhandelsföretag, eller lagras i ett batteri om du har ett.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Växelriktarens uppgift | Likström till växelström, optimerar effekten | Energimyndigheten | odaterad |
+| Överskottsel | Matas ut på nätet; elhandlaren har mottagningsplikt | Ei (9 kap. 16 § ellagen) | odaterad |
+<!-- /AEO -->
+
+Hur fungerar solceller egentligen? Kortfattat: solcellen omvandlar energin i solljuset till elektrisk energi i form av likström, och en växelriktare gör om likströmmen till växelström som kan användas i bostaden eller matas ut på elnätet. På den här sidan förklarar vi stegen och vilka delar som ingår i en solcellsanläggning, oavsett om den sitter på en villa eller på taket till en bostadsrättsförening.
+
+## Hur blir ljus till el?
+
+En vanlig solcell är gjord av ett halvledarmaterial, i nästan alla fall kisel. Cellen har en så kallad pn-övergång, en gräns mellan två områden där materialet har fått olika tillsatser. Vid gränsen byggs ett elektriskt fält upp. När en foton, en ljuspartikel, träffar cellen kan den ge energi till en elektron. Fältet vid pn-övergången separerar laddningarna, och när cellen kopplas till en krets börjar en ström att flyta. Det är grunden i den teknik som Bell Labs visade upp 1954.
+
+Alla delar av solljuset kan inte användas lika bra. I forskningsartikeln om den första kiselcellen konstaterade Chapin, Fuller och Pearson att ljus med kortare våglängd än cirka 1,2 mikrometer kan skapa elektron-hål-par i kisel, men att verkningsgraden minskar för korta våglängder eftersom överskottsenergin går förlorad. Det är en av anledningarna till att ingen enkel kiselcell kan omvandla allt solljus till el. Mer om det under fliken Teknik.
+
+## Hur blir solceller en solpanel?
+
+En enskild solcell är liten. Därför kopplas många celler i serie och kapslas in bakom skyddande glas eller plast. Resultatet kallas modul eller panel. När du köper solceller köper du alltså moduler, inte enskilda celler. Enligt Fraunhofer ISE består en typisk kiselmodul till största delen av glas (cirka 67 procent av vikten) och en aluminiumram (cirka 13 procent).
+
+## Vilka delar ingår i en solcellsanläggning?
+
+Energimyndigheten beskriver en nätansluten anläggning med följande huvuddelar:
+
+- **Solcellsmoduler** som omvandlar solljus till likström (DC).
+- **Monteringssystem** som fäster modulerna på tak, fasad eller mark.
+- **Växelriktare** som omvandlar likström till växelström (AC), som apparaterna i hemmet använder. Växelriktaren styr också så att solcellerna belastas optimalt och ger mesta möjliga effekt vid olika solinstrålning.
+- **Anslutning till elcentralen**, med säkringar och säkerhetsbrytare på både likströms- och växelströmssidan.
+- **Elmätare** som mäter hur mycket el som köps från nätet och hur mycket som matas ut.
+
+## Vart tar elen vägen när jag inte använder den?
+
+Solelen går i första hand till det som förbrukar el i byggnaden just då. Om anläggningen producerar mer än vad som används för stunden går överskottet ut på elnätet och mäts i elmätaren. Har du ett batteri kan överskottet i stället lagras och användas senare. Boverket påpekar att solel måste användas eller lagras i samma stund som den genereras, och att det är därför de flesta anläggningar är anslutna till elnätet.
+
+Överskottet kan säljas. Enligt ellagen är det elhandelsföretag som levererar el till dig skyldigt att på skäliga villkor ta emot el som matas in från din produktions- eller energilagringsanläggning, om du inte har avtalat med någon annan. Energimarknadsinspektionen (Ei) tolkar det som att ersättningen ska vara marknadsmässig. Läs mer under Ekonomi och stöd.
+
+Om elmätaren inte kan mäta inmatning behöver den bytas. Enligt Energimyndigheten gör elnätsföretaget det kostnadsfritt för säkringsabonnemang upp till 63 ampere (43,5 kW), förutsatt att du på årsbasis köper mer el från nätet än du matar in.
+
+## Hur mycket el blir det?
+
+Produktionen beror på var i Sverige anläggningen finns, lutning, väderstreck, skuggning och modulernas verkningsgrad. Energimyndigheten anger att 1 kW installerad effekt i söderläge, med 30–50 graders lutning och utan skuggning, ger runt 800–1 100 kWh per år. En kilowatt tar ungefär 5–8 kvadratmeter. En anläggning på 5 kW tar då omkring 30 kvadratmeter och ger runt 4 000–5 500 kWh per år i optimalt läge.
+
+## Får man el vid strömavbrott?
+
+Inte med en standardanläggning. Enligt Energimyndigheten kopplar en vanlig nätansluten anläggning ner vid avbrott i elnätet, av säkerhetsskäl. För att få el under ett avbrott krävs batteri, styrelektronik och en brytare mot elnätet, och en växelriktare som klarar så kallad ö-drift. Det ställer andra krav och blir i regel dyrare.
+
+## Vanliga frågor om hur solceller fungerar
+
+**Fungerar solceller när det är molnigt?**
+Produktionen styrs av hur mycket solljus som når panelerna, så den blir lägre en mulen dag än en klar. Energimyndigheten nämner solinstrålning, väder och temperatur som faktorer som varierar mellan olika delar av Sverige.
+
+**Vad gör en växelriktare?**
+Den omvandlar solcellernas likström till växelström och styr belastningen av solcellerna så att de ger så mycket effekt som möjligt.
+
+**Vad händer med elen jag inte använder?**
+Den matas ut på elnätet och kan säljas till ett elhandelsföretag, eller lagras i ett batteri om du har ett.
+
+## Se vad solceller kan ge hos er
+
+Vill du veta hur mycket ert tak kan producera? Be om ett förslag som utgår från era förutsättningar.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Energimyndigheten, Det här ingår i en solcellsanläggning: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndigheten, Välj en anläggning som passar dina behov: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+- Ei, Leveransskyldighet och mottagningsplikt (9 kap. 16 § ellagen): https://ei.se/bransch/ellagens-kundnara-bestammelser/kundnara-bestammelser---elhandelsforetag/leveransskyldighet-och-mottagningsplikt
+- American Physical Society, Bell Labs första kiselsolcell: https://www.aps.org/apsnews/2009/04/bell-labs-silicon-solar-cell
+- Chapin, Fuller & Pearson 1954, doi:10.1063/1.1721711: https://doi.org/10.1063/1.1721711
+- Fraunhofer ISE, Photovoltaics Report (juli 2026), materialsammansättning: https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+
+
+---
+
+## Solceller verkningsgrad – teknik och typer
+
+Källa: https://norsolis.com/solceller-verkningsgrad.html
+
+# Solceller verkningsgrad – vad siffrorna betyder och vilken teknik som finns
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Vilken verkningsgrad har solpaneler i dag?** Enligt Fraunhofer ISE hade kommersiella moduler av kristallint kisel en genomsnittlig verkningsgrad på 22,7 procent under fjärde kvartalet 2024. Hög verkningsgrad är mest värd när takytan är begränsad, så jämför först pris per kW. Energimyndigheten anger en livslängd på cirka 25 år eller mer för moduler och cirka 15 år för växelriktare.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Genomsnittlig verkningsgrad, kiselmoduler | 22,7 % (Q4 2024) | Fraunhofer ISE, Photovoltaics Report | juli 2026 |
+| Livslängd moduler | ca 25 år eller mer | Energimyndigheten | odaterad |
+| Livslängd växelriktare | ca 15 år eller mer | Energimyndigheten | odaterad |
+<!-- /AEO -->
+
+Solceller verkningsgrad är ett av de mest omtalade måtten när man jämför paneler. Verkningsgraden anger hur stor del av solstrålningen som omvandlas till el. Men hög verkningsgrad är inte alltid det viktigaste för en köpare. Här går vi igenom de vanligaste teknikerna, vilka nivåer som gäller i dag och hur du kan tänka när du jämför offerter.
+
+## Vad betyder verkningsgrad?
+
+Energimyndigheten förklarar att en modul med 16–17 procents verkningsgrad omvandlar ungefär en sjättedel av energin i solstrålningen till el, i form av likström. I kablar och växelriktare uppstår förluster, så verkningsgraden för hela systemet blir lägre än för en enskild modul.
+
+## Hur hög är verkningsgraden i dag?
+
+Verkningsgraden har ökat snabbt. Enligt Fraunhofer ISE:s Photovoltaics Report från juli 2026 hade kommersiella moduler av kristallint kisel en genomsnittlig verkningsgrad på 22,7 procent under fjärde kvartalet 2024, viktat efter leveranser. Ett år tidigare var genomsnittet 21,6 procent. Den lägsta modulen i underlaget låg på 18,9 procent och den högsta på 24,8 procent. Fraunhofer skriver också att verkningsgraden för kommersiella monokristallina kiselmoduler har ökat från cirka 17 procent till strax under 25 procent på ett decennium.
+
+Energimyndighetens solelportal anger lägre intervall för olika modultyper, till exempel 15–22 procent för monokristallina moduler. Siffrorna är inte daterade på sidan och bör läsas som en äldre, försiktigare bild av marknaden.
+
+## Vilka typer av solceller finns?
+
+**Monokristallint kisel.** Moduler av enkristallint kisel, oftast svarta. Enligt Fraunhofer ISE stod kiselbaserad teknik för omkring 98 procent av den globala produktionen 2025, och n-typ-tekniken TOPCon har blivit dominerande. Heterojunction (HJT) och TOPCon ersätter den äldre p-typ-tekniken PERC.
+
+**Polykristallint kisel.** Rektangulära celler med blåaktigt skimmer. Energimyndigheten anger verkningsgrader runt 15–17 procent.
+
+**Tunnfilm.** Tunna skikt med låg materialåtgång, till exempel CdTe (kadmiumtellurid) eller CIGS (koppar, indium, gallium, selen). De kan göras böjbara. Enligt Energimyndigheten blir en tunnfilmsanläggning generellt dyrare än en kiselanläggning för samma mängd el, och CdTe-celler innehåller mer av det miljöfarliga ämnet kadmium än CIGS-celler.
+
+**Takintegrerade solceller.** Solceller som ersätter takmaterialet. Energimyndigheten skriver att många uppskattar utseendet, men att lösningarna fortfarande är dyrare än vanliga moduler.
+
+**PVT (hybrid).** Paneler som ger både el och värme, vilket kan vara intressant där platsen är begränsad.
+
+## Rekord i laboratoriet
+
+Laboratorierekord visar vart tekniken kan gå. Fraunhofer ISE redovisar, med hänvisning till Solar Cell Efficiency Tables version 68 (maj 2026), följande rekord för celler:
+
+- monokristallint kisel: 28,1 procent
+- perovskit: 26,9 procent
+- tandem perovskit på kisel: 35,2 procent
+- CIGS: 23,4 procent och CdTe: 21,0 procent
+- multijunction-celler under koncentrerat ljus: 47,6 procent.
+
+Den bästa modulen i laboratoriet, av monokristallint kisel, nådde 26,0 procent. Rekorden gäller små forskningsceller och ska inte jämföras rakt av med paneler på ett tak. Mer om perovskit och tandemceller finns under fliken Framtiden.
+
+## Är högst verkningsgrad alltid bäst?
+
+Inte nödvändigtvis. Energimyndigheten rekommenderar att du jämför offerter utifrån pris per installerad effekt (kr/kW). Verkningsgraden är redan "inbakad" i kostnaden per kW. Om du har ont om takyta och vill få in så mycket effekt som möjligt kan hög verkningsgrad däremot vara värd att betala för. Det kan till exempel gälla ett flerbostadshus med mycket installationer på taket.
+
+## Hur länge håller solpaneler och vilka garantier finns?
+
+Energimyndigheten listar minimivärden som utrustningen inte bör understiga:
+
+- **Solcellsmoduler:** produktgaranti minst 10 år, produktionsgaranti minst 15 år, effekt efter 20 år minst 80 procent av märkeffekten och en livslängd på cirka 25 år eller mer.
+- **Växelriktare:** produktgaranti minst 5 år, verkningsgrad minst 90 procent och en livslängd på cirka 15 år eller mer.
+
+Modulerna bör vara certifierade enligt standarderna IEC 61215 och IEC 61730, och det är krav att de är CE-märkta för att få säljas i EU. Boverket anger att en solelanläggning har en livslängd på 25–30 år och att taket därför bör hålla minst lika länge.
+
+## Vanliga frågor om verkningsgrad
+
+**Vilken verkningsgrad har solpaneler i dag?**
+Enligt Fraunhofer ISE var genomsnittet för kommersiella kiselmoduler 22,7 procent under fjärde kvartalet 2024.
+
+**Ska jag välja panelen med högst verkningsgrad?**
+Jämför först pris per kW. Hög verkningsgrad är mest värd när takytan är begränsad.
+
+**Hur länge håller solpaneler?**
+Energimyndigheten anger cirka 25 år eller mer för moduler och cirka 15 år eller mer för växelriktare.
+
+## Rätt teknik för rätt tak
+
+Vilken teknik som passar beror på taket, budgeten och elbehovet. Låt en installatör ge ett förslag.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Fraunhofer ISE, Photovoltaics Report (14 juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+- Energimyndigheten, Det här ingår i en solcellsanläggning: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+
+
+---
+
+## Solceller i Sverige – statistik och utveckling
+
+Källa: https://norsolis.com/solceller-i-sverige.html
+
+# Solceller i Sverige – så har solkraften vuxit
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Hur många solcellsanläggningar finns det i Sverige?** Vid slutet av 2025 fanns 314 579 nätanslutna solcellsanläggningar i Sverige enligt Energimyndigheten. Flest tillkom under 2023, drygt 100 000 anläggningar. Svensk Solenergi anger att solcellerna gav ungefär 5 TWh år 2025, vilket motsvarar 3,7 procent av elanvändningen. Den äldsta anläggningen sitter på ett flerbostadshus i Huvudsta från 1984.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Nätanslutna anläggningar | 314 579 (slutet av 2025) | Energimyndigheten | 2026-04-07 |
+| Solel 2025 | ca 5 TWh, 3,7 % av elanvändningen | Svensk Solenergi | 2026 |
+| Rekordår för nya anläggningar | 2023, drygt 100 000 | Energimyndigheten | 2026-04-07 |
+<!-- /AEO -->
+
+Solceller i Sverige var länge en nisch. I dag är solkraft en tydlig del av elsystemet. Vid slutet av 2025 fanns 314 579 nätanslutna solcellsanläggningar med en sammanlagd installerad effekt på 5 541 MW, enligt Energimyndighetens officiella statistik. Här beskriver vi hur utvecklingen har sett ut, vilka styrmedel som har påverkat den och var marknaden står hösten 2026.
+
+## Början: ett flerbostadshus i Huvudsta
+
+Sveriges äldsta solcellsanläggning sitter enligt Energimyndigheten på ett flerbostadshus i Huvudsta i Stockholm och är från 1984. Den producerar fortfarande el, och växelriktarna har bytts ut mot effektivare modeller.
+
+## Vilka stöd har funnits för solceller i Sverige?
+
+Flera styrmedel har påverkat hur många som har investerat:
+
+- **Investeringsstöd för solceller.** Energimyndighetens stöd enligt förordning (2009:689) stängdes för nya ansökningar den 8 juli 2020.
+- **Skattereduktion för mikroproduktion av förnybar el.** Den infördes den 1 januari 2015 och gav 60 öre per kWh som matades in på nätet, högst 30 000 kWh och därmed högst 18 000 kronor per år. Den slopades från och med den 1 januari 2026.
+- **Skattereduktion för grön teknik**, det så kallade gröna avdraget. Det infördes den 1 januari 2021 och gäller privatpersoner. För solceller är nivån sedan den 1 juli 2025 15 procent av kostnaden för arbete och material, efter att tidigare ha varit 20 procent.
+
+Läs mer om reglerna som gäller i dag under fliken Ekonomi och stöd.
+
+## Hur har solcellerna vuxit i Sverige?
+
+Energimyndigheten publicerar officiell statistik över nätanslutna solcellsanläggningar från och med 2016. Siffrorna nedan är det sammanlagda antalet anläggningar och den totala installerade effekten vid slutet av varje år, enligt statistikdatabasen (tabell EN0123_1, hämtad 7 oktober 2026).
+
+| År | Antal anläggningar | Installerad effekt (MW) |
+|---|---|---|
+| 2016 | 10 006 | 140 |
+| 2018 | 25 486 | 411 |
+| 2020 | 65 819 | 1 089 |
+| 2022 | 147 690 | 2 375 |
+| 2023 | 251 626 | 3 961 |
+| 2024 | 293 019 | 4 808 |
+| 2025 | 314 579 | 5 541 |
+
+Utbyggnaden var som störst 2023, när antalet anläggningar ökade med drygt 100 000 på ett år. Därefter har takten sjunkit. Enligt Svensk Solenergi, som hänvisar till Energimyndighetens helårsstatistik, anslöts 21 500 anläggningar under 2025. Solkraften motsvarade då ungefär 5 TWh el, eller 3,7 procent av Sveriges elanvändning 2025 (136 TWh).
+
+## Små anläggningar dominerar i antal, stora växer i effekt
+
+Nästan alla anläggningar är små. Vid slutet av 2025 hade 283 696 anläggningar en effekt under 20 kW, alltså typiska villaanläggningar. 30 705 anläggningar låg mellan 20 kW och 1 000 kW, det spann där många bostadsrättsföreningar, fastighetsbolag och lantbruk finns. Endast 178 anläggningar var större än 1 MW.
+
+Under 2025 förändrades bilden. Enligt Svensk Solenergi minskade den nyinstallerade effekten för villor med 43 procent och för kommersiella anläggningar med 34 procent jämfört med 2024. Den storskaliga solkraften ökade samtidigt med 128 procent. Mellansegmentet, där bostadsrättsföreningarna finns, stod vid årsskiftet för omkring en tredjedel av den installerade effekten.
+
+## Batterierna kommer starkt
+
+Samtidigt växer intresset för batterier. Svensk Solenergi skriver att i princip samtliga solcellsinstallatörer i dag erbjuder batterilösningar och att en majoritet av anläggningarna installeras som hybridanläggningar. Enligt Skatteverkets preliminära siffror fick cirka 75 000 privatpersoner grönt avdrag för batteriinstallationer under 2025, en ökning med 34 procent från året innan.
+
+## Vilka nya regler är på väg?
+
+Två förändringar påverkar framtiden. Den 1 januari 2027 börjar den nya elmarknadslagen (2026:1281) gälla. Den gör det möjligt att dela förnybar el mellan anläggningar inom samma elområde, så kallad energidelning. Samtidigt har Energimarknadsinspektionen upphävt kravet på att elnätsavgifterna skulle innehålla en effektavgift från 2027. En ny modell ska föreslås senast i april 2027. Båda frågorna beskrivs närmare under flikarna BRF och Batterier.
+
+## Sverige i världen
+
+Den globalt installerade solcellseffekten var 2 974 GW vid slutet av 2025, enligt Fraunhofer ISE. Kina stod för 51 procent och Europa för 17 procent. Sveriges 5,5 GW är alltså en liten del, men tillväxten har varit snabb för ett land på våra breddgrader.
+
+## Vanliga frågor om solceller i Sverige
+
+**Hur många solcellsanläggningar finns det i Sverige?**
+Vid slutet av 2025 fanns 314 579 nätanslutna anläggningar enligt Energimyndigheten.
+
+**Hur stor del av elen kommer från solceller?**
+Svensk Solenergi anger ungefär 5 TWh, eller 3,7 procent av elanvändningen 2025.
+
+**När installerades flest solceller?**
+Under 2023, då det tillkom drygt 100 000 anläggningar enligt Energimyndighetens statistik.
+
+## Bli en del av statistiken
+
+Funderar ni på att bli nästa anläggning i statistiken? Börja med ett konkret förslag.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Energimyndigheten, Nätanslutna solcellsanläggningar (statistik, publicerad 2026-04-07): https://www.energimyndigheten.se/statistik/officiell-energistatistik/tillforsel-och-anvandning/natanslutna-solcellsanlaggningar/
+- Energimyndighetens statistikdatabas, tabell EN0123_1: https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Natanslutna_solcellsanlaggningar/EN0123_1.px/
+- Svensk Solenergi, Kraftig uppgång för storskalig solkraft (7 april 2026): https://svensksolenergi.se/kraftig-uppgang-for-storskalig-solkraft/
+- Svensk Solenergi, Solstatistik 2025 (28 januari 2026): https://svensksolenergi.se/solstatistik-2025/
+- Energimyndigheten, Det här ingår i en solcellsanläggning: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndigheten, Stöd vid investering: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vilka-stod-och-intakter-kan-jag-fa/stod-vid-investering/
+- Riksdagen, SkU15 (om införandet 2015): https://data.riksdagen.se/dokument/H901SkU15.html
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad: https://www.skatteverket.se/privat/fastigheterochbostad/mikroproduktionavfornybarel.4.12815e4f14a62bc048f41a7.html
+- Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
+- Riksdagen, beslut 15 maj 2025 (SkU17): https://www.riksdagen.se/sv/webb-tv/video/beslut/beslut-forandrade-skattesubventioner-for_hcc320250515sku17/
+- Ei, Energidelning – frågor och svar: https://ei.se/bransch/ellagens-kundnara-bestammelser/energidelning---fragor-och-svar
+- Ei, Ei upphäver föreskrifterna om utformning av nättariffer (17 juni 2026): https://ei.se/om-oss/nyheter/2026/2026-06-17-ei-upphaver-foreskrifterna-om-utformning-av-nattariffer
+- Fraunhofer ISE, Photovoltaics Report (juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+
+
+---
+
+## Solceller BRF – delningsmodeller och ekonomi
+
+Källa: https://norsolis.com/solceller-brf.html
+
+# Solceller BRF – så kan föreningen använda och dela solelen
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-09
+
+> **Kort svar: Kan en bostadsrättsförening installera och dela solel?** Ja. En BRF kan använda solelen till fastighetselen, dela den med lägenheterna via gemensam mätning och individuell debitering, via ett internt nät enligt IKN-förordningen eller via energidelning från den 1 januari 2027 (enligt Ei återstår praktiska förutsättningar innan det fungerar). Grönt avdrag gäller däremot inte föreningen. Om stämman måste besluta beror på investeringens storlek och stadgarna.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Grönt avdrag för BRF | Nej, gäller privatpersoner | Skatteverket | odaterad |
+| Energidelning | Från 1 januari 2027 | Ei | odaterad |
+| Beslutsregler | 9 kap. 15–16 §§ bostadsrättslagen | Energimyndigheten | odaterad |
+<!-- /AEO -->
+
+Solceller i en BRF skiljer sig på flera sätt från solceller på en villa. Bostadsrättsföreningen är en juridisk person, beslut fattas enligt stadgar och lag, och frågan om vem som får använda elen avgör mycket av ekonomin. Här går vi igenom de vanligaste modellerna för att använda och dela solelen, vad det kan kosta och vilka skatte- och momsregler som gäller för föreningen hösten 2026.
+
+## Vem i föreningen beslutar om solceller?
+
+Enligt Energimyndigheten ska beslut om att installera solceller, och informationen före och efter beslutet, fattas enligt de regler som styr bostadsrättsföreningar vid större ekonomiska investeringar. Det regleras i 9 kap. 15 och 16 §§ bostadsrättslagen. Hur styrelsen bör informera medlemmarna beror på om åtgärden bedöms som en stämmofråga eller en styrelsefråga. Kontrollera även föreningens egna stadgar.
+
+Energimyndighetens beställarnätverk för flerbostadshus, BeBo, har tagit fram beslutsguider och kravspecifikationer för upphandling av solcellsanläggningar i flerbostadshus. De är ett bra stöd för en styrelse som inte har gjort en sådan upphandling tidigare.
+
+## Modell 1: solelen går till fastighetselen
+
+Den enklaste modellen är att solcellerna kopplas till föreningens egen anslutning och används för fastighetselen: belysning i trapphus, hissar, tvättstuga, fläktar och liknande. Ju mer el föreningen förbrukar när solen lyser, desto mer av solelen kan användas direkt. Överskottet säljs till ett elhandelsföretag. Enligt ellagen är föreningens elhandelsföretag skyldigt att ta emot inmatad el på skäliga villkor, vilket Ei tolkar som marknadsmässig ersättning.
+
+## Modell 2: gemensam mätning och individuell debitering
+
+I en del föreningar köper föreningen all el via en gemensam anslutning och debiterar sedan medlemmarna för deras faktiska förbrukning, så kallad individuell mätning och debitering (IMD). Då kan solelen komma både fastigheten och lägenheterna till nytta. Skatteverket påpekar att föreningen då ska lägga moms på fakturan till medlemmarna, även på fasta delar som nätavgift och energiskatt.
+
+## Modell 3: dela solel mellan huskroppar via internt nät
+
+Har föreningen flera byggnader kan ett internt lågspänningsnät vara undantaget från kravet på nätkoncession. Enligt Ei gäller undantaget i 22 c § IKN-förordningen ett markförlagt internt lågspänningsnät för el från en produktions- eller lagringsanläggning som är direkt ansluten till nätet. Inom föreningens egen fastighet räcker det med en anslutning till det överliggande nätet. Mellan olika fastigheter måste varje byggnad ha en egen anslutning till det koncessionspliktiga nätet. Bedömningen görs i det enskilda fallet, så stäm av med elnätsföretaget och vid behov med Ei.
+
+## Modell 4: energidelning från den 1 januari 2027
+
+Den nya elmarknadslagen (2026:1281) börjar gälla den 1 januari 2027. Enligt Ei gör den det möjligt att dela förnybar el mellan olika inmatnings- och uttagspunkter inom samma elområde, även med olika elnätsföretag och elhandelsföretag. Elhandelsföretaget drar av den delade elen från mottagarens uppmätta förbrukning. Energiskatt och elnätsavgift påverkas inte av delningen. Parterna behöver inte bilda en energigemenskap, och den som delar får ta betalt. Ei skriver samtidigt att mycket återstår innan energidelning fungerar i praktiken. Bland annat ska förordningar och föreskrifter tas fram, och avgifterna sätts av marknaden.
+
+## Modell 5: köpa solel som tjänst
+
+Föreningen behöver inte äga anläggningen. Energimyndigheten beskriver PPA-avtal, där föreningen betalar per levererad kWh medan leverantören bygger och driver anläggningen, och olika hyreslösningar.
+
+## Vad kostar solceller för en BRF?
+
+Energimyndigheten anger genomsnittspriser som är lägre per watt ju större anläggningen är. En anläggning på 15 kW kostar i genomsnitt cirka 180 000 kronor exklusive moms (225 000 kronor inklusive moms), och en anläggning på 100 kW cirka 1 100 000 kronor exklusive moms. Priserna är inte daterade på sidan. Begär därför alltid aktuella offerter.
+
+## Vilka stöd, skatter och momsregler gäller för en BRF?
+
+- **Inget grönt avdrag.** Energimyndigheten skriver att det bara är privatpersoner som kan få stöd vid installation av solceller. Skatteverket anger att solceller på ett gemensamt tak som används av flera hushåll inte ger rätt till skattereduktion för grön teknik.
+- **Ingen 60-öring längre.** Skattereduktionen för mikroproduktion slopades den 1 januari 2026.
+- **Energiskatt.** Enligt Skatteverket betalar du normalt ingen energiskatt på solel om anläggningen har under 500 kW installerad toppeffekt och du inte förfogar över flera anläggningar som sammanlagt har 500 kW eller mer ([Skatteverket, Skatt på el](https://skatteverket.se/foretag/skatterochavdrag/punktskatter/energiskatter/skattpael.4.15532c7b1442f256bae5e4c.html)). Solceller på sammanbyggda huskroppar kan räknas som en enda anläggning även med flera abonnemang, enligt Skatterättsnämndens förhandsbesked 2023-05-31 (fastställt i HFD 2023 ref. 52). Stäm av med Skatteverket om föreningen har flera anläggningar.
+- **Moms på investeringen.** Föreningen kan dra av momsen för den andel av solelen som säljs i momspliktig verksamhet, till exempel till ett elhandelsföretag eller till medlemmar via IMD. För solel som går till momsfri verksamhet får momsen inte dras av. Skatteverket har ett räkneexempel på sin webbplats.
+- **Momsbefrielse.** En förening med en årsomsättning på högst 120 000 kronor kan bli befriad från moms. Skatteverket anger att även årsavgifter och hyror räknas in i omsättningen.
+
+## Behöver föreningen bygglov?
+
+Ofta kan det behövas, beroende på läge och storlek. Enligt plan- och bygglagen (PBL) krävs bygglov för en fasadändring på ett flerbostadshus inom detaljplan, om ändringen görs på en fasad eller ett tak som vetter mot en allmän plats, som en gata, ett torg eller en park (9 kap. 15 §). Solceller räknas som en fasadändring. Undantaget från bygglov gäller bara solenergianläggningar på högst 11 kW (9 kap. 17 a §). En större anläggning på en takyta som vetter mot allmän plats kan alltså kräva bygglov.
+
+Undantaget gäller inte heller där det finns utökad lovplikt, till exempel i eller nära områden av riksintresse för totalförsvaret, vid särskilt värdefulla byggnader eller om detaljplanen kräver lov (9 kap. 36–37 §§). Uppgifter på andra webbplatser om att bygglov "oftast" inte behövs kan vara skrivna före lagändringen. Kontakta kommunens byggnadskontor tidigt, gärna innan frågan tas upp på stämman.
+
+## Blir effektavgifter obligatoriska 2027?
+
+Ei har upphävt kravet på att alla elnätsavgifter skulle innehålla en effektavgift från 2027. Elnätsföretag får fortfarande använda effektavgifter, och en ny modell ska föreslås senast den 12 april 2027. Kontrollera vad som gäller hos ert elnätsföretag.
+
+## Vanliga frågor om solceller för BRF
+
+**Kan en BRF få grönt avdrag för solceller?**
+Nej. Skattereduktionen för grön teknik gäller privatpersoner, och installationer på gemensamt tak som används av flera hushåll är inte godkända.
+
+**Får föreningen dela solel med lägenheterna?**
+Ja, till exempel via gemensam mätning med IMD, via ett internt nät enligt IKN-förordningen eller via energidelning från den 1 januari 2027, när de praktiska förutsättningarna är på plats enligt Ei. Reglerna skiljer sig åt mellan modellerna.
+
+**Behöver föreningen bygglov för solceller?**
+Det kan behövas. Inom detaljplan krävs bygglov för solceller på fasad eller tak som vetter mot allmän plats, om anläggningen är större än 11 kW. Utökad lovplikt kan gälla oavsett storlek. Fråga kommunens byggnadskontor.
+
+**Måste stämman besluta om solceller?**
+Det beror på investeringens storlek och föreningens stadgar. Bestämmelserna finns i 9 kap. 15 och 16 §§ bostadsrättslagen.
+
+## Få ett underlag till styrelsen
+
+Ett konkret förslag med dimensionering, delningsmodell och kalkyl gör det enklare att ta frågan till styrelsen eller stämman.
+**[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Boverket, PBL kunskapsbanken – Fasadändring (PBL 9 kap. 15 §, 17 a §, 36–37 §§; senast ändrad 1 juli 2026, läst 2026-10-09): https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/fasadandring/
+- Energimyndigheten, Välj en anläggning som passar dina behov (priser, BRF-beslut, PPA): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
+- Energimyndigheten, Stöd vid investering: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vilka-stod-och-intakter-kan-jag-fa/stod-vid-investering/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (BeBo): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Skatteverket, Godkända arbeten – grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
+- Skatteverket, Moms i en bostadsrättsförening eller ekonomisk förening: https://www.skatteverket.se/foreningar/driva/ekonomiskforeningellerbostadsrattsforening/momsienbostadsrattsforeningellerekonomiskforening.4.6e8a1495181dad5408496b.html
+- Skatteverket, Mikroproduktion av förnybar el – näringsfastighet: https://www.skatteverket.se/foretag/skatterochavdrag/fastighet/mikroproduktionavfornybarelnaringsfastighet.4.309a41aa1672ad0c837b4e8.html
+- Ei, Mikroproduktion av el: https://ei.se/konsument/el/mikroproduktion-av-el
+- Ei, Leveransskyldighet och mottagningsplikt: https://ei.se/bransch/ellagens-kundnara-bestammelser/kundnara-bestammelser---elhandelsforetag/leveransskyldighet-och-mottagningsplikt
+- Ei, Undantagen i IKN-förordningen: https://ei.se/bransch/undantag-fran-kravet-pa-natkoncession-ikn/undantagen-i-ikn-forordningen
+- Ei, Energidelning – frågor och svar: https://ei.se/bransch/ellagens-kundnara-bestammelser/energidelning---fragor-och-svar
+- Ei, Ei upphäver föreskrifterna om utformning av nättariffer: https://ei.se/om-oss/nyheter/2026/2026-06-17-ei-upphaver-foreskrifterna-om-utformning-av-nattariffer
+- Riksdagen, Elmarknadslag (2026:1281): https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/elmarknadslag-20261281_sfs-2026-1281/
+
+
+---
+
+## Solceller på villa – storlek, pris och steg
+
+Källa: https://norsolis.com/solceller-villa.html
+
+# Solceller på villa – från tak och storlek till färdig anläggning
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-09
+
+> **Kort svar: Hur stor solcellsanläggning behöver en villa och vad kostar den?** Det beror på takyta och elanvändning, men Energimyndigheten använder 5 kW som exempel på en rimlig storlek för en vanlig villa. En sådan anläggning kostar ungefär 92 500 kronor inklusive moms före grönt avdrag. Elinstallationen måste göras av ett registrerat elinstallationsföretag. Begär alltid aktuella offerter eftersom priserna varierar.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Typstorlek villa | 5 kW | Energimyndigheten | odaterad |
+| Ungefärligt pris 5 kW | ca 92 500 kr inkl. moms, före avdrag | Energimyndigheten | odaterad |
+| Vem får installera | Registrerat elinstallationsföretag | Elsäkerhetsverket | odaterad |
+<!-- /AEO -->
+
+Solceller på villa är den vanligaste typen av solcellsanläggning i Sverige. Enligt Energimyndighetens statistik hade 283 696 av landets 314 579 nätanslutna anläggningar en effekt under 20 kW vid slutet av 2025. Här beskriver vi hur du tar reda på om ditt hus passar, hur stor anläggningen bör vara, vad den kan kosta och vilka steg som gäller från offert till drift.
+
+## Passar mitt tak?
+
+Hur mycket en anläggning producerar beror enligt Energimyndigheten på solinstrålningen där du bor, lutning, väderstreck, skuggning och verkningsgrad. Ett söderläge med 30–50 graders lutning utan skuggning ger bäst förutsättningar. Andra riktningar och delvis skuggade tak ger i regel mindre.
+
+Kontrollera också själva taket. Boverket anger att en solelanläggning har en livslängd på 25–30 år och att taket bör hålla minst lika länge. Annars är det klokt att renovera taket i samband med installationen. Boverket rekommenderar även att du utreder om takkonstruktionen klarar den ökade vikten, hur fukt påverkas och hur brandskyddet och räddningstjänstens säkerhet kan främjas.
+
+## Hur stor anläggning behöver jag?
+
+Energimyndighetens tumregler:
+
+- 1 kW installerad effekt tar ungefär 5–8 kvadratmeter.
+- 1 kW ger runt 800–1 100 kWh per år i optimalt läge.
+- En anläggning på 5 kW tar omkring 30 kvadratmeter och ger runt 4 000–5 500 kWh per år i optimalt läge.
+
+Storleken bör utgå både från takytan och från hur mycket el du använder över året. Boverket påpekar att lönsamheten beror på hur mycket av elen du använder själv, eftersom det kostar mer att köpa el än du får när du säljer el. Att använda solelen direkt, till exempel för att ladda elbilen eller köra värmepumpen på dagen, gör därför ofta mer nytta än att sälja den.
+
+## Vad kostar solceller till en villa?
+
+Energimyndigheten anger att en anläggning på 5 kW, vilket är rimligt för en vanlig villa, kostar ungefär 92 500 kronor inklusive moms. Med grönt avdrag kan kostnaden för installationen sänkas med 15 procent. Energimyndigheten redovisar också, med IEA PVPS som källa, att priset för ett villasystem 2024 var 14,7 kronor per watt exklusive moms och att kostnaden justerat för inflation är den lägsta hittills.
+
+Priset påverkas av storlek, leverantör, typ av solceller och hur komplicerad installationen är. Ta in flera offerter. Energimyndigheten rekommenderar minst tre.
+
+## Hur mycket grönt avdrag får en villaägare?
+
+Skattereduktionen för grön teknik ger 15 procent av kostnaden för arbete och material för ett nätanslutet solcellssystem, och 50 procent för batterilager och laddbox. Avdraget dras direkt på fakturan. Taket är 50 000 kronor per person och år. Vid fast pris räknas 97 procent av totalpriset som arbete och material. Detaljerna finns under fliken Ekonomi och stöd. Vill du se vad det kan betyda för ditt hus kan du räkna med egna siffror i [solcellskalkylen](/solcellskalkyl). Resultatet visas direkt, utan kontaktuppgifter.
+
+## Behöver jag bygglov?
+
+Oftast inte, men det beror på var huset ligger. Enligt plan- och bygglagen (PBL) krävs bygglov för fasadändring, till exempel solceller på taket, bara på andra byggnader än en- och tvåbostadshus. För dem finns dessutom ett undantag för solenergianläggningar på högst 11 kW (9 kap. 15 § och 17 a §). Det betyder att en villa normalt inte behöver bygglov för solceller.
+
+Det finns viktiga undantag. Bygglov krävs ändå, oavsett anläggningens storlek, om
+
+- huset ligger inom detaljplan i eller nära ett område av riksintresse för totalförsvaret (9 kap. 36 §)
+- huset eller området är särskilt värdefullt, eller omfattas av skyddsbestämmelser i detaljplan eller områdesbestämmelser (9 kap. 37 §)
+- detaljplanen eller områdesbestämmelserna kräver lov.
+
+En åtgärd utan bygglov får inte heller strida mot detaljplanen, och PBL:s krav på varsamhet och god utformning gäller ändå. Fråga kommunens byggnadskontor innan du beställer, och klargör i offerten vem som tar hand om ett eventuellt bygglov.
+
+## Hur går en installation till steg för steg?
+
+1. **Kartlägg elanvändning och tak.** Notera årsförbrukningen och takets skick, riktning och lutning.
+2. **Begär offerter.** Jämför pris per kW och se till att fabrikat och modell för paneler, växelriktare och montagesystem står med.
+3. **Kontrollera företaget.** Elinstallationen ska göras av ett företag som är registrerat hos Elsäkerhetsverket för verksamhetstypen elproduktionsanläggningar.
+4. **Anmälan till elnätsföretaget.** Boverket anger att du ska lämna en slutanmälan till elnätsbolaget när anläggningen är klar och att du inte får starta den förrän du har fått slutgodkännande.
+5. **Kontroll och besiktning.** Elsäkerhetsverket rekommenderar att du begär att kontrollen före drifttagning dokumenteras. Boverket och Energimyndigheten rekommenderar en oberoende besiktning.
+6. **Sälj överskottet.** Teckna ett avtal för såld el och jämför både köp- och säljpris.
+
+## Vad gäller för elmätare och nät?
+
+Om din elmätare inte kan mäta inmatning byter elnätsföretaget den kostnadsfritt för säkringsabonnemang upp till 63 ampere (43,5 kW), förutsatt att du på årsbasis köper mer el än du matar in. Det skriver Energimyndigheten. Ei anger att elnätsföretaget är skyldigt att ansluta din anläggning och inte kan neka anslutning till ett befintligt säkringsabonnemang. Ei har dock gjort bedömningen att alla som äger en produktionsanläggning ska betala en inmatningsavgift som speglar de faktiska kostnaderna.
+
+## Vanliga frågor om solceller på villa
+
+**Hur stor solcellsanläggning behöver en villa?**
+Det beror på takyta och elanvändning. Energimyndigheten använder 5 kW som exempel på en rimlig storlek för en vanlig villa.
+
+**Vad kostar solceller till en villa?**
+Energimyndigheten anger ungefär 92 500 kronor inklusive moms för 5 kW, före grönt avdrag. Aktuella offerter kan skilja sig.
+
+**Kan jag installera solceller själv?**
+Elinstallationsarbetet, både på likströms- och växelströmssidan, måste göras av ett registrerat elinstallationsföretag enligt Elsäkerhetsverket.
+
+## Se vad ditt tak kan ge
+
+Få ett förslag på dimensionering och pris för just ditt hus.
+**[Offert för villa](/offert-villa)**
+
+
+
+## Källor
+- Boverket, PBL kunskapsbanken – Fasadändring (PBL 9 kap. 15 §, 17 a §, 36–37 §§; senast ändrad 1 juli 2026, läst 2026-10-09): https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/fasadandring/
+- Energimyndigheten, Välj en anläggning som passar dina behov: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (pris 2024, tre offerter): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Energimyndigheten, Det här ingår i en solcellsanläggning (elmätare): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndighetens statistikdatabas, EN0123_1: https://pxexternal.energimyndigheten.se/pxweb/sv/Energimyndighetens_statistikdatabas/Energimyndighetens_statistikdatabas__Officiell_energistatistik__Natanslutna_solcellsanlaggningar/EN0123_1.px/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+- Skatteverket, Så fungerar skattereduktionen för grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
+- Elsäkerhetsverket, Installera din solcellsanläggning: https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
+- Ei, Mikroproduktion av el: https://ei.se/konsument/el/mikroproduktion-av-el
+
+
+---
+
+## Solcellsbatteri – lagra solel och få avdrag
+
+Källa: https://norsolis.com/solcellsbatteri.html
+
+# Solcellsbatteri – så fungerar energilagring med solceller
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Lönar sig ett solcellsbatteri och vilket avdrag finns?** Det beror på din elanvändning, elnätsföretagets avgifter och vad du kan få för stödtjänster, så vi anger ingen generell återbetalningstid. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år. Stödtjänster till Svenska kraftnät säljs bara via en BSP eller underleverantör.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Grönt avdrag batteri | 50 % av arbete och material | Skatteverket | odaterad |
+| Tak för avdraget | 50 000 kr per person och år | Skatteverket | odaterad |
+| Stödtjänster | Endast via BSP | Svenska kraftnät | odaterad |
+<!-- /AEO -->
+
+Ett solcellsbatteri lagrar el som solcellerna producerar men som inte används just då, så att den kan användas senare. Batterier har på kort tid blivit en självklar del av många solcellsaffärer. Enligt Svensk Solenergi erbjuder i princip alla solcellsinstallatörer i dag batterilösningar, och en majoritet av anläggningarna installeras som hybridanläggningar med både solceller och batteri. Här går vi igenom vad ett batteri kan göra, vad det finns för stöd och vad du bör tänka på.
+
+## Vad kan ett solcellsbatteri användas till?
+
+Elsäkerhetsverket sammanfattar nyttan med ett energilager så här: du kan i högre grad använda den el du själv producerar i stället för att sälja den, du kan begränsa dina effekttoppar och du kan sälja nättjänster.
+
+**1. Använda mer av den egna solelen.** Boverket påpekar att det kostar mer att köpa el än du får när du säljer el. Varje kWh du lagrar och använder själv kan därför vara mer värd än en såld kWh. Boverket anger att ett batteri, beroende på storlek, snarare räcker för resten av det kommande dygnet eller möjligen veckan än för längre perioder.
+
+**2. Kapa effekttoppar.** Om ditt elnätsföretag tar betalt efter hur hög effekt du tar ut kan ett batteri jämna ut topparna. Observera att Ei i juni 2026 upphävde kravet på att alla elnätsföretag skulle ha effektavgift från 2027. Elnätsföretag får fortfarande ha effektavgifter, och en ny modell ska föreslås senast den 12 april 2027. Hur mycket det här är värt beror alltså på ditt elnätsföretag.
+
+**3. Stödtjänster till elsystemet.** Svenska kraftnät köper stödtjänster för att hålla balansen i elsystemet i realtid, till exempel frekvenshållningsreserverna FCR-N, FCR-D upp och FCR-D ned. Privatpersoner kan inte sälja direkt till Svenska kraftnät. I stället tecknar du avtal med ett företag som är leverantör av balanstjänster (BSP) eller underleverantör till en sådan. Företaget samlar ihop många batterier och lägger bud. Priset fastställs per kvart och ersättningen till dig bestäms av ditt avtal med företaget.
+
+> Svenska kraftnät varnar för att privatpersoner har fått felaktig information om att myndigheten står bakom erbjudanden om stödtjänster. Svenska kraftnät söker inte upp hushåll och betalar inte ersättning direkt till privatpersoner.
+
+## Hur stort är grönt avdrag för ett batteri?
+
+Skattereduktionen för grön teknik ger 50 procent av kostnaden för arbete och material vid installation av system för lagring av egenproducerad el, inom taket på 50 000 kronor per person och år. Enligt Skatteverket gäller bland annat följande:
+
+- Batteriet ska vara kopplat till en nätansluten anläggning för egen produktion av förnybar el.
+- Batterierna ska helt eller delvis användas för att lagra egenproducerad el för senare användning, och systemet ska öka andelen egen el som används i hushållet.
+- Lagringssystem som används av flera hushåll ger inte rätt till avdrag. Det gör inte heller batterier utan egen elproduktion.
+
+Intresset är stort. Enligt Skatteverkets preliminära siffror, som Svensk Solenergi redovisar, fick cirka 75 000 privatpersoner grönt avdrag för batterier under 2025. Det är en ökning med 34 procent jämfört med 2024.
+
+## Fungerar batteriet som reservkraft vid strömavbrott?
+
+Ett batteri ger inte automatiskt el vid strömavbrott. Energimyndigheten förklarar att det krävs batteri, styrelektronik, en brytare mot elnätet och en växelriktare som klarar ö-drift. Lösningen ställer andra krav och blir i regel dyrare. Myndigheten konstaterar också att reservkraft med solceller och batteri i regel har sämre uthållighet över tid än till exempel ett reservaggregat. Är reservkraft viktigt för dig ska det framgå tydligt i offerten.
+
+## Passar batterier för bostadsrättsföreningar?
+
+En BRF kan också installera batterier, men grönt avdrag gäller inte för föreningen. För föreningen handlar kalkylen om att använda mer solel i fastigheten, om eventuella effektavgifter hos elnätsföretaget och om möjligheten att delta på marknader för stödtjänster via en aggregator. Ei beskriver hur en aggregator köper el och flexibilitet från flera mindre producenter och säljer den vidare till Svenska kraftnät eller på lokala flexmarknader.
+
+## Vad gäller för säkerhet och installation?
+
+Ett batteri är en del av elanläggningen. Elinstallationen ska göras av ett elinstallationsföretag som är registrerat hos Elsäkerhetsverket. Elsäkerhetsverket har särskilda råd om planering, installation och underhåll av energilager.
+
+## Vanliga frågor om solcellsbatterier
+
+**Lönar sig ett solcellsbatteri?**
+Det beror på din elanvändning, ditt elnätsföretags avgifter och vad du kan få för stödtjänster. Vi anger ingen generell återbetalningstid eftersom den beror helt på förutsättningarna.
+
+**Hur stort avdrag får man för ett batteri?**
+50 procent av kostnaden för arbete och material, inom taket på 50 000 kronor per person och år.
+
+**Kan jag sälja stödtjänster själv till Svenska kraftnät?**
+Nej. Det går bara via ett företag som är BSP eller underleverantör till en BSP.
+
+## Komplettera med batteri
+
+Vill du se hur ett batteri passar ihop med era solceller och er elanvändning?
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Svensk Solenergi, Solstatistik 2025: https://svensksolenergi.se/solstatistik-2025/
+- Elsäkerhetsverket, Installera din solcellsanläggning (energilager): https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+- Ei, Ei upphäver föreskrifterna om utformning av nättariffer: https://ei.se/om-oss/nyheter/2026/2026-06-17-ei-upphaver-foreskrifterna-om-utformning-av-nattariffer
+- Svenska kraftnät, Så kan du som privatperson bidra med stödtjänster: https://www.svk.se/om-kraftsystemet/om-systemansvaret/verktyg-for-systemdrift/stodtjanster-och-avhjalpande-atgarder/sa-kan-du-som-privatperson-bidra-med-stodtjanster/
+- Skatteverket, Godkända arbeten – grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
+- Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
+- Energimyndigheten, Välj en anläggning som passar dina behov (reservkraft): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
+- Ei, Mikroproduktion av el (aggregator): https://ei.se/konsument/el/mikroproduktion-av-el
+
+
+---
+
+## Grönt avdrag solceller 2026 – regler och belopp
+
+Källa: https://norsolis.com/gront-avdrag-solceller.html
+
+# Grönt avdrag solceller 2026 – regler, belopp och övrig ekonomi
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-09
+
+> **Kort svar: Hur mycket är grönt avdrag för solceller 2026?** Grönt avdrag för solceller är 15 procent av kostnaden för arbete och material. Vid fast pris räknas 97 procent som arbete och material, så avdraget blir i praktiken 14,55 procent av totalpriset. Taket är 50 000 kronor per person och år. Skattereduktionen för mikroproduktion, 60-öringen, slopades från och med den 1 januari 2026.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Avdrag solceller | 15 % av arbete och material | Skatteverket | odaterad |
+| Avdrag batteri och laddbox | 50 % | Skatteverket | odaterad |
+| Tak | 50 000 kr per person och år | Skatteverket | odaterad |
+| 60-öringen | Slopad från 1 januari 2026 | Skatteverket / Riksdagen SkU17 | 2025-05-15 |
+<!-- /AEO -->
+
+Det gröna avdraget för solceller är det viktigaste statliga stödet för privatpersoner som installerar solceller 2026. Formellt heter det skattereduktion för grön teknik. På den här sidan går vi igenom vad som gäller hösten 2026 enligt Skatteverket, vad som har ändrats de senaste åren och vilka andra ekonomiska faktorer som påverkar kalkylen. Reglerna kontrollerades den 7 oktober 2026. Kontrollera alltid Skatteverkets webbplats innan du fattar beslut.
+
+## Hur mycket ger grönt avdrag?
+
+Skattereduktionen för grön teknik ges för kostnaden för arbete och material:
+
+- **15 procent** för installation av nätanslutet solcellssystem
+- **50 procent** för installation av system för lagring av egenproducerad el (batteri)
+- **50 procent** för installation av laddningspunkt till elfordon
+
+Avdraget är högst **50 000 kronor per person och år**. Det dras direkt på fakturan från företaget, ungefär som rot- och rutavdraget, men det är en egen skattereduktion. Skatteverket anger att du utöver grönt avdrag kan få rot- och rutavdrag med upp till 75 000 kronor för andra arbeten.
+
+## Fast pris: 97 procent räknas som arbete och material
+
+Kostnader för till exempel resor, utrustning och projektering ger inte rätt till avdrag. Vid fast pris (totalentreprenad) får arbete och material beräknas till 97 procent av totalpriset. I praktiken blir avdraget för solceller då 15 procent av 97 procent av priset, alltså 14,55 procent av totalpriset. För batterier blir det 48,5 procent.
+
+## Vilka villkor gäller för avdraget?
+
+Enligt Skatteverket gäller bland annat:
+
+- Installationen ska avse ett småhus eller en ägarlägenhet som du äger, eller en bostadsrättslägenhet som du innehar, och vara kopplad till ditt eget hushåll (eller dina föräldrars).
+- Installationen ska vara färdigställd och slutbetald. Efter den 31 december 2024 är det slutbetalningen som styr vilket år avdraget gäller.
+- Företaget måste utföra installationen. Enbart material ger inget avdrag.
+- Inte godkänt är bland annat solceller på gemensamt tak som används av flera hushåll, anslutningsavgift till elnätet, ombyggnad av tak och byte av elcentral.
+- Grönt avdrag och rotavdrag kan inte ges för samma arbete. Reparation och demontering av solceller kan däremot vara rotarbete.
+- Företaget ska ansöka hos Skatteverket senast den 31 januari året efter att installationen slutbetalades.
+
+**Din skatt måste räcka.** Skattereduktionen kan inte bli större än din slutliga skatt. Skatteverket ger ett exempel: om din skatt blir 35 000 kronor men Skatteverket har betalat ut 50 000 kronor till företaget, måste du betala tillbaka 15 000 kronor.
+
+## Hur har reglerna ändrats?
+
+- **1 januari 2021:** Skattereduktionen för grön teknik införs.
+- **Före 2023:** Nivån för solceller var 15 procent, enligt regeringens promemoria. Den höjdes sedan till 20 procent.
+- **1 juli 2025:** Riksdagen sänkte nivån för solceller från 20 till 15 procent. Den lägre nivån gäller installationer som slutbetalats efter den 30 juni 2025.
+- **1 januari 2026:** Skattereduktionen för mikroproduktion av förnybar el, den så kallade 60-öringen, slopades. Den gav tidigare 60 öre per inmatad kWh, högst 18 000 kronor per år. Du får ingen reduktion för el som matas in efter den 31 december 2025.
+
+## Intäkter och kostnader utöver avdraget
+
+**Sälja överskottsel.** Ditt elhandelsföretag är enligt ellagen skyldigt att ta emot inmatad el på skäliga villkor, och Ei tolkar det som marknadsmässig ersättning. Ei råder dig att jämföra både köp- och säljpris, eftersom de flesta elhandelsföretag kräver att du även köper el från dem.
+
+**Nätnytta.** Du har rätt till ersättning från elnätsföretaget för den el du matar in, eftersom den minskar förlusterna i nätet. Nivån varierar mellan elnätsföretag.
+
+**Inmatningsavgift.** Ei har gjort bedömningen att alla som äger en produktionsanläggning ska betala en nätavgift för inmatningen som speglar de faktiska kostnaderna.
+
+**Energiskatt.** Enligt Skatteverket betalar du normalt ingen energiskatt på solel om anläggningen har under 500 kW installerad toppeffekt och du inte förfogar över flera anläggningar som sammanlagt har 500 kW eller mer ([Skatteverket, Skatt på el](https://skatteverket.se/foretag/skatterochavdrag/punktskatter/energiskatter/skattpael.4.15532c7b1442f256bae5e4c.html)).
+
+## Lönar sig solceller?
+
+Det finns ingen siffra som gäller för alla. Boverket konstaterar att lönsamheten beror på vad anläggningen kostar, hur elpriset utvecklas och hur mycket av solelen du använder själv. Egen förbrukning är oftast mer värd än såld el, eftersom det kostar mer att köpa el än du får när du säljer. Uppgifter om återbetalningstid i olika källor skiljer sig kraftigt åt, och därför anger vi ingen generell siffra. Be om en kalkyl som bygger på din egen elanvändning.
+
+## Bostadsrättsföreningar
+
+Det gröna avdraget gäller inte föreningen. Energimyndigheten skriver att bara privatpersoner kan få stöd vid installation av solceller. Det statliga investeringsstödet för solceller stängdes för nya ansökningar den 8 juli 2020. Läs om moms, energiskatt och delningsmodeller under fliken Solceller BRF.
+
+## Vanliga frågor om grönt avdrag
+
+**Hur mycket är grönt avdrag för solceller 2026?**
+15 procent av kostnaden för arbete och material, i praktiken 14,55 procent av totalpriset vid fast pris. Taket är 50 000 kronor per person och år.
+
+**Kan två personer i samma hushåll få avdrag?**
+Taket gäller per person. Om båda äger bostaden och betalar för installationen kan avdraget fördelas mellan dem, så länge båda har tillräcklig skatt.
+
+**Finns 60-öringen kvar?**
+Nej. Skattereduktionen för mikroproduktion slopades från och med den 1 januari 2026.
+
+## Räkna på din anläggning
+
+Gör en första uppskattning i [solcellskalkylen](/solcellskalkyl). Den räknar utan 60-öringen och visar resultatet direkt, utan kontaktuppgifter. Be sedan om en offert där grönt avdrag och din egen förbrukning är med i kalkylen.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
+- Skatteverket, Så fungerar skattereduktionen för grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
+- Skatteverket, Godkända arbeten – grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
+- Skatteverket, Grön teknik i deklarationen: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/gronteknikideklarationen.4.676f4884175c97df419292e.html
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad: https://www.skatteverket.se/privat/fastigheterochbostad/mikroproduktionavfornybarel.4.12815e4f14a62bc048f41a7.html
+- Regeringen, promemoria Förändrade skattesubventioner för solceller och mikroproduktion av el: https://www.regeringen.se/contentassets/8903f8cb3a3e45c08fbace0cc74dde53/forandrade-skattesubventioner-for-solceller-och-mikroproduktion-av-el-samt-utvidgad-mottagningsplikt-for-elleverantorer.pdf
+- Riksdagen, beslut 15 maj 2025 (SkU17): https://www.riksdagen.se/sv/webb-tv/video/beslut/beslut-forandrade-skattesubventioner-for_hcc320250515sku17/
+- Ei, Mikroproduktion av el: https://ei.se/konsument/el/mikroproduktion-av-el
+- Ei, Leveransskyldighet och mottagningsplikt: https://ei.se/bransch/ellagens-kundnara-bestammelser/kundnara-bestammelser---elhandelsforetag/leveransskyldighet-och-mottagningsplikt
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+- Energimyndigheten, Stöd vid investering: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vilka-stod-och-intakter-kan-jag-fa/stod-vid-investering/
+
+
+---
+
+## Solceller och miljö – klimat, energi, återvinning
+
+Källa: https://norsolis.com/solceller-miljo.html
+
+# Solceller och miljö – vad säger fakta?
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Hur miljövänliga är solceller?** Enligt Fraunhofer ISE tar det i norra Europa ungefär 1,1 år innan en solcellsanläggning tillverkad i Europa har producerat lika mycket energi som gick åt att tillverka den. Solpaneler kan återvinnas, men processerna behöver utvecklas. Panelerna omfattas normalt av producentansvar, och moduler håller enligt Energimyndigheten cirka 25 år eller mer.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Energiåterbetalningstid, norra Europa | ca 1,1 år (europeisk tillverkning) | Fraunhofer ISE, Photovoltaics Report | juli 2026 |
+| Producentansvar | Förordning (2022:1276) | Riksdagen | 2022 |
+<!-- /AEO -->
+
+Solceller och miljö hänger ihop på två sätt. Solel ger ingen förbränning när den produceras, men panelerna måste tillverkas, transporteras och till slut tas om hand. Här sammanfattar vi vad forskningen och myndigheterna säger om energiåtgång, klimatpåverkan, material och återvinning.
+
+## Hur snabbt betalar en panel tillbaka sin energi?
+
+Ett vanligt mått är energiåterbetalningstiden, alltså hur lång tid det tar för en anläggning att producera lika mycket energi som gick åt för att tillverka den. Enligt Fraunhofer ISE:s Photovoltaics Report (juli 2026) behöver anläggningar som tillverkas i Europa och installeras i norra Europa ungefär 1,1 år för att betala tillbaka energin. I södra Europa är tiden cirka 0,9 år, beroende på teknik och på hur effektivt elnätet är.
+
+Fraunhofer ger ett räkneexempel: en anläggning med kiselmoduler på Sicilien har en energiåterbetalningstid på ungefär ett år. Med en antagen livslängd på 20 år kan den producera tjugo gånger så mycket energi som gick åt för att tillverka den.
+
+Var modulerna tillverkas spelar roll. Fraunhofer konstaterar att energiåterbetalningstiden är kortare för anläggningar tillverkade i Europa än i Kina, på grund av skillnader i elnätens effektivitet.
+
+## Går det åt mindre kisel i dag?
+
+Tillverkningen har blivit betydligt mer resurseffektiv. Enligt Fraunhofer har kiselåtgången minskat från omkring 16 gram per watt (2004) till cirka 2,0 gram per watt (2024). Det beror på högre verkningsgrad, tunnare kiselskivor (140 mikrometer) som sågas med diamanttråd och större kiselgöt.
+
+## Klimatpåverkan över livscykeln
+
+FN:s ekonomiska kommission för Europa (UNECE) publicerade 2021 en livscykelanalys av olika kraftslag. Enligt sammanfattningar av rapporten anges solcellsel där till 8–83 gram koldioxidekvivalenter per kWh, beroende på teknik och förutsättningar. Hur stor klimatnyttan blir i Sverige beror också på vilken el solelen ersätter, och det kräver en egen analys. Därför anger vi ingen svensk siffra här.
+
+Som jämförelse uppger Fraunhofer att solel i Tyskland 2025 gjorde att utsläpp på cirka 63 miljoner ton koldioxidekvivalenter undveks. Den siffran gäller det tyska elsystemet och kan inte överföras direkt till Sverige.
+
+## Vad består en solpanel av?
+
+Fraunhofer ISE redovisar materialsammansättningen i en typisk kiselmodul. Den består till största delen av glas (cirka 67 procent av vikten) och en aluminiumram (cirka 13 procent). I mindre mängder finns bland annat koppar i ledarna (cirka 1,3 procent), silikon (cirka 1,2 procent) samt tenn och bly (vardera cirka 0,09 procent). Fraunhofer noterar att högtransparent solglas kan innehålla antimon, men att det kan tillverkas utan och att vissa europeiska leverantörer gör så.
+
+För tunnfilm gäller enligt Energimyndigheten att CdTe-solceller innehåller mer av det miljöfarliga ämnet kadmium än CIGS-solceller.
+
+## Kan solpaneler återvinnas?
+
+Solpaneler, växelriktare och annan elutrustning omfattas normalt av producentansvaret för elutrustning, enligt Svensk Solenergi. Bestämmelserna finns i förordningen (2022:1276) om producentansvar för elutrustning. Producentansvaret ska se till att produkterna tas om hand när de är uttjänta. Producent är bland annat den som importerar elutrustning som säljs i Sverige.
+
+Regelverket fungerar dock inte fullt ut. Svensk Solenergi skriver att både Riksrevisionen och Energimyndigheten menar att det inte efterlevs helt. Riksrevisionen granskade 2023 statens insatser för hanteringen av uttjänta solcellspaneler och vindturbinblad.
+
+Fraunhofer konstaterar att solpaneler kan återvinnas så att sällsynta och värdefulla material tas tillvara, men att det behövs mer forskning och utveckling för att göra återvinningen mer genomgripande och kostnadseffektiv.
+
+**Tips:** Fråga installatören vem som har producentansvar för panelerna och hur de tas om hand när de är uttjänta.
+
+## Varför är livslängden viktig för miljön?
+
+Ju längre en anläggning används, desto mer el ger den per tillverkad panel. Energimyndigheten anger en livslängd för solcellsmoduler på cirka 25 år eller mer. Sveriges äldsta anläggning, på ett flerbostadshus i Huvudsta från 1984, är fortfarande i drift. Boverket påminner om att taket bör hålla lika länge som anläggningen, så att panelerna inte behöver monteras ned i förtid.
+
+## Hänsyn till omgivningen
+
+Boverket påpekar att solceller ofta syns väl och påverkar byggnadens utseende. Välj gärna en färg som passar omgivningen, undvik blänk och låt panelerna följa takets form. Plan- och bygglagens krav på varsamhet gäller även när bygglov inte behövs.
+
+## Vanliga frågor om solceller och miljö
+
+**Hur lång tid tar det innan en solpanel har betalat tillbaka sin energi?**
+I norra Europa ungefär 1,1 år för anläggningar tillverkade i Europa, enligt Fraunhofer ISE.
+
+**Kan solpaneler återvinnas?**
+Ja, enligt Fraunhofer ISE, men processerna behöver utvecklas för att bli mer genomgripande och kostnadseffektiva. Panelerna omfattas normalt av producentansvar.
+
+**Innehåller solpaneler farliga ämnen?**
+Det beror på typ. Energimyndigheten nämner kadmium i CdTe-tunnfilm. Fraunhofer nämner att solglas kan innehålla antimon.
+
+## Ett hållbart val för ert tak
+
+Vill ni att er anläggning ska hålla länge och tas om hand rätt? Ställ frågorna redan i offertskedet.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Fraunhofer ISE, Photovoltaics Report (14 juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+- UNECE, Life Cycle Assessment of Electricity Generation Options (2021): https://unece.org/sed/documents/2021/10/reports/life-cycle-assessment-electricity-generation-options
+- Svensk Solenergi, Producentansvar för elutrustning: https://svensksolenergi.se/for-branschen/producentansvar/
+- Riksdagen, Förordning (2022:1276) om producentansvar för elutrustning: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/forordning-20221276-om-producentansvar-for_sfs-2022-1276/
+- Riksrevisionen, Uttjänta solcellspaneler och vindturbinblad (2023): https://www.riksrevisionen.se/granskningar/granskningsrapporter/2023/uttjanta-solcellspaneler-och-vindturbinblad---statens-insatser-for-en-effektiv-hantering.html
+- Energimyndigheten, Det här ingår i en solcellsanläggning: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (livslängd): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+
+
+---
+
+## Perovskit solceller, tandem och V2G – framtiden
+
+Källa: https://norsolis.com/framtidens-solceller.html
+
+# Perovskit solceller, tandemceller och smarta nät – vart är solelen på väg?
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Vad är perovskit- och tandemsolceller?** Perovskitsolceller är gjorda av material med perovskitstruktur. Laboratorierekordet är 26,9 procent enligt Fraunhofer ISE. En tandemcell har två skikt, ofta perovskit på kisel, och rekordet är 35,2 procent. Rekorden gäller små laboratorieceller, och hållbarheten utomhus är den stora frågan innan tekniken når hustaken i större skala.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Rekord perovskit (labbcell) | 26,9 % | Fraunhofer ISE (Solar Cell Efficiency Tables v. 68) | odaterad |
+| Rekord tandem (labbcell) | 35,2 % | Fraunhofer ISE | odaterad |
+<!-- /AEO -->
+
+Perovskit solceller är en av de mest omtalade nyheterna inom solenergi. Tillsammans med tandemceller, smarta elnät och elbilar som kan leverera el tillbaka till nätet (V2G) kan de förändra hur vi producerar och använder solel. Här skiljer vi på vad som redan är verklighet och vad som fortfarande är forskning, med källor till varje uppgift.
+
+## Hur snabbt utvecklas perovskitsolceller?
+
+Perovskit är en grupp material med en särskild kristallstruktur som kan användas i solceller. Enligt Fraunhofer ISE:s Photovoltaics Report (juli 2026), som hänvisar till Solar Cell Efficiency Tables version 68 (maj 2026), är laboratorierekordet för en perovskitcell 26,9 procent. Det ligger nära rekordet för monokristallint kisel på 28,1 procent.
+
+## Vad är en tandemsolcell?
+
+I en tandemcell staplas två solcellsmaterial på varandra, i dag oftast perovskit ovanpå kisel. Tanken är att varje skikt tar hand om den del av solljuset som det omvandlar bäst. Redan i forskningsartikeln om den första kiselcellen 1954 konstaterades att verkningsgraden i kisel sjunker för kortvågigt ljus, eftersom överskottsenergin går förlorad. Det är en av de begränsningar som tandemceller försöker komma runt.
+
+Resultatet syns i rekorden. Enligt Fraunhofer ISE är rekordet för en tandemcell av perovskit på kisel 35,2 procent, alltså tydligt högre än rekordet för en ren kiselcell.
+
+## Vad återstår innan perovskit når taken?
+
+Rekorden gäller små laboratorieceller. Den stora frågan är hållbarheten. Forskning från bland annat amerikanska NREL och arbetet inom IEA PVPS handlar om hur perovskitmoduler bryts ned utomhus, till exempel av fukt, värme och UV-ljus, och hur de ska testas för att visa att de håller lika länge som kiselmoduler. Energimyndigheten rekommenderar att solpaneler är certifierade enligt IEC 61215 och IEC 61730, och sådana certifikat bör du kräva även för ny teknik.
+
+## Större paneler och nya platser
+
+Utvecklingen handlar inte bara om nya material. Enligt Fraunhofer ISE har större kiselskivor gjort det möjligt att bygga moduler med en effekt på upp till 750 W. Fler anläggningar byggs på jordbruksmark (agrivoltaik) och på vatten (flytande solkraft), och solceller integrerade i fordon börjar komma ut på marknaden. I Sverige ökade den nyinstallerade effekten i storskaliga solparker med 128 procent under 2025, enligt Svensk Solenergi.
+
+## Vad är smarta elnät?
+
+När mer el kommer från sol och vind blir det viktigare att elnätet kan hantera varierande produktion. IEA beskriver ett smart elnät som ett elnät som använder digital och annan avancerad teknik för att övervaka och styra transporten av el från alla produktionskällor, så att elen möter användarnas varierande behov. Fraunhofer ISE skriver att utbyggnad av elnätet, laststyrning, smarta nät och dubbelriktad laddning av fordonsbatterier behöver främjas för att undvika att förnybar el måste strypas.
+
+I Sverige syns utvecklingen på flera sätt:
+
+- **Stödtjänster.** Batterier och flexibel elanvändning kan via aggregatorer delta på Svenska kraftnäts marknader för stödtjänster.
+- **Energidelning från 2027.** Den nya elmarknadslagen (2026:1281) gör det möjligt att dela förnybar el mellan anläggningar inom samma elområde från den 1 januari 2027, enligt Ei.
+- **Nya nätavgifter.** Ei ska senast den 12 april 2027 föreslå en ny modell för effektavgifter, efter att det tidigare kravet upphävdes i juni 2026.
+
+## Kan elbilen bli ett batteri för nätet (V2G)?
+
+Vehicle-to-grid (V2G) innebär att elbilen inte bara laddas utan också kan mata el tillbaka till nätet. IEA skriver i Global EV Outlook 2026 att smart laddning, som flyttar laddningen i tid, och V2G kan ge elsystemet mer flexibilitet. Samtidigt är IEA tydlig med att tekniken är tidig. De första kommersiella V2G-erbjudandena för privata elbilsägare kom 2025, men det finns få bilmodeller som klarar V2G, regelverken är splittrade och standarderna är ännu inte tydliga.
+
+För en villaägare eller BRF med solceller kan V2G på sikt betyda att bilen fungerar som ett extra batteri. I dag är det klokt att se det som en möjlighet för framtiden och inte räkna med det i kalkylen.
+
+## Vad betyder det här för dig som ska köpa nu?
+
+Att vänta på nästa teknikgenombrott har en kostnad: under väntetiden producerar taket ingen el. Den som köper i dag får beprövad kiselteknik, som enligt Fraunhofer ISE hade en genomsnittlig modulverkningsgrad på 22,7 procent under fjärde kvartalet 2024. En anläggning som byggs med plats för batteri och smart styrning kan dessutom anpassas när reglerna för energidelning och nätavgifter blir klara.
+
+## Vanliga frågor om framtidens solceller
+
+**Vad är perovskitsolceller?**
+Solceller av material med perovskitstruktur. Laboratorierekordet är 26,9 procent enligt Fraunhofer ISE (Solar Cell Efficiency Tables, version 68).
+
+**Vad är en tandemsolcell?**
+En cell med två skikt, ofta perovskit på kisel, där varje skikt utnyttjar olika delar av solljuset. Rekordet är 35,2 procent.
+
+**Kan min elbil driva huset med V2G?**
+Tekniken finns men är tidig. Enligt IEA finns få kompatibla bilmodeller och standarderna är ännu inte tydliga.
+
+## Bygg för framtiden redan nu
+
+Be om en anläggning som är förberedd för batteri, smart styrning och elbil.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Fraunhofer ISE, Photovoltaics Report (14 juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+- Chapin, Fuller & Pearson 1954, doi:10.1063/1.1721711: https://doi.org/10.1063/1.1721711
+- IEA PVPS, Degradation and Failure Modes in New Photovoltaic Cell and Module Technologies (2025): https://iea-pvps.org/wp-content/uploads/2025/02/IEA-PVPS-T13-30-2025-REPORT-Degradation-and-Failure.pdf
+- NREL/OSTI, Field-Relevant Degradation Mechanisms in Metal Halide Perovskite Modules: https://www.osti.gov/pages/servlets/purl/2558950
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (IEC-certifiering): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Svensk Solenergi, Kraftig uppgång för storskalig solkraft: https://svensksolenergi.se/kraftig-uppgang-for-storskalig-solkraft/
+- IEA, Technology Roadmap – Smart Grids: https://www.iea.org/reports/technology-roadmap-smart-grids
+- IEA, Global EV Outlook 2026 – Executive summary: https://www.iea.org/reports/global-ev-outlook-2026/executive-summary
+- Svenska kraftnät, Så kan du som privatperson bidra med stödtjänster: https://www.svk.se/om-kraftsystemet/om-systemansvaret/verktyg-for-systemdrift/stodtjanster-och-avhjalpande-atgarder/sa-kan-du-som-privatperson-bidra-med-stodtjanster/
+- Ei, Energidelning – frågor och svar: https://ei.se/bransch/ellagens-kundnara-bestammelser/energidelning---fragor-och-svar
+- Ei, Ei upphäver föreskrifterna om utformning av nättariffer: https://ei.se/om-oss/nyheter/2026/2026-06-17-ei-upphaver-foreskrifterna-om-utformning-av-nattariffer
+
+
+---
+
+## Välja solcellsinstallatör – checklista
+
+Källa: https://norsolis.com/valja-solcellsinstallator.html
+
+# Välja solcellsinstallatör – en checklista för villa och BRF
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-07
+
+> **Kort svar: Hur väljer jag en bra solcellsinstallatör?** Kontrollera först i Elsäkerhetsverkets e-tjänst Kolla elföretaget att företaget är registrerat för verksamhetstypen Elproduktionsanläggningar. Begär minst tre offerter, som Energimyndigheten rekommenderar, och jämför pris per kW, garantier och villkor. Certifiering är inget krav men ses som en fördel. Skriv avtal och gör en slutbesiktning.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Krav på registrering | Elsäkerhetsverket, Elproduktionsanläggningar | Elsäkerhetsverket | odaterad |
+| Antal offerter | Minst tre | Energimyndigheten | odaterad |
+| Certifieringar i branschen | Översikt | Svensk Solenergi | 2025-05-19 |
+<!-- /AEO -->
+
+Att välja solcellsinstallatör är ett av de viktigaste besluten i hela projektet. Energimyndigheten påpekar att installationen har stor betydelse för hur väl anläggningen fungerar. Här är en checklista byggd på vad Elsäkerhetsverket, Energimyndigheten och Svensk Solenergi skriver, från första offerten till slutbesiktningen.
+
+## 1. Får företaget göra elarbetet?
+
+Det här är ett lagkrav, inte bara ett gott råd. Enligt Elsäkerhetsverket måste allt elinstallationsarbete i en solcellsanläggning, både på likströms- och växelströmssidan, utföras av ett elinstallationsföretag. Företaget ska vara registrerat i Elsäkerhetsverkets företagsregister för verksamhetstypen "Elproduktionsanläggningar" och omfattas av ett egenkontrollprogram. Som köpare är du skyldig att kontrollera detta. Det gör du i e-tjänsten Kolla elföretaget.
+
+Om du köper av en huvudentreprenör som i sin tur anlitar ett elinstallationsföretag behöver huvudentreprenören inte finnas i registret. Fråga då vilket företag som gör elarbetet och sök på det.
+
+Elsäkerhetsverket varnar för att det är straffbart att utföra elinstallationsarbete utan behörighet. Ett olagligt utfört arbete kan även ge dig problem vid en försäljning eller i ett försäkringsärende.
+
+## 2. Hur många offerter ska jag ta in och hur jämför jag?
+
+Energimyndigheten rekommenderar offerter från minst tre leverantörer. Tänk på följande:
+
+- **Jämför pris per installerad effekt (kr/kW).** Modulernas verkningsgrad finns redan med i kostnaden per kW.
+- **Kräv fabrikat och modellnummer** för solpaneler, växelriktare och montagesystem.
+- **Leta efter extrakostnader**, till exempel för leverans, lyft av material eller byggnadsställning.
+- **Klargör vem som sköter anmälningarna** till elnätsföretaget och eventuellt bygglov.
+
+Du kan få kostnadsfri och opartisk rådgivning hos energi- och klimatrådgivningen i din kommun.
+
+## 3. Behöver installatören vara certifierad?
+
+Be om referenser från liknande uppdrag. Certifiering är inget krav men enligt Energimyndigheten en fördel. Två vanliga certifieringar finns:
+
+- **Certifierad solcellsmontör (Svensk Solenergi).** Riktar sig till montörer och elektriker. Kräver minst 18 månaders erfarenhet av att installera solanläggningar, att förkunskaperna intygas av en auktoriserad elinstallatör och ett godkänt prov.
+- **CIN2-certifierad solcellsinstallatör.** Riktar sig till projektörer, säljare och elektriker. Kräver godkänt certifieringsprov, godkänd praktisk examination och tre års arbete i solbranschen under de senaste fem åren.
+
+## 4. Kontrollera företaget och villkoren
+
+Energimyndigheten föreslår också att du kontrollerar:
+
+- att företaget har F-skatt, vilket du kan se hos Skatteverket
+- om företaget har kollektivavtal eller liknande villkor för sina anställda
+- att företaget följer Taksäkerhetskommitténs branschstandard för arbete på tak.
+
+Kontrollera även att produkterna är CE-märkta och har bruks- och säkerhetsanvisningar, vilket Elsäkerhetsverket kräver. Modulerna bör vara certifierade enligt IEC 61215 och IEC 61730. Se Teknik-fliken för de minimigarantier Energimyndigheten rekommenderar.
+
+## 5. Skriv avtal
+
+Skriv ned vad ni har kommit överens om. Konsumentverket har information om vad du bör tänka på när du anlitar någon för arbete i hemmet. Som privatperson skyddas du av konsumenttjänstlagen när du anlitar ett företag. Standardavtalet ABT 06, som enligt Energimyndigheten oftast används för totalentreprenader och då ger 5 års funktionsgaranti, är framtaget för entreprenader där beställaren är ett företag eller en förening, till exempel en BRF. Det är alltså främst aktuellt vid BRF- och kommersiella upphandlingar, inte i ett vanligt villaköp.
+
+**För BRF:** Energimyndighetens beställarnätverk BeBo har beslutsguider, kravspecifikationer och upphandlingsrutiner för solcellsanläggningar i flerbostadshus. Energimyndigheten har även mallar för inköp och slutbesiktning för kommersiella aktörer. Ställ gärna upp ett poängsystem i förväg för hur anbuden ska bedömas.
+
+## 6. Kontroll och slutbesiktning
+
+Innan anläggningen tas i drift ska elinstallationsföretaget kontrollera arbetet. Elsäkerhetsverket rekommenderar att du begär att kontrollen dokumenteras, och att du inte låter anläggningen tas i bruk om ingen kontroll har gjorts. Installatören ska också se till att anläggningen får rätt dokumentation, märkning och skyltning.
+
+Energimyndigheten rekommenderar starkt en slutbesiktning av en oberoende besiktningsman med erfarenhet av solcellsanläggningar, som du som beställare utser. Besiktningen är frivillig men kan vara ett krav hos vissa försäkringsbolag och har betydelse för entreprenörens ansvar under garantitiden.
+
+## Vad gör jag om något går fel?
+
+Försök först lösa problemet med företaget. Är arbetet bristfälligt kan du anmäla det till Elsäkerhetsverket. Tvister mellan köpare och säljare hanterar Elsäkerhetsverket inte. Då kan du vända dig till kommunens konsumentvägledning eller Hallå konsument.
+
+## Vanliga frågor om att välja installatör
+
+**Hur kontrollerar jag att en solcellsinstallatör är behörig?**
+Sök på företaget i Elsäkerhetsverkets e-tjänst Kolla elföretaget. Det ska vara registrerat för verksamhetstypen Elproduktionsanläggningar.
+
+**Måste installatören vara certifierad?**
+Nej, men Energimyndigheten ser certifiering som en fördel. Registrering hos Elsäkerhetsverket är däremot ett krav för elarbetet.
+
+**Hur många offerter bör jag ta in?**
+Energimyndigheten rekommenderar minst tre.
+
+## Få offerter att jämföra
+
+Börja med en förfrågan, så får du underlag att jämföra enligt checklistan ovan.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+## Källor
+- Elsäkerhetsverket, Installera din solcellsanläggning: https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
+- Elsäkerhetsverket, Kolla elföretaget: https://www.elsakerhetsverket.se/kollaelforetaget/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Svensk Solenergi, Certifieringar i solbranschen (19 maj 2025): https://svensksolenergi.se/certifieringar-i-solbranschen/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+
+
+---
+
+## Vanliga frågor om solceller – svar med källor
+
+Källa: https://norsolis.com/vanliga-fragor-solceller.html
+
+# Vanliga frågor om solceller – korta svar med källor
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-09
+
+> **Kort svar: Vad kostar solceller och vilket stöd finns?** Energimyndigheten anger ungefär 92 500 kronor inklusive moms för en villaanläggning på 5 kW och cirka 225 000 kronor för 15 kW. Grönt avdrag är 15 procent av arbete och material för solceller och 50 procent för batteri, högst 50 000 kronor per person och år. 60-öringen slopades den 1 januari 2026.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Pris 5 kW | ca 92 500 kr inkl. moms | Energimyndigheten | odaterad |
+| Pris 15 kW | ca 225 000 kr inkl. moms | Energimyndigheten | odaterad |
+| Pris 100 kW | ca 1 100 000 kr exkl. moms | Energimyndigheten | odaterad |
+<!-- /AEO -->
+
+Här har vi samlat vanliga frågor om solceller, både från villaägare och från styrelser i bostadsrättsföreningar. Svaren är korta och bygger på myndigheter och branschorganisationer. Källorna finns längst ned. Mer utförliga förklaringar finns under respektive flik.
+
+## Vad kostar solceller och vilka stöd finns?
+
+**Vad kostar solceller?**
+Energimyndigheten anger ungefär 92 500 kronor inklusive moms för en villaanläggning på 5 kW, cirka 225 000 kronor inklusive moms för 15 kW och cirka 1 100 000 kronor exklusive moms för 100 kW. Priserna är genomsnitt och inte daterade, så begär alltid aktuella offerter.
+
+**Hur stort är det gröna avdraget?**
+15 procent av kostnaden för arbete och material för solceller och 50 procent för batteri och laddbox, högst 50 000 kronor per person och år. Vid fast pris räknas 97 procent av priset som arbete och material.
+
+**Får man fortfarande 60 öre per kWh?**
+Nej. Skattereduktionen för mikroproduktion av förnybar el slopades från och med den 1 januari 2026.
+
+**Kan jag sälja min överskottsel?**
+Ja. Elhandelsföretaget som levererar el till dig är skyldigt att ta emot inmatad el på skäliga villkor, vilket enligt Ei betyder marknadsmässig ersättning. Du har också rätt till nätnyttoersättning från elnätsföretaget.
+
+**Hur lång är återbetalningstiden?**
+Den beror på pris, elpris och hur mycket solel du använder själv. Källorna skiljer sig mycket åt, så vi anger ingen generell siffra.
+
+## Vad gäller för bostadsrättsföreningar?
+
+**Kan en BRF få grönt avdrag?**
+Nej. Det gäller bara privatpersoner, och installationer på gemensamt tak som används av flera hushåll är inte godkända.
+
+**Hur kan en BRF dela solelen med medlemmarna?**
+Bland annat genom gemensam mätning med individuell debitering (IMD), genom ett internt nät som är undantaget från nätkoncession enligt IKN-förordningen eller genom energidelning, som blir möjlig den 1 januari 2027.
+
+**Måste en BRF betala energiskatt på sin solel?**
+Enligt Skatteverket betalar du normalt ingen energiskatt på solel om anläggningen har under 500 kW installerad toppeffekt och du inte förfogar över flera anläggningar som sammanlagt har 500 kW eller mer ([Skatteverket, Skatt på el](https://skatteverket.se/foretag/skatterochavdrag/punktskatter/energiskatter/skattpael.4.15532c7b1442f256bae5e4c.html)).
+
+**Kan föreningen dra av momsen?**
+Delvis. Avdrag får göras för den andel av solelen som säljs i momspliktig verksamhet, till exempel till ett elhandelsföretag eller till medlemmar via IMD.
+
+## Hur fungerar tekniken och driften?
+
+**Får jag el vid ett strömavbrott?**
+Inte med en vanlig nätansluten anläggning. Den kopplar ner av säkerhetsskäl. Det krävs batteri, styrelektronik, brytare mot nätet och en växelriktare som klarar ö-drift.
+
+**Hur mycket el ger solceller i Sverige?**
+Enligt Energimyndigheten ger 1 kW runt 800–1 100 kWh per år i söderläge med 30–50 graders lutning och utan skuggning.
+
+**Hur länge håller solceller?**
+Energimyndigheten anger cirka 25 år eller mer för moduler och cirka 15 år eller mer för växelriktare. Boverket anger 25–30 år för en solelanläggning.
+
+**Vilken verkningsgrad har moderna solpaneler?**
+I genomsnitt 22,7 procent för kommersiella kiselmoduler under fjärde kvartalet 2024, enligt Fraunhofer ISE.
+
+**Behöver jag byta elmätare?**
+Om mätaren inte kan mäta inmatning byter elnätsföretaget den kostnadsfritt för abonnemang upp till 63 ampere (43,5 kW), förutsatt att du på årsbasis köper mer el än du matar in.
+
+## Vilka regler gäller vid installation?
+
+**Behöver jag bygglov för solceller?**
+För en villa (en- eller tvåbostadshus) krävs normalt inte bygglov, utom där det finns utökad lovplikt, till exempel nära områden av riksintresse för totalförsvaret, vid särskilt värdefulla byggnader eller om detaljplanen kräver det. På andra byggnader, som flerbostadshus inom detaljplan, kan solceller på fasad eller tak som vetter mot gata, torg eller park kräva bygglov. Där gäller undantaget bara anläggningar på högst 11 kW. Fråga kommunens byggnadskontor.
+
+**Får jag installera solcellerna själv?**
+Elinstallationsarbetet, både på likströms- och växelströmssidan, ska utföras av ett elinstallationsföretag som är registrerat hos Elsäkerhetsverket.
+
+**Vad måste jag göra innan anläggningen startas?**
+Lämna en slutanmälan till elnätsbolaget och vänta på slutgodkännande. Se också till att elinstallationsföretaget har gjort och dokumenterat en kontroll.
+
+**Kontaktar Svenska kraftnät hushåll om batterier och stödtjänster?**
+Nej. Svenska kraftnät söker inte upp hushåll och betalar inte ersättning direkt till privatpersoner. Var vaksam mot sådana erbjudanden.
+
+## Hur påverkar solceller miljön?
+
+**Hur snabbt betalar en solpanel tillbaka energin som gick åt att tillverka den?**
+Ungefär 1,1 år för anläggningar som tillverkas i Europa och installeras i norra Europa, enligt Fraunhofer ISE.
+
+**Kan solpaneler återvinnas?**
+Ja. De omfattas normalt av producentansvaret för elutrustning, men Fraunhofer ISE påpekar att återvinningen behöver utvecklas för att bli mer genomgripande och kostnadseffektiv.
+
+## Har du en fråga som inte finns här?
+
+Ställ den i samband med en offertförfrågan, så får du svar för just din fastighet.
+**[Offert för villa](/offert-villa)** · **[Offert för BRF](/offert-brf)**
+
+
+
+
+## Källor
+- Boverket, PBL kunskapsbanken – Fasadändring (PBL 9 kap. 15 §, 17 a §, 36–37 §§; senast ändrad 1 juli 2026, läst 2026-10-09): https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/fasadandring/
+- Energimyndigheten, Välj en anläggning som passar dina behov: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
+- Energimyndigheten, Det här ingår i en solcellsanläggning: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/har-mitt-hus-ratt-forutsattningar/det-har-ingar-i-en-solcellsanlaggning/
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Energimyndigheten, Stöd vid investering: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vilka-stod-och-intakter-kan-jag-fa/stod-vid-investering/
+- Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
+- Skatteverket, Så fungerar skattereduktionen för grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
+- Skatteverket, Godkända arbeten – grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad: https://www.skatteverket.se/privat/fastigheterochbostad/mikroproduktionavfornybarel.4.12815e4f14a62bc048f41a7.html
+- Skatteverket, Moms i en bostadsrättsförening: https://www.skatteverket.se/foreningar/driva/ekonomiskforeningellerbostadsrattsforening/momsienbostadsrattsforeningellerekonomiskforening.4.6e8a1495181dad5408496b.html
+- Ei, Mikroproduktion av el: https://ei.se/konsument/el/mikroproduktion-av-el
+- Ei, Leveransskyldighet och mottagningsplikt: https://ei.se/bransch/ellagens-kundnara-bestammelser/kundnara-bestammelser---elhandelsforetag/leveransskyldighet-och-mottagningsplikt
+- Ei, Undantagen i IKN-förordningen: https://ei.se/bransch/undantag-fran-kravet-pa-natkoncession-ikn/undantagen-i-ikn-forordningen
+- Ei, Energidelning – frågor och svar: https://ei.se/bransch/ellagens-kundnara-bestammelser/energidelning---fragor-och-svar
+- Elsäkerhetsverket, Installera din solcellsanläggning: https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
+- Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
+- Svenska kraftnät, Så kan du som privatperson bidra med stödtjänster: https://www.svk.se/om-kraftsystemet/om-systemansvaret/verktyg-for-systemdrift/stodtjanster-och-avhjalpande-atgarder/sa-kan-du-som-privatperson-bidra-med-stodtjanster/
+- Fraunhofer ISE, Photovoltaics Report (juli 2026): https://www.ise.fraunhofer.de/content/dam/ise/de/documents/publications/studies/Photovoltaics-Report.pdf
+- Svensk Solenergi, Producentansvar för elutrustning: https://svensksolenergi.se/for-branschen/producentansvar/
+
+
+---
+
+## Solceller i Norge – Enova-støtte og deling
+
+Källa: https://norsolis.com/no-solceller-i-norge.html
+
+# Solceller i Norge – støtte, regler og utvikling
+
+<!-- AEO -->
+**Sist oppdatert:** 2026-10-07
+
+> **Kort svar: Hvor mye støtte gir Enova til solceller?** Enova gir støtte til solcelleanlegg i boliger med 25 prosent av godkjente fakturerte kostnader, begrenset oppad til 2 500 kroner per kW installert effekt. Du må søke før du starter. Overskuddsstrøm kan selges som plusskunde, og siden 1. oktober 2023 kan borettslag og sameier dele overskuddsproduksjon mellom kundene på samme eiendom.
+
+### Fakta i korthet
+
+| Opplysning | Verdi | Kilde | Dato |
+|---|---|---|---|
+| Enova-støtte | 25 % av godkjente kostnader, maks 2 500 kr per kW | Enova | kontrollert 2026-10-07 |
+| Installert solkraft | ca. 918 MW, over 32 000 anlegg (utgangen av 2025) | Fornybar Norge | juli 2026 |
+| Deling på samme eiendom | Siden 1.10.2023, inntil 1 MW (AC) | NVE/RME | kontrollert 2026-10-07 |
+| Plusskunde | Mater aldri inn mer enn 100 kW | NVE | kontrollert 2026-10-07 |
+<!-- /AEO -->
+
+Solceller i Norge er fortsatt et ungt marked, men det har vokst raskt. Ifølge bransjeorganisasjonen Fornybar Norge var det ved utgangen av 2025 installert om lag 918 MW solkraft, fordelt på over 32 000 anlegg. Her går vi gjennom hvilken støtte du kan få, hvordan plusskundeordningen fungerer og hva som gjelder for borettslag og sameier. Opplysningene ble kontrollert 7. oktober 2026.
+
+## Hvordan har solkraften utviklet seg i Norge?
+
+Ifølge Fornybar Norge toppet utbyggingstakten seg i 2023 og har siden blitt mer enn halvert. Nedgangen har vært størst for mindre anlegg, mens større næringsanlegg har holdt aktiviteten bedre oppe. Fornybar Norge peker på lavere strømpriser, høyt rentenivå, endrede støtteordninger og begrenset nettkapasitet som årsaker. Organisasjonen regner med at Norge passerer 1 GW installert solkraft i løpet av 2026.
+
+Norge har et politisk mål om 8 TWh solkraft innen 2030, noe Fornybar Norge oppgir tilsvarer om lag 10 GW. Både NVE og bransjens veikart peker ifølge Fornybar Norge på at et mer sannsynlig nivå er rundt 2 TWh.
+
+NVE publiserer oppdaterte tall for installert effekt i en egen rapport med data fra Elhub. NVE påpeker at tallene gjelder vekselretterens kapasitet (AC) og ikke nødvendigvis panelenes effekt i kWp.
+
+## Hvor mye Enova-støtte kan jeg få?
+
+Enova gir støtte til solcelleanlegg i boliger. Ifølge Enova beregnes tilskuddet som 25 prosent av godkjente fakturerte kostnader, begrenset oppad til 2 500 kroner per kW installert effekt. Krav og råd fra Enova:
+
+- **Søk før du setter i gang.** Når søknaden er godkjent, kan du starte tiltaket.
+- Anlegget skal være fast tilkoblet boligens elanlegg.
+- Fakturaen skal vise alle kostnader, både materialer og arbeid, navn og organisasjonsnummer til leverandøren og installert effekt.
+- Enova anbefaler å be om tilbud fra flere leverandører, skrive kontrakt og be om måling og oppfølging.
+
+Flere kilder oppgir at støtten er begrenset til 15 kW, altså maksimalt 37 500 kroner. Dette står ikke på Enovas side som vi har kontrollert. Sjekk derfor alltid gjeldende satser på enova.no.
+
+## Hvordan selger jeg overskuddsstrøm som plusskunde?
+
+En plusskunde er ifølge NVE en nettkunde som både bruker og produserer strøm, og som ikke på noe tidspunkt mater inn mer enn 100 kW på nettet. Plusskunder betaler ikke fastledd for innmating, og de betaler ikke nettleie for forbruket som dekkes av egenprodusert strøm. Enova anbefaler at du tegner en plusskundeavtale med en kraftleverandør, og at du kontakter flere for å finne en avtale som passer forbruket ditt.
+
+## Kan borettslag og sameier dele solstrøm?
+
+Siden 1. oktober 2023 har borettslag, sameier og andre med flere strømkunder på samme eiendom kunnet dele egenprodusert fornybar strøm. Ifølge NVE gjelder ordningen kunder på samme kommune-, gårds-, bruks- og eventuelt festenummer, og samlet installert effekt på anleggene som deltar i delingen kan ikke være større enn 1 MW (AC) per eiendom. Delingen skjer virtuelt og registreres i Elhub av nettselskapet. Produsenten velger mellom lik fordeling og en valgfri, fast fordelingsnøkkel mellom målepunktene.
+
+NVE forklarer det med et eksempel fra et sameie: Når sameiet deler strømmen, blir sameiets avregnede innmating null. Mottakerne får redusert sitt avregnede forbruk. Så lenge den mottatte strømmen er lavere enn forbruket, slipper de energiledd og elavgift for den delen. Fra 1. januar 2026 kan også nettkunder innenfor samme næringsområde dele overskuddsproduksjon.
+
+## Kommunen, bygging og installasjon
+
+Enova anbefaler at du kontakter kommunen før du installerer, for å avklare om det finnes lokale krav til byggemelding. Noen kommuner tillater ifølge Enova ikke solceller på tak eller fasader. Fra 1. juli 2025 behandles solkraftanlegg under 10 MW av kommunene etter plan- og bygningsloven, mens anlegg over 10 MW krever konsesjon fra NVE, skriver Fornybar Norge.
+
+Det elektriske arbeidet bør utføres av en registrert elvirksomhet. Hvilke krav som gjelder, finner du hos Direktoratet for samfunnssikkerhet og beredskap (DSB).
+
+## Levetid
+
+Fornybar Norge oppgir en typisk levetid på 25–30 år og lite behov for vedlikehold.
+
+## Ofte stilte spørsmål om solceller i Norge
+
+**Hvor mye Enova-støtte får jeg til solceller?**
+25 prosent av godkjente kostnader, begrenset oppad til 2 500 kroner per kW installert effekt. Søk før du starter.
+
+**Kan et borettslag dele solstrøm mellom beboerne?**
+Ja. Siden 1. oktober 2023 kan overskuddsproduksjon deles mellom kundene på samme eiendom, med inntil 1 MW (AC) samlet installert effekt i delingen.
+
+**Hva er en plusskunde?**
+En kunde som både bruker og produserer strøm, og som aldri mater inn mer enn 100 kW på nettet.
+
+
+
+
+## Kilder
+- Fornybar Norge, Solenergi (sist oppdatert juli 2026): https://www.fornybarnorge.no/solenergi/
+- Enova, Solcelleanlegg: https://enova.no/nb/privat/bolig/stotte/solcelleanlegg
+- NVE, Oversikt over solkraftanlegg i Norge: https://www.nve.no/energi/energisystem/solkraft/oversikt-over-solkraftanlegg-i-norge/
+- NVE, Plusskunder: https://www.nve.no/reguleringsmyndigheten/regulering/nettvirksomhet/nettleie/tariffer-for-produksjon/plusskunder/
+- NVE, Modell for deling av overskuddsproduksjon: https://www.nve.no/reguleringsmyndigheten/kunde/stroemnettet/prosumenter-og-plusskunder/modell-for-deling-av-overskuddsproduksjon/
+- NVE/RME, Veileder – deling innenfor samme eiendom § 3-12: https://veiledere.nve.no/rme-veiledere/veileder-for-modell-for-deling-av-overskuddsproduksjon/veilederen-for-modell-for-deling-av-overskuddsproduksjon/deling-innenfor-samme-eiendom-3-12/
+- Regjeringen, pressemelding 8. mai 2023: https://www.regjeringen.no/no/aktuelt/fastsetter-forskriftsendringer-for-deling-av-egenprodusert-fornybar-strom-pa-samme-eiendom/id2975877/
+
+
+---
+
+## Solceller i Danmark – regler, afregning og tal
+
+Källa: https://norsolis.com/da-solceller-i-danmark.html
+
+# Solceller i Danmark – tal, afregning og regler
+
+<!-- AEO -->
+**Senest opdateret:** 2026-10-07
+
+> **Kort svar: Kan man få tilskud til solceller i Danmark?** Nej. Ifølge Energistyrelsen er der ikke mulighed for at søge støtte til nye VE-anlæg, og de faste afregningspriser gælder kun anlæg sat i drift frem til 2019. Overskudsstrøm sælges via en aftale med en produktionselleverandør. Pr. 30. juni 2026 var der 172.822 nettilsluttede solcelleanlæg i Danmark ifølge Energistyrelsen.
+
+### Fakta i korte træk
+
+| Oplysning | Værdi | Kilde | Dato |
+|---|---|---|---|
+| Støtte til nye anlæg | Ingen | Energistyrelsen, FAQ om støtte til VE | kontrolleret 2026-10-07 |
+| Nettilsluttede anlæg | 172.822 (pr. 30.6.2026) | Energistyrelsen | 2. kvartal 2026 |
+| Salg af overskudsstrøm | Via produktionselleverandør | Energistyrelsen | kontrolleret 2026-10-07 |
+<!-- /AEO -->
+
+Solceller i Danmark er udbredt både på hustage og som store anlæg på åbent land. Ifølge Energistyrelsens kvartalsvise solcelleopgørelse var der pr. 30. juni 2026 registreret 172.822 nettilsluttede solcelleanlæg med en samlet kapacitet på ca. 5.405 MW. Her gennemgår vi, hvordan udbygningen ser ud, hvordan afregningen fungerer for nye anlæg, og hvad du som boligejer eller forening skal være opmærksom på. Oplysningerne er kontrolleret den 7. oktober 2026.
+
+## Hvor mange solceller er der i Danmark?
+
+Energistyrelsen udgiver hvert kvartal en solcelleopgørelse. Ifølge opgørelsen for 2. kvartal 2026 voksede kapaciteten med 255 MW, og antallet af anlæg steg med 3.052 fra 31. marts til 30. juni 2026.
+
+Den største gruppe målt i antal er anlæg med egetforbrug tilknyttet øjebliksafregning, typisk solceller på hustage. Pr. 30. juni 2026 var der 77.164 af disse anlæg med i alt 1.090 MW, mod 74.033 anlæg og 1.044 MW tre måneder tidligere.
+
+| Pr. 30. juni 2026 | Antal anlæg | MW |
+|---|---|---|
+| Anlæg med egetforbrug, øjebliksafregning | 77.164 | 1.090 |
+| Alle nettilsluttede solcelleanlæg | 172.822 | ca. 5.405 |
+
+Små tagmonterede anlæg står altså for de fleste anlæg, men kun for en mindre del af kapaciteten. Resten er især store anlæg og anlæg fra tidligere støtteordninger. Til sammenligning var der pr. 30. september 2025 registreret 165.354 anlæg med ca. 4.832 MW.
+
+Energistyrelsen gør opmærksom på, at netselskaberne indberetter løbende, så tallene kan blive justeret, og at data er forbundet med en vis usikkerhed.
+
+## Er der støtte til nye solcelleanlæg?
+
+Ifølge Energistyrelsen er der ikke længere mulighed for at søge om støtte til nye VE-anlæg. De faste afregningspriser (pristillæg) er historiske ordninger for anlæg, der er sat i drift frem til 2019.
+
+Et nyt solcelleanlæg skal anmeldes til netvirksomheden og oprettes i afregningsgruppe 3, øjebliksafregning. Det er som udgangspunkt den autoriserede elinstallatør, der anmelder anlægget til stamdataregistret via netvirksomheden. Energistyrelsen anbefaler, at du altid søger råd og vejledning hos en autoriseret elinstallatør.
+
+## Hvordan sælger jeg overskudsstrømmen?
+
+Den strøm, du ikke selv bruger, skal sælges via en produktionselleverandør, altså et elselskab, der køber strøm fra solceller og vindmøller. Energistyrelsen skriver, at anlægsejere uden pristillæg selv skal indgå en aftale med en produktionselleverandør, og at du ikke får betaling for den strøm, du leverer til nettet, hvis du ikke har en. Prisen for aftalen oplyses af den enkelte leverandør. Energistyrelsen gør opmærksom på, at produktionselleverandøren opkræver et abonnement for leje af elmåler og for administration.
+
+## Elafgift og tilsyn
+
+Det er Skattestyrelsen, der er ressortmyndighed for elafgift. Ifølge Energistyrelsen var Skattestyrelsen i 2025 i gang med et tilsyn med, om reglerne for fritagelse for elafgift overholdes. Ejere eller lejere af VE-anlæg kan blive opkrævet elafgift, som de uberettiget har fået fritagelse for. Spørgsmål om elafgift skal rettes til Skattestyrelsen.
+
+## Hvad gælder for andelsboligforeninger og ejerforeninger?
+
+For foreninger er afgifts- og skattereglerne mere komplicerede end for en villa. Skattestyrelsen har vejledning om blandt andet fritagelse for elafgift for solcelleanlæg tilsluttet en fælles afregningsmåler og om skattepligt, når en ejerlejlighedsforening opsætter solceller. Vi har ikke gennemgået vejledningerne i detaljer. Få derfor afklaret afgifts- og skatteforholdene med Skattestyrelsen eller en rådgiver, før foreningen beslutter sig.
+
+## Kan jeg tilføje et batteri til et eksisterende anlæg?
+
+Har du et ældre anlæg med pristillæg, må du ifølge Energistyrelsen gerne tilføje et batteri. Men batteriet må ikke udvide anlæggets installerede effekt, og det skal dokumenteres, at batteriet enten kun aflader egenproduceret VE-strøm eller kun oplader fra nettet. Ellers bortfalder retten til pristillæg. Du må heller ikke udvide et anlæg med pristillæg, hvis du vil beholde tillægget.
+
+## Ofte stillede spørgsmål om solceller i Danmark
+
+**Kan man få tilskud til solceller i Danmark?**
+Ifølge Energistyrelsen er der ikke mulighed for at søge støtte til nye VE-anlæg. De faste afregningspriser gælder kun anlæg sat i drift frem til 2019.
+
+**Hvordan sælger jeg min overskudsstrøm?**
+Via en aftale med en produktionselleverandør. Uden en sådan aftale får du ikke betaling for strøm, du leverer til nettet.
+
+**Hvor mange solcelleanlæg er der i Danmark?**
+172.822 nettilsluttede anlæg pr. 30. juni 2026 ifølge Energistyrelsen.
+
+
+
+
+## Kilder
+- Energistyrelsen, Solcelleudbygningen i Danmark pr. 2. kvartal 2026: https://ens.dk/media/8490/download
+- Energistyrelsen, Solcelleudbygningen i Danmark pr. 3. kvartal 2025: https://ens.dk/media/7398/download
+- Energistyrelsen, Data – oversigt over energisektoren: https://ens.dk/analyser-og-statistik/data-oversigt-over-energisektoren
+- Energistyrelsen, Solenergi: https://ens.dk/energikilder/solenergi
+- Energistyrelsen, FAQ om støtte til vedvarende energi: https://ens.dk/tilskud-og-puljer/faq-om-stoette-til-vedvarende-energi
+- Skattestyrelsen, Den juridiske vejledning: https://info.skat.dk
+
+
+---
+
+## Aurinkopaneelit Suomessa – taloyhtiö ja vähennys
+
+Källa: https://norsolis.com/fi-aurinkopaneelit-suomessa.html
+
+# Aurinkopaneelit Suomessa – tilastot, vähennykset ja taloyhtiöt
+
+<!-- AEO -->
+**Päivitetty viimeksi:** 2026-10-07
+
+> **Lyhyt vastaus: Saako aurinkopaneelien asennuksesta kotitalousvähennystä?** Kyllä. Verohallinnon mukaan kotitalousvähennystä saa omakotitalon ja vapaa-ajan asunnon aurinkopaneelien asennustyöstä sekä asunto-osakkeessa, jos työ kuuluu osakkaan kunnossapitovastuulle. Vähennys koskee vain työn osuutta: 40 prosenttia, enintään 2 100 euroa henkilöä kohden vuodessa ja 150 euron omavastuulla (korotettu taso 2026–2027). Taloyhtiö voi jakaa aurinkosähköä asukkaille hyvityslaskennalla.
+
+### Faktat lyhyesti
+
+| Tieto | Arvo | Lähde | Päivämäärä |
+|---|---|---|---|
+| Kotitalousvähennys | 40 % työn hinnasta, enintään 2 100 €/hlö/v, omavastuu 150 € (2026–2027) | Verohallinto | tarkistettu 13.10.2026 |
+| Aurinkosähkökapasiteetti | noin 1 600 MW (vuoden 2025 lopussa, alustava) | Energiavirasto | 11.6.2026 |
+| Taloyhtiön energiayhteisö | Hyvityslaskenta osakeomistusten suhteessa | Motiva | 7.7.2026 |
+<!-- /AEO -->
+
+Aurinkopaneelit ovat yleistyneet Suomessa nopeasti. Energiaviraston alustavien tietojen mukaan Suomessa oli vuoden 2025 lopussa asennettua aurinkosähkökapasiteettia noin 1 600 megawattia. Tällä sivulla kerromme, miten markkina on kehittynyt, miten kotitalousvähennys toimii aurinkopaneelien asennuksessa ja miten taloyhtiö voi jakaa aurinkosähköä asukkailleen. Tiedot on tarkistettu 7.10.2026.
+
+## Paljonko aurinkosähköä Suomessa on?
+
+Energiaviraston mukaan 1 600 megawatista sähköverkkoon kytkettyä pientuotantoa oli 1 251 megawattia ja teollisen kokoluokan laitosten kapasiteettia 326 megawattia. Lisäksi verkkoon kytkemätöntä kapasiteettia oli arviolta noin 24 megawattia, ja sitä on asennettu erityisesti vapaa-ajan asuntoihin. Kokonaiskapasiteetti kasvoi vuonna 2025 noin 350 megawattia eli 28 prosenttia.
+
+Pientuotannolla tarkoitetaan alle yhden megawatin laitteistoja. Pientuotantokapasiteetti kasvoi vuonna 2025 noin 138 megawattia, mikä on noin 12 prosenttia. Kasvu on hidastunut vuodesta 2023, jolloin pientuotantokapasiteetti kasvoi lähes 300 megawattia.
+
+Sama näkyy pientaloissa. Energiaviraston arvion mukaan aurinkosähkölaitteisto asennettiin vuonna 2025 noin 6 500 pientaloon. Vuonna 2024 asennuksia oli noin 10 000 ja vuonna 2023 jopa 30 000. Arvio perustuu verkkoyhtiöiltä kerättyihin alustaviin tietoihin, ja vuoden 2025 luvut voivat vielä tarkentua.
+
+Teollisen kokoluokan (yli 1 MW) kapasiteetti yli kolminkertaistui vuonna 2025. Vuotta aiemmin se oli noin sata megawattia. Energiaviraston voimalaitosrekisterissä oli vuoden 2025 lopussa 28 tällaista laitosta.
+
+## Miten kotitalousvähennys toimii aurinkopaneeleissa?
+
+Omakotitalon tai vapaa-ajan asunnon aurinkopaneelien asennustyöstä voi saada kotitalousvähennystä. Verohallinnon mukaan vähennyksen saa myös asunto-osakkeen omistaja, jos asennus kuuluu osakkaan kunnossapitovastuulle. Taloyhtiön kunnossapitovastuulle kuuluvasta työstä vähennystä ei saa.
+
+Tärkeää on, että vähennys koskee vain työn osuutta, ei laitteita eikä materiaaleja. Pyydä siksi laskuun työn osuus eriteltynä.
+
+Verohallinnon sivulla ilmoitetut määrät vuosille 2026–2027 (korotus tuli voimaan takautuvasti 1.1.2026 alkaen):
+
+- vähennys on 40 prosenttia yritykseltä ostetun työn hinnasta (sisältää arvonlisäveron); aiemmin 35 prosenttia
+- enimmäismäärä on 2 100 euroa henkilöä kohden vuodessa; aiemmin 1 600 euroa
+- omavastuu on 150 euroa
+
+Tarkista voimassa olevat luvut aina osoitteesta vero.fi ennen päätöstä.
+
+## Miten taloyhtiö voi jakaa aurinkosähköä asukkaille?
+
+Motivan mukaan taloyhtiöt ovat voineet vuodesta 2021 lähtien hyödyntää hyvityslaskentaa. Säännöt perustuvat asetukseen 767/2021. Kun taloyhtiö perustaa energiayhteisön, katolla tuotettu aurinkosähkö käytetään ensin täysimääräisesti kiinteistösähkön käyttöpaikassa. Sen ylittävä tuotanto jyvitetään huoneistoille ja liiketiloille, ja vasta loppuosa myydään sähköverkkoon. Laskenta tehdään jakeluverkkoyhtiön välityksellä Fingridin Datahubissa, ja tasejakso on 15 minuuttia.
+
+Asunto-osakeyhtiössä sähkö jyvitetään huoneistoille osakeomistusten suhteessa, ellei yhtiöjärjestyksessä määrätä toisin. Jako-osuuksien summan on oltava tasan 100 prosenttia. Osallistuminen on vapaaehtoista, ja osakas voi irtisanoutua energiayhteisöstä.
+
+Päätöksenteko Motivan mukaan:
+
+- Yhtiökokous voi päättää enemmistöpäätöksellä energiayhteisön perustamisesta ja järjestelmän hankinnasta samassa kokouksessa.
+- Jos järjestelmä mitoitetaan suuremmaksi, mutta yhteisöstä päätetään vasta myöhemmin, hankintapäätös voi edellyttää määräenemmistöä.
+- Jos järjestelmä on jo hankittu, hallitus voi päättää energiayhteisön perustamisesta ilman yhtiökokousta.
+- Jos verkkoon myyntiä ei pidetä vähäisenä, taloyhtiön voi olla tarpeen hakeutua arvonlisäverovelvolliseksi.
+
+Energiayhteisön rekisteröi jakeluverkkoyhtiölle isännöitsijä tai muu hallituksen valtuuttama henkilö.
+
+## Mitä pitää tietää ennen hankintaa?
+
+- Selvitä katon kunto, suunta ja varjostus.
+- Pyydä tarjouksia useammalta toimittajalta, ja vertaa työn ja laitteiden osuuksia.
+- Ota yhteyttä verkkoyhtiöön ennen kuin järjestelmä liitetään verkkoon.
+- Taloyhtiössä: valmistele asia hallituksessa ja tuo se yhtiökokoukseen.
+
+Ylijäämäsähkön myynnin ja oman käytön verokohtelu on jätetty tältä sivulta pois, koska emme ole tarkistaneet sitä virallisesta lähteestä.
+
+## Usein kysyttyä aurinkopaneeleista Suomessa
+
+**Saako aurinkopaneelien asennuksesta kotitalousvähennystä?**
+Kyllä, omakotitalossa ja vapaa-ajan asunnossa, sekä asunto-osakkeessa, jos työ kuuluu osakkaan kunnossapitovastuulle. Vähennys koskee vain työn osuutta.
+
+**Voiko taloyhtiö jakaa aurinkosähköä asukkaille?**
+Kyllä. Kun taloyhtiö perustaa energiayhteisön, kiinteistösähkön ylittävä tuotanto jyvitetään hyvityslaskennassa huoneistoille, yleensä osakeomistusten suhteessa.
+
+**Paljonko aurinkosähköä Suomessa on?**
+Energiaviraston alustavien tietojen mukaan noin 1 600 MW vuoden 2025 lopussa.
+
+
+
+
+## Lähteet
+- Energiavirasto, tiedote 11.6.2026: https://energiavirasto.fi/-/aurinkosahkon-tuotantokapasiteetti-kasvoi-yli-neljanneksen-vuonna-2025-eniten-kasvua-teollisessa-mittaluokassa
+- Verohallinto, Kotitalousvähennyksen määrä: https://www.vero.fi/henkiloasiakkaat/vahennykset/kotitalousvahennys/kotitalousvahennyksen-maara/
+- Verohallinto, Mistä töistä vähennyksen saa: https://www.vero.fi/henkiloasiakkaat/vahennykset/kotitalousvahennys/mista-toista-vahennyksen-saa/
+- Eduskunta, HE 113/2026 vp: https://www.eduskunta.fi/asiat-ja-aanestykset/valtiopaivaasiat/asiakirjat/edktunnus/EDK-2026-AK-35417
+- Motiva, Energiayhteisön perustaminen taloyhtiössä (päivitetty 7.7.2026): https://www.motiva.fi/tietopankki/energiayhteiso-taloyhtiossa/
+- Motiva, Energiayhteisömallit: https://www.motiva.fi/tietopankki/energiayhteisomallit/
+
+
+---
+
+## Sólarsellur á Íslandi – nýting, leyfi og styrkir
+
+Källa: https://norsolis.com/is-solarsellur-a-islandi.html
+
+# Sólarsellur á Íslandi – hvað þarf að vita?
+
+<!-- AEO -->
+**Síðast uppfært:** 2026-10-07
+
+> **Stutt svar: Borga sólarsellur sig á Íslandi?** Það fer eftir aðstæðum. Samkvæmt Umhverfis- og orkustofnun má búast við nýtingarhlutfalli um 9% af uppsettu afli á Íslandi og framleiðslan er lítil yfir veturinn. Virkjanir undir 100 kW þurfa ekki virkjunarleyfi. Á köldum svæðum geta sólarorkuver verið styrkhæf samkvæmt lögum nr. 78/2002.
+
+### Staðreyndir í stuttu máli
+
+| Atriði | Gildi | Heimild | Dagsetning |
+|---|---|---|---|
+| Nýtingarhlutfall | um 9% af uppsettu afli | Umhverfis- og orkustofnun | athugað 2026-10-07 |
+| Virkjunarleyfi | Ekki þörf undir 100 kW | Umhverfis- og orkustofnun, Smávirkjanir | athugað 2026-10-07 |
+| Styrkir á köldum svæðum | Lög nr. 78/2002 | Umhverfis- og orkustofnun | athugað 2026-10-07 |
+<!-- /AEO -->
+
+Sólarsellur eru enn sjaldgæfar á Íslandi, en áhuginn fer vaxandi, sérstaklega í dreifbýli og á svæðum utan raforkukerfisins. Samkvæmt Umhverfis- og orkustofnun er orkuöflun með sólarorku vel raunhæf á Íslandi, en framleiðslan er þó lítil yfir dimmustu vetrarmánuðina. Hér förum við yfir við hverju má búast, hvaða leyfi gilda og hvaða reynsla er komin af verkefnum hér á landi. Upplýsingarnar voru yfirfarnar 7. október 2026.
+
+## Hversu mikið framleiða sólarsellur á Íslandi?
+
+Samkvæmt Umhverfis- og orkustofnun hefur reynslan í Norður-Evrópu sýnt að full afköst sólarsella nást um 10% tímans í meðalári. Á Íslandi má búast við aðeins lægra nýtingarhlutfalli, eða um 9% af uppsettu afli.
+
+Veturinn er dimmur og þá skila sólarorkuver litlu. Stofnunin bendir á að með samrekstri nokkurra orkukosta, til dæmis sólar, vinds og vatnsafls, megi jafna út orkuframleiðsluna. Rafhlöður geta svo mætt mismunandi álagi innan dagsins.
+
+Umhverfis- og orkustofnun bendir einnig á að uppsett afl sólarorku í heiminum hafi síðasta rúma áratug tvöfaldast á um þriggja ára fresti. Sem dæmi um norðlægt land nefnir stofnunin Finnland, þar sem 39.000 lítil sólarorkuver höfðu verið tengd við dreifikerfið í árslok 2021.
+
+## Hvað kosta sólarsellur og hversu lengi endast þær?
+
+Samkvæmt Umhverfis- og orkustofnun felst kostnaðurinn fyrst og fremst í kaupum á búnaði og uppsetningu. Eftir það er viðhaldskostnaður lítill. Líftími sólarsella getur verið afar langur, og algengt er að þær séu seldar með 25 ára framleiðendaábyrgð.
+
+## Eru styrkir í boði fyrir sólarsellur?
+
+Stofnunin segir að uppsetning sólarsella njóti engra almennra ríkisstyrkja, líkt og víða í Evrópu. Eftir að lögum um niðurgreiðslu húshitunarkostnaðar (78/2002) var breytt árið 2022 eru þó allar umhverfisvænar orkuöflunarleiðir styrkhæfar á köldum svæðum. Íbúar þeirra svæða ættu því að geta fengið sambærilegan styrk til sólarorkuvers og fengist fyrir varmadælu.
+
+Orkusetur úthlutaði auk þess samkeppnisstyrkjum til uppsetningar sólarsella árið 2024. Mikil aðsókn var að styrkjunum, og vegna takmarkaðs fjármagns fengu verkefni í dreifbýli eða utan samveitna úthlutun. Kannaðu hjá Orkusetri hvort nýir styrkir eru í boði.
+
+## Þarf leyfi og hvernig er tengt við dreifikerfið?
+
+Samkvæmt Umhverfis- og orkustofnun þurfa virkjanir með uppsett afl undir 1 MW ekki virkjunarleyfi nema tengja eigi þær við dreifikerfi eða flutningsnet. Virkjanir undir 100 kW þurfa heldur ekki virkjunarleyfi. Eigendur virkjana með uppsett afl frá 30 kW til 1.000 kW þurfa þó að skila tæknilegum upplýsingum til stofnunarinnar.
+
+Ef tengja á búnaðinn við dreifikerfið þarf hann meðal annars að uppfylla staðalinn ÍST EN 50549-1. Að öðru leyti gildir reglugerð um raforkuvirki almennt um smávirkjanir. Ræddu alltaf við dreifiveituna á þínu svæði áður en þú tengir.
+
+Í reynslu HYBES-verkefnisins kemur fram að sólarorka sé raunhæfur kostur til eigin notkunar á Íslandi, þó að afhending umframorku inn á kerfið sé enn í þróun.
+
+## Eru dæmi um sólarsellur á Íslandi?
+
+- **Garður í Eyjafjarðarsveit:** Á kúabúi með árlega raforkunotkun um 340.000 kWh var settur upp 43,5 kW sólorkubúnaður á þökum útihúsa. Áætlað er að hann framleiði um 12.400 kWh á ári.
+- **Akureyjar í Breiðafirði:** Með sólorkukerfi og rafhlöðu minnkaði olíunotkun dísilrafstöðvar úr allt að 40–50 l á dag í um 6 l á dag.
+- **Illugastaðir á Vestfjörðum:** Á sumarhúsasvæði utan raforkukerfis hefur 3 kW sólarorkukerfi dregið úr gasnotkun.
+- Samkvæmt Umhverfis- og orkustofnun eru nokkur lítil sólarorkuver þegar starfrækt sem ekki eru samtengd dreifikerfinu, til dæmis hjá IKEA í Garðabæ, Brimborg og Fallorku í Grímsey.
+
+## Algengar spurningar um sólarsellur á Íslandi
+
+**Borga sólarsellur sig á Íslandi?**
+Það fer eftir aðstæðum. Á Íslandi má búast við nýtingarhlutfalli um 9% af uppsettu afli, og framleiðslan er lítil yfir veturinn.
+
+**Þarf leyfi fyrir sólarsellum?**
+Virkjanir undir 100 kW þurfa ekki virkjunarleyfi. Ef tengja á við dreifikerfið þarf búnaðurinn meðal annars að uppfylla ÍST EN 50549-1.
+
+**Eru styrkir í boði?**
+Á köldum svæðum geta sólarorkuver verið styrkhæf samkvæmt lögum nr. 78/2002. Orkusetur veitti einnig samkeppnisstyrki árið 2024.
+
+
+
+
+## Heimildir
+- Umhverfis- og orkustofnun, Smávirkjanir: https://orkustofnun.is/natturuaudlindir/smavirkjanir
+- Umhverfis- og orkustofnun, Sólarorka sem hluti af lausninni (21. maí 2026): https://uos.is/frettir/solarorka-sem-hluti-af-lausninni

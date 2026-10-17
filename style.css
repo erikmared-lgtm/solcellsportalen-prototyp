@@ -50,3 +50,6 @@ h2[id],h3[id],section[id]{scroll-margin-top:80px}
 .hero .after{border-left:0;border-top:3px solid var(--y);padding:10px 0 0}
 .hero a:not(.btn){color:var(--y)}
 .nlhero a{color:var(--b)}
+/* Felmeddelanden i formulär (2026-10-17) */
+.fel{color:#9B1C1C;background:#FDECEC;border-left:4px solid #9B1C1C;padding:8px 12px;font-weight:700}
+.fel[hidden]{display:none}

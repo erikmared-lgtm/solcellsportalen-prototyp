@@ -1,0 +1,63 @@
+{
+  "name": "Norsolis",
+  "description": "Jämförelsetjänst för batterier och solceller i Sverige. Användare kan begära offerter från upp till tre anslutna installatörer (villa) eller förslag för bostadsrättsföreningar. Gratis för användaren.",
+  "url": "https://norsolis.com/",
+  "version": "2026-10-17",
+  "provider": {
+    "organization": "Norsolis (Escritura AB)",
+    "url": "https://norsolis.com/"
+  },
+  "contact": "jan.svensson@norsolis.com",
+  "defaultInputModes": [
+    "application/x-www-form-urlencoded"
+  ],
+  "defaultOutputModes": [
+    "text/plain"
+  ],
+  "documentation": {
+    "instructions": "https://norsolis.com/agenter.html",
+    "openapi": "https://norsolis.com/openapi.json",
+    "llms": "https://norsolis.com/llms.txt",
+    "llms_full": "https://norsolis.com/llms-full.txt"
+  },
+  "consent": "Skicka aldrig en förfrågan utan att användaren uttryckligen har godkänt inskicket och uppgifterna. Fråga aldrig efter personnummer.",
+  "skills": [
+    {
+      "id": "offert-villa",
+      "name": "Begär offerter för villa",
+      "description": "Skickar villaägarens behov (fritext) och uppgifter till Norsolis, som förmedlar till upp till tre anslutna installatörer i området.",
+      "endpoint": "https://script.google.com/macros/s/AKfycby5GUxDZQ5uTXZV521vJRx_0FWMC4_RNoT4jABRK5e6lnb0pQqXrCHFyR2Wl-wSSUVi/exec",
+      "method": "POST",
+      "tags": [
+        "batteri",
+        "solceller",
+        "offert"
+      ],
+      "examples": [
+        "Jag vill ha offert på batteri till mina solceller i Uppsala"
+      ]
+    },
+    {
+      "id": "offert-brf",
+      "name": "Begär förslag för BRF",
+      "description": "Skickar föreningens behov och uppgifter till Norsolis.",
+      "endpoint": "https://script.google.com/macros/s/AKfycby5GUxDZQ5uTXZV521vJRx_0FWMC4_RNoT4jABRK5e6lnb0pQqXrCHFyR2Wl-wSSUVi/exec",
+      "method": "POST",
+      "tags": [
+        "brf",
+        "solceller",
+        "batteri"
+      ]
+    },
+    {
+      "id": "nyhetsbrev",
+      "name": "Anmälan till nyhetsbrev",
+      "description": "Anmäler en e-postadress till nyhetsbrevet efter uttryckligt samtycke.",
+      "endpoint": "https://script.google.com/macros/s/AKfycby5GUxDZQ5uTXZV521vJRx_0FWMC4_RNoT4jABRK5e6lnb0pQqXrCHFyR2Wl-wSSUVi/exec",
+      "method": "POST",
+      "tags": [
+        "nyhetsbrev"
+      ]
+    }
+  ]
+}
