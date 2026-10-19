@@ -30,12 +30,11 @@
                 "oneOf": [
                   {
                     "title": "Villa – fritext",
-                    "description": "Offertförfrågan för villa, läge=fritext: behov plus postnummer, kontakt och samtycke räcker. Skicka hustyp, projekt och elanvandning som \"ej angivet\" och behov även i meddelande.",
+                    "description": "Offertförfrågan för villa, läge=fritext: postnummer, kontakt och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka hustyp, projekt och elanvandning som \"ej angivet\" och behov även i meddelande.",
                     "type": "object",
                     "required": [
                       "typ",
                       "lage",
-                      "behov",
                       "postnummer",
                       "namn",
                       "epost",
@@ -53,7 +52,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Frivilligt i läge \"fritext\" (skicka \"ej angivet\" om användaren inte vill skriva något) och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "postnummer": {
@@ -266,7 +265,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Frivilligt i läge \"fritext\" (skicka \"ej angivet\" om användaren inte vill skriva något) och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "postnummer": {
@@ -454,12 +453,11 @@
                   },
                   {
                     "title": "BRF – fritext",
-                    "description": "Förfrågan för BRF, läge=fritext: behov plus förening, kontaktperson, roll, e-post, adress/ort och samtycke räcker. Skicka intresse som \"ej angivet\" och behov även i m.",
+                    "description": "Förfrågan för BRF, läge=fritext: förening, kontaktperson, roll, e-post, adress/ort och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka intresse som \"ej angivet\" och behov även i m.",
                     "type": "object",
                     "required": [
                       "typ",
                       "lage",
-                      "behov",
                       "n",
                       "kp",
                       "r",
@@ -479,7 +477,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Frivilligt i läge \"fritext\" (skicka \"ej angivet\" om användaren inte vill skriva något) och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "n": {
@@ -627,7 +625,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Frivilligt i läge \"fritext\" (skicka \"ej angivet\" om användaren inte vill skriva något) och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "n": {

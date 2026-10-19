@@ -51,7 +51,7 @@
 - [OpenAPI-beskrivning](https://norsolis.com/openapi.json): POST-anropet för villa, BRF och nyhetsbrev.
 - [Agent card](https://norsolis.com/.well-known/agent-card.json)
 
-En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer. Välj ett läge: `lage=fritext` (användarens egna ord i `behov`, samma text i `meddelande`/`m` som "Behov: …", och frågefälten `hustyp`/`projekt`/`elanvandning` resp. `intresse` = "ej angivet") eller `lage=fragor` (de strukturerade fälten i openapi.json, utan `behov`). Skicka aldrig båda. I båda lägena krävs kontaktuppgifter (villa: postnummer, namn, epost, kontaktsatt; BRF: n, kp, r, e, a), `samtycke=on`, `kalla=agent`, `fv=3` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
+En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer. Välj ett läge: `lage=fritext` (användarens egna ord i `behov`, frivilligt – "ej angivet" om tomt, samma text i `meddelande`/`m` som "Behov: …", och frågefälten `hustyp`/`projekt`/`elanvandning` resp. `intresse` = "ej angivet") eller `lage=fragor` (de strukturerade fälten i openapi.json, utan `behov`). Skicka aldrig båda. I båda lägena krävs kontaktuppgifter (villa: postnummer, namn, epost, kontaktsatt; BRF: n, kp, r, e, a), `samtycke=on`, `kalla=agent`, `fv=3` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
 
 ## Optional
 
