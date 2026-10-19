@@ -1,0 +1,72 @@
+# IndexNow: meddelar Bing, Yandex m.fl. vilka sidor som ändrats efter varje publicering.
+# Genereras av build.py (solcellsportalen) – ändra där, inte här.
+# Gratis, inga hemligheter: använder bara den automatiska GITHUB_TOKEN (läsrätt) för att vänta på Pages-bygget.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      alla:
+        description: 'Skicka alla URL:er i sitemap.xml'
+        type: boolean
+        default: true
+permissions:
+  contents: read
+  pages: read
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      HOST: norsolis.com
+      BASE: https://norsolis.com/
+      KEY: c275e088ac01c67430379d56ab390d21
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Vilka sidor har ändrats?
+        run: |
+          BEFORE="${{ github.event.before }}"; AFTER="${{ github.sha }}"
+          grep -o '<loc>[^<]*</loc>' sitemap.xml | sed -e 's/<loc>//' -e 's#</loc>##' | sort -u > alla.txt
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            echo "Kan inte avgöra ändringar: skickar alla URL:er i sitemap.xml"; cp alla.txt urls.txt
+          elif git diff --name-only "$BEFORE" "$AFTER" | grep -Eq '^([0-9a-f]{32}\.txt|\.github/workflows/indexnow\.yml)$'; then
+            echo "Nyckel eller workflow ändrad: skickar alla URL:er i sitemap.xml"; cp alla.txt urls.txt
+          else
+            git diff --name-only --diff-filter=AMR "$BEFORE" "$AFTER" -- '*.html' \
+              | sed -e 's#^index\.html$##' -e "s#^#$BASE#" | sort -u > andrade.txt
+            # bara sidor som finns i sitemap (indexerbara)
+            comm -12 andrade.txt alla.txt > urls.txt
+          fi
+          echo "Antal URL:er: $(wc -l < urls.txt)"; cat urls.txt
+      - name: Vänta på Pages-bygget för denna commit
+        run: |
+          [ -s urls.txt ] || { echo "Inga ändrade sidor – inget att skicka."; exit 0; }
+          for i in $(seq 1 60); do
+            J=$(curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H "Accept: application/vnd.github+json" \
+              "https://api.github.com/repos/${{ github.repository }}/pages/builds/latest" || echo '{}')
+            C=$(echo "$J" | jq -r '.commit // ""'); S=$(echo "$J" | jq -r '.status // ""')
+            echo "Försök $i: commit=$C status=$S"
+            if [ "$C" = "${{ github.sha }}" ] && [ "$S" = "built" ]; then break; fi
+            if [ "$C" = "${{ github.sha }}" ] && [ "$S" = "errored" ]; then echo "Pages-bygget misslyckades"; exit 1; fi
+            sleep 10
+          done
+          sleep 30   # CDN-cache
+      - name: Skicka till IndexNow
+        run: |
+          [ -s urls.txt ] || { echo "Inga ändrade sidor – inget att skicka."; exit 0; }
+          K=$(curl -fsS "${BASE}${KEY}.txt?cb=$(date +%s)" | tr -d '[:space:]' || true)
+          [ "$K" = "$KEY" ] || { echo "Nyckelfilen svarar inte rätt ($K)"; exit 1; }
+          jq -Rn --arg host "$HOST" --arg key "$KEY" --arg loc "${BASE}${KEY}.txt" \
+            '{host:$host,key:$key,keyLocation:$loc,urlList:[inputs|select(length>0)]}' < urls.txt > body.json
+          cat body.json
+          CODE=$(curl -sS -o svar.txt -w '%{http_code}' -X POST -H 'Content-Type: application/json; charset=utf-8' \
+            --data @body.json https://api.indexnow.org/indexnow)
+          echo "IndexNow svarade $CODE: $(cat svar.txt)"
+          [ "$CODE" = "200" ] || [ "$CODE" = "202" ]
