@@ -56,3 +56,8 @@ h2[id],h3[id],section[id]{scroll-margin-top:80px}
 .guidecta{margin:22px 0;padding:16px 20px;background:#fff7e0;border-left:4px solid var(--y);border-radius:10px}
 .guidecta p{margin:0 0 10px}
 .guidecta .btn.sm{margin:4px 8px 4px 0}
+.sr{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.lagesval{background:#fff7e0;border:2px solid var(--y)}
+.lagesval label.c{display:flex;gap:8px;align-items:flex-start;margin:8px 0}
+fieldset.lage{border:0;padding:0;margin:0}
+fieldset.lage[hidden]{display:none}

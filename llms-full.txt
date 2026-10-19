@@ -1,6 +1,6 @@
 # Norsolis
 
-> Transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
+> Jämförelsetjänst för batterier och solceller. Gratis för användaren. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
 
 ## Räkna & jämför
 
@@ -38,8 +38,8 @@
 
 ## Om tjänsten
 
-- [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en transparent jämförelsetjänst för batterier och solceller, finansierad av anslutna installatörer. Så fungerar urval, ersättning och kontakt.
-- [Vad tjänade ett hembatteri på elpristoppen? | Norsolis](https://norsolis.com/batteri-elpristopp.html): Dyraste kvarten 13 september 2026 kostade 8,98 kr/kWh i SE4. Tibber uppskattar 60–90 kr för ett standardbatteri och ser värdet i daglig styrning.
+- [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en jämförelsetjänst för batterier och solceller. Gratis för dig. Så fungerar urval och kontakt.
+- [Vad tjänade ett hembatteri på elpristoppen? | Norsolis](https://norsolis.com/batteri-elpristopp.html): Dyraste kvarten 14 september 2026 kostade 8,98 kr/kWh i SE4. Tibber uppskattar 60–90 kr för ett standardbatteri och ser värdet i daglig styrning.
 - [Bli pilotpartner (för installatörer)](https://norsolis.com/partner.html): Information för installatörer som vill bli anslutna partner.
 - [Integritetspolicy](https://norsolis.com/integritet.html)
 - [Alla guider](https://norsolis.com/kunskap.html)
@@ -51,7 +51,7 @@
 - [OpenAPI-beskrivning](https://norsolis.com/openapi.json): POST-anropet för villa, BRF och nyhetsbrev.
 - [Agent card](https://norsolis.com/.well-known/agent-card.json)
 
-En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer. Skicka användarens behov med egna ord i `behov` (och samma text först i `meddelande`/`m` som "Behov: …") tillsammans med de strukturerade fälten i openapi.json, plus `samtycke=on`, `kalla=agent` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
+En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer. Välj ett läge: `lage=fritext` (användarens egna ord i `behov`, samma text i `meddelande`/`m` som "Behov: …", och frågefälten `hustyp`/`projekt`/`elanvandning` resp. `intresse` = "ej angivet") eller `lage=fragor` (de strukturerade fälten i openapi.json, utan `behov`). Skicka aldrig båda. I båda lägena krävs kontaktuppgifter (villa: postnummer, namn, epost, kontaktsatt; BRF: n, kp, r, e, a), `samtycke=on`, `kalla=agent`, `fv=3` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
 
 ## Optional
 

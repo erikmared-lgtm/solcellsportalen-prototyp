@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "Norsolis förfrågningar",
-    "version": "2026-10-17",
+    "version": "2026-10-19",
     "description": "Skicka en offertförfrågan om batteri och solceller (villa eller bostadsrättsförening) eller en anmälan till nyhetsbrevet till Norsolis. Tjänsten är gratis för användaren. VIKTIGT för agenter: skicka bara efter att användaren uttryckligen har godkänt inskicket och uppgifterna, och hitta aldrig på uppgifter. Fråga aldrig efter personnummer. Instruktioner: https://norsolis.com/agenter.html",
     "contact": {
       "name": "Norsolis",
@@ -29,16 +29,14 @@
               "schema": {
                 "oneOf": [
                   {
-                    "title": "Villa",
-                    "description": "Offertförfrågan för villa.",
+                    "title": "Villa – fritext",
+                    "description": "Offertförfrågan för villa, läge=fritext: behov plus postnummer, kontakt och samtycke räcker. Skicka hustyp, projekt och elanvandning som \"ej angivet\" och behov även i meddelande.",
                     "type": "object",
                     "required": [
                       "typ",
+                      "lage",
                       "behov",
                       "postnummer",
-                      "hustyp",
-                      "projekt",
-                      "elanvandning",
                       "namn",
                       "epost",
                       "kontaktsatt",
@@ -55,7 +53,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord (obligatoriskt). Skicka samma text även först i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "postnummer": {
@@ -65,34 +63,37 @@
                       },
                       "hustyp": {
                         "type": "string",
-                        "description": "Hustyp.",
+                        "description": "Hustyp. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
                         "enum": [
                           "Villa",
                           "Radhus",
                           "Parhus",
                           "Fritidshus",
                           "Annat",
-                          "Vet inte"
+                          "Vet inte",
+                          "ej angivet"
                         ]
                       },
                       "projekt": {
                         "type": "string",
-                        "description": "Projekt.",
+                        "description": "Projekt. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
                         "enum": [
                           "Batteri + solceller",
-                          "Batteri till befintliga solceller"
+                          "Batteri till befintliga solceller",
+                          "ej angivet"
                         ]
                       },
                       "elanvandning": {
                         "type": "string",
-                        "description": "Elanvandning.",
+                        "description": "Elanvandning. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
                         "enum": [
                           "Under 10 000 kWh",
                           "10 000–15 000 kWh",
                           "15 000–20 000 kWh",
                           "20 000–25 000 kWh",
                           "Över 25 000 kWh",
-                          "Vet inte"
+                          "Vet inte",
+                          "ej angivet"
                         ]
                       },
                       "kontaktsatt": {
@@ -183,7 +184,7 @@
                       },
                       "meddelande": {
                         "type": "string",
-                        "description": "\"Behov: <behov>\" följt av ev. övrigt."
+                        "description": "Läge fritext: \"Behov: <behov>\". Läge fragor: ev. övrigt (valfritt)."
                       },
                       "samtycke": {
                         "type": "string",
@@ -204,9 +205,17 @@
                       },
                       "fv": {
                         "type": "string",
-                        "description": "Formulärversion. Skicka \"2\".",
+                        "description": "Formulärversion. Skicka \"3\".",
                         "enum": [
-                          "2"
+                          "3"
+                        ]
+                      },
+                      "lage": {
+                        "type": "string",
+                        "description": "Läge: \"fritext\" (användaren beskriver med egna ord i behov; de strukturerade frågorna skickas inte) eller \"fragor\" (användaren svarar på de strukturerade frågorna; behov skickas inte). Skicka aldrig både fritext och frågesvar.",
+                        "enum": [
+                          "fritext",
+                          "fragor"
                         ]
                       },
                       "kalla": {
@@ -231,11 +240,225 @@
                     }
                   },
                   {
-                    "title": "BRF",
-                    "description": "Förfrågan för bostadsrättsförening. Korta fältnamn fungerar i alla versioner av mottagaren.",
+                    "title": "Villa – frågor",
+                    "description": "Offertförfrågan för villa, läge=fragor: de strukturerade fälten krävs. Skicka inte behov.",
                     "type": "object",
                     "required": [
                       "typ",
+                      "lage",
+                      "postnummer",
+                      "hustyp",
+                      "projekt",
+                      "elanvandning",
+                      "namn",
+                      "epost",
+                      "kontaktsatt",
+                      "samtycke",
+                      "t0"
+                    ],
+                    "properties": {
+                      "typ": {
+                        "type": "string",
+                        "description": "Formulärtyp.",
+                        "enum": [
+                          "villa"
+                        ]
+                      },
+                      "behov": {
+                        "type": "string",
+                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "maxLength": 3000
+                      },
+                      "postnummer": {
+                        "type": "string",
+                        "description": "Svenskt postnummer, 5 siffror.",
+                        "pattern": "^[0-9]{3} ?[0-9]{2}$"
+                      },
+                      "hustyp": {
+                        "type": "string",
+                        "description": "Hustyp. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "enum": [
+                          "Villa",
+                          "Radhus",
+                          "Parhus",
+                          "Fritidshus",
+                          "Annat",
+                          "Vet inte",
+                          "ej angivet"
+                        ]
+                      },
+                      "projekt": {
+                        "type": "string",
+                        "description": "Projekt. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "enum": [
+                          "Batteri + solceller",
+                          "Batteri till befintliga solceller",
+                          "ej angivet"
+                        ]
+                      },
+                      "elanvandning": {
+                        "type": "string",
+                        "description": "Elanvandning. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "enum": [
+                          "Under 10 000 kWh",
+                          "10 000–15 000 kWh",
+                          "15 000–20 000 kWh",
+                          "20 000–25 000 kWh",
+                          "Över 25 000 kWh",
+                          "Vet inte",
+                          "ej angivet"
+                        ]
+                      },
+                      "kontaktsatt": {
+                        "type": "string",
+                        "description": "Kontaktsatt.",
+                        "enum": [
+                          "E-post",
+                          "Telefon",
+                          "Både e-post och telefon"
+                        ]
+                      },
+                      "tid": {
+                        "type": "string",
+                        "description": "Tid.",
+                        "enum": [
+                          "Förmiddag",
+                          "Eftermiddag",
+                          "Kväll"
+                        ]
+                      },
+                      "elbil": {
+                        "type": "string",
+                        "description": "Elbil.",
+                        "enum": [
+                          "Ja",
+                          "Nej",
+                          "Planerar"
+                        ]
+                      },
+                      "uppvarmning": {
+                        "type": "string",
+                        "description": "Uppvarmning.",
+                        "enum": [
+                          "Värmepump",
+                          "Direktverkande el",
+                          "Nej",
+                          "Vet ej"
+                        ]
+                      },
+                      "elavtal": {
+                        "type": "string",
+                        "description": "Elavtal.",
+                        "enum": [
+                          "Timpris eller kvartspris",
+                          "Rörligt månadspris",
+                          "Fast pris",
+                          "Vet ej"
+                        ]
+                      },
+                      "tidsplan": {
+                        "type": "string",
+                        "description": "Tidsplan.",
+                        "enum": [
+                          "Inom 3 månader",
+                          "Inom 3–12 månader",
+                          "Senare",
+                          "Vet inte"
+                        ]
+                      },
+                      "tak": {
+                        "type": "string",
+                        "description": "Tak.",
+                        "enum": [
+                          "Tegel eller betongpannor",
+                          "Plåt",
+                          "Papp",
+                          "Annat",
+                          "Vet inte"
+                        ]
+                      },
+                      "kwh": {
+                        "type": "string",
+                        "description": "Årsförbrukning i kWh om känd (valfritt).",
+                        "pattern": "^[0-9]{3,6}$"
+                      },
+                      "namn": {
+                        "type": "string",
+                        "description": "Namn."
+                      },
+                      "epost": {
+                        "type": "string",
+                        "description": "E-post.",
+                        "format": "email"
+                      },
+                      "telefon": {
+                        "type": "string",
+                        "description": "Telefon. Krävs om kontaktsatt är Telefon eller Både."
+                      },
+                      "meddelande": {
+                        "type": "string",
+                        "description": "Läge fritext: \"Behov: <behov>\". Läge fragor: ev. övrigt (valfritt)."
+                      },
+                      "samtycke": {
+                        "type": "string",
+                        "description": "Får bara sättas till \"on\" när användaren uttryckligen har godkänt att just denna förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer, och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html).",
+                        "enum": [
+                          "on"
+                        ]
+                      },
+                      "webbplats": {
+                        "type": "string",
+                        "description": "Honeypot. Lämna tomt.",
+                        "maxLength": 0
+                      },
+                      "t0": {
+                        "type": "string",
+                        "description": "Tidsstämpel i millisekunder (Unix) från när formuläret började fyllas i. Måste vara minst 3 sekunder före inskicket, annars kastas förfrågan tyst.",
+                        "pattern": "^[0-9]{13}$"
+                      },
+                      "fv": {
+                        "type": "string",
+                        "description": "Formulärversion. Skicka \"3\".",
+                        "enum": [
+                          "3"
+                        ]
+                      },
+                      "lage": {
+                        "type": "string",
+                        "description": "Läge: \"fritext\" (användaren beskriver med egna ord i behov; de strukturerade frågorna skickas inte) eller \"fragor\" (användaren svarar på de strukturerade frågorna; behov skickas inte). Skicka aldrig både fritext och frågesvar.",
+                        "enum": [
+                          "fritext",
+                          "fragor"
+                        ]
+                      },
+                      "kalla": {
+                        "type": "string",
+                        "description": "Källa. Agenter skickar \"agent\".",
+                        "enum": [
+                          "agent",
+                          "webb"
+                        ]
+                      },
+                      "sida": {
+                        "type": "string",
+                        "description": "Sida/kontext, t.ex. \"/agent\"."
+                      },
+                      "lang": {
+                        "type": "string",
+                        "description": "Språk.",
+                        "enum": [
+                          "sv"
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "title": "BRF – fritext",
+                    "description": "Förfrågan för BRF, läge=fritext: behov plus förening, kontaktperson, roll, e-post, adress/ort och samtycke räcker. Skicka intresse som \"ej angivet\" och behov även i m.",
+                    "type": "object",
+                    "required": [
+                      "typ",
+                      "lage",
                       "behov",
                       "n",
                       "kp",
@@ -256,7 +479,7 @@
                       },
                       "behov": {
                         "type": "string",
-                        "description": "Användarens behov med egna ord (obligatoriskt). Skicka samma text även först i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
                         "maxLength": 3000
                       },
                       "n": {
@@ -311,18 +534,19 @@
                       },
                       "intresse": {
                         "type": "string",
-                        "description": "Intresse. Kan upprepas.",
+                        "description": "Intresse. Kan upprepas. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
                         "enum": [
                           "Batteri och solceller",
                           "Batteri",
                           "Solceller",
                           "Laddning (elbil)",
-                          "Vet inte än"
+                          "Vet inte än",
+                          "ej angivet"
                         ]
                       },
                       "m": {
                         "type": "string",
-                        "description": "\"Behov: <behov>\" följt av ev. övrigt."
+                        "description": "Läge fritext: \"Behov: <behov>\". Läge fragor: ev. övrigt (valfritt)."
                       },
                       "samtycke": {
                         "type": "string",
@@ -343,9 +567,165 @@
                       },
                       "fv": {
                         "type": "string",
-                        "description": "Formulärversion. Skicka \"2\".",
+                        "description": "Formulärversion. Skicka \"3\".",
                         "enum": [
-                          "2"
+                          "3"
+                        ]
+                      },
+                      "lage": {
+                        "type": "string",
+                        "description": "Läge: \"fritext\" (användaren beskriver med egna ord i behov; de strukturerade frågorna skickas inte) eller \"fragor\" (användaren svarar på de strukturerade frågorna; behov skickas inte). Skicka aldrig både fritext och frågesvar.",
+                        "enum": [
+                          "fritext",
+                          "fragor"
+                        ]
+                      },
+                      "kalla": {
+                        "type": "string",
+                        "description": "Källa. Agenter skickar \"agent\".",
+                        "enum": [
+                          "agent",
+                          "webb"
+                        ]
+                      },
+                      "sida": {
+                        "type": "string",
+                        "description": "Sida/kontext, t.ex. \"/agent\"."
+                      },
+                      "lang": {
+                        "type": "string",
+                        "description": "Språk.",
+                        "enum": [
+                          "sv"
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "title": "BRF – frågor",
+                    "description": "Förfrågan för BRF, läge=fragor: de strukturerade fälten krävs. Skicka inte behov. Korta fältnamn fungerar i alla versioner av mottagaren.",
+                    "type": "object",
+                    "required": [
+                      "typ",
+                      "lage",
+                      "n",
+                      "kp",
+                      "r",
+                      "e",
+                      "a",
+                      "intresse",
+                      "samtycke",
+                      "t0"
+                    ],
+                    "properties": {
+                      "typ": {
+                        "type": "string",
+                        "description": "Formulärtyp.",
+                        "enum": [
+                          "brf"
+                        ]
+                      },
+                      "behov": {
+                        "type": "string",
+                        "description": "Användarens behov med egna ord. Krävs i läge \"fritext\" och skickas inte alls i läge \"fragor\". I läge fritext: skicka samma text även i meddelandefältet som \"Behov: <text>\" så att den sparas även i äldre versioner av mottagaren.",
+                        "maxLength": 3000
+                      },
+                      "n": {
+                        "type": "string",
+                        "description": "Föreningens namn."
+                      },
+                      "o": {
+                        "type": "string",
+                        "description": "Organisationsnummer (valfritt)."
+                      },
+                      "kp": {
+                        "type": "string",
+                        "description": "Kontaktperson."
+                      },
+                      "r": {
+                        "type": "string",
+                        "description": "Roll i styrelsen.",
+                        "enum": [
+                          "Ordförande",
+                          "Ledamot",
+                          "Kassör",
+                          "Sekreterare",
+                          "Suppleant",
+                          "Förvaltare",
+                          "Annat"
+                        ]
+                      },
+                      "e": {
+                        "type": "string",
+                        "description": "E-post.",
+                        "format": "email"
+                      },
+                      "t": {
+                        "type": "string",
+                        "description": "Telefon (valfritt)."
+                      },
+                      "a": {
+                        "type": "string",
+                        "description": "Adress/ort."
+                      },
+                      "l": {
+                        "type": "string",
+                        "description": "Antal lägenheter (valfritt)."
+                      },
+                      "b": {
+                        "type": "string",
+                        "description": "Antal byggnader (valfritt)."
+                      },
+                      "y": {
+                        "type": "string",
+                        "description": "Ungefärlig takyta i m² (valfritt)."
+                      },
+                      "intresse": {
+                        "type": "string",
+                        "description": "Intresse. Kan upprepas. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "enum": [
+                          "Batteri och solceller",
+                          "Batteri",
+                          "Solceller",
+                          "Laddning (elbil)",
+                          "Vet inte än",
+                          "ej angivet"
+                        ]
+                      },
+                      "m": {
+                        "type": "string",
+                        "description": "Läge fritext: \"Behov: <behov>\". Läge fragor: ev. övrigt (valfritt)."
+                      },
+                      "samtycke": {
+                        "type": "string",
+                        "description": "Får bara sättas till \"on\" när användaren uttryckligen har godkänt att just denna förfrågan skickas till Norsolis och vidare till upp till tre anslutna installatörer, och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html).",
+                        "enum": [
+                          "on"
+                        ]
+                      },
+                      "webbplats": {
+                        "type": "string",
+                        "description": "Honeypot. Lämna tomt.",
+                        "maxLength": 0
+                      },
+                      "t0": {
+                        "type": "string",
+                        "description": "Tidsstämpel i millisekunder (Unix) från när formuläret började fyllas i. Måste vara minst 3 sekunder före inskicket, annars kastas förfrågan tyst.",
+                        "pattern": "^[0-9]{13}$"
+                      },
+                      "fv": {
+                        "type": "string",
+                        "description": "Formulärversion. Skicka \"3\".",
+                        "enum": [
+                          "3"
+                        ]
+                      },
+                      "lage": {
+                        "type": "string",
+                        "description": "Läge: \"fritext\" (användaren beskriver med egna ord i behov; de strukturerade frågorna skickas inte) eller \"fragor\" (användaren svarar på de strukturerade frågorna; behov skickas inte). Skicka aldrig både fritext och frågesvar.",
+                        "enum": [
+                          "fritext",
+                          "fragor"
                         ]
                       },
                       "kalla": {
@@ -415,9 +795,17 @@
                       },
                       "fv": {
                         "type": "string",
-                        "description": "Formulärversion. Skicka \"2\".",
+                        "description": "Formulärversion. Skicka \"3\".",
                         "enum": [
-                          "2"
+                          "3"
+                        ]
+                      },
+                      "lage": {
+                        "type": "string",
+                        "description": "Läge: \"fritext\" (användaren beskriver med egna ord i behov; de strukturerade frågorna skickas inte) eller \"fragor\" (användaren svarar på de strukturerade frågorna; behov skickas inte). Skicka aldrig både fritext och frågesvar.",
+                        "enum": [
+                          "fritext",
+                          "fragor"
                         ]
                       },
                       "kalla": {
