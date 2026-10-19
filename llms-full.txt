@@ -26,6 +26,7 @@
 - [Solceller i Sverige – statistik och utveckling](https://norsolis.com/solceller-i-sverige.html): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
 - [Solceller och miljö – klimat, energi, återvinning](https://norsolis.com/solceller-miljo.html): Solceller och miljö: hur snabbt en panel betalar tillbaka energin, vad den består av, hur återvinningen fungerar och vad producentansvaret innebär.
 - [Perovskit solceller, tandem och V2G – framtiden](https://norsolis.com/framtidens-solceller.html): Perovskit solceller och tandemceller slår rekord i labbet. Läs vad som är bevisat, vad som återstår och vad smarta nät och V2G kan betyda.
+- [Smart styrning av solceller och batteri (EMS)](https://norsolis.com/smart-styrning-solceller-batteri.html): Smart styrning (EMS) för solceller och batteri: kvartspriser, egen förbrukning, solprognos, effekttoppar och stödtjänster – och vad du ska fråga om i offerten.
 
 ## Länder
 
@@ -606,6 +607,10 @@ Priset påverkas av storlek, leverantör, typ av solceller och hur komplicerad i
 
 Skattereduktionen för grön teknik ger 15 procent av kostnaden för arbete och material för ett nätanslutet solcellssystem, och 50 procent för batterilager och laddbox. Avdraget dras direkt på fakturan. Taket är 50 000 kronor per person och år. Vid fast pris räknas 97 procent av totalpriset som arbete och material. Detaljerna finns under fliken Ekonomi och stöd. Vill du se vad det kan betyda för ditt hus kan du räkna med egna siffror i [solcellskalkylen](/solcellskalkyl). Resultatet visas direkt, utan kontaktuppgifter.
 
+## Varför ska jag fråga om styrningen?
+
+Sedan skattereduktionen på 60 öre per såld kWh slopades för el som matas in efter den 31 december 2025 är det mindre värt att sälja solel. Har du eller planerar du ett batteri är det styrsystemet som bestämmer när solelen används, lagras eller säljs, till exempel efter elpriset per kvart. Vår bedömning är att styrningen påverkar kalkylen mycket. Fråga därför i offerten vilken styrning som ingår, om den kostar något per månad och om den är öppen eller låst till en viss leverantör. [Så fungerar smart styrning](/smart-styrning-solceller-batteri).
+
 ## Behöver jag bygglov?
 
 Oftast inte, men det beror på var huset ligger. Enligt plan- och bygglagen (PBL) krävs bygglov för fasadändring, till exempel solceller på taket, bara på andra byggnader än en- och tvåbostadshus. För dem finns dessutom ett undantag för solenergianläggningar på högst 11 kW (9 kap. 15 § och 17 a §). Det betyder att en villa normalt inte behöver bygglov för solceller.
@@ -660,6 +665,8 @@ Få ett förslag på dimensionering och pris för just ditt hus.
 - Elsäkerhetsverket, Installera din solcellsanläggning: https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
 - Ei, Mikroproduktion av el: https://ei.se/konsument/el/mikroproduktion-av-el
 
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad: https://www.skatteverket.se/privat/fastigheterochbostad/inkomsterfranbostad/mikroproduktionavfornybarelprivatbostad.4.12815e4f14a62bc048f41a7.html
+
 
 ---
 
@@ -696,6 +703,17 @@ Elsäkerhetsverket sammanfattar nyttan med ett energilager så här: du kan i h�
 **3. Stödtjänster till elsystemet.** Svenska kraftnät köper stödtjänster för att hålla balansen i elsystemet i realtid, till exempel frekvenshållningsreserverna FCR-N, FCR-D upp och FCR-D ned. Privatpersoner kan inte sälja direkt till Svenska kraftnät. I stället tecknar du avtal med ett företag som är leverantör av balanstjänster (BSP) eller underleverantör till en sådan. Företaget samlar ihop många batterier och lägger bud. Priset fastställs per kvart och ersättningen till dig bestäms av ditt avtal med företaget.
 
 > Svenska kraftnät varnar för att privatpersoner har fått felaktig information om att myndigheten står bakom erbjudanden om stödtjänster. Svenska kraftnät söker inte upp hushåll och betalar inte ersättning direkt till privatpersoner.
+
+## Varför är smart styrning så viktig?
+
+Ett batteri gör ingenting smart på egen hand. Det är styrsystemet, ofta kallat EMS, som bestämmer när batteriet laddas, när det laddas ur och när solelen ska användas i huset eller säljas. Vanliga funktioner är:
+
+- **Elpriset per kvart.** Sedan den 1 oktober 2025 sätts elpriset på dagen före-marknaden per kvart. Med ett avtal med kvartspris kan styrningen ladda när det är billigt och använda batteriet när det är dyrt.
+- **Egen förbrukning och solprognos.** Styrningen kan prioritera husets egen förbrukning och avstå från att ladda med köpt el om det väntas bli soligt.
+- **Effekttoppar.** Tar elnätsföretaget betalt för effekt kan styrningen jämna ut topparna.
+- **Stödtjänster.** Via en BSP eller en underleverantör till en BSP kan batteriet bidra till balansen i elsystemet.
+
+Sedan skattereduktionen på 60 öre per kWh slopades för el som matas in efter den 31 december 2025 är det mindre värt att sälja solel och mer värt att flytta den i tid. **Vår bedömning är att styrningen avgör en stor del av hela systemets ekonomi.** Det är en bedömning, inte ett belagt faktum. Fråga därför i offerten vilken styrning som ingår, vad den kostar per månad, om den är öppen eller låst, om den fungerar med ditt elavtal och vem som i så fall säljer stödtjänsterna. [Läs guiden om smart styrning](/smart-styrning-solceller-batteri).
 
 ## Hur stort är grönt avdrag för ett batteri?
 
@@ -747,6 +765,9 @@ Vill du se hur ett batteri passar ihop med era solceller och er elanvändning?
 - Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
 - Energimyndigheten, Välj en anläggning som passar dina behov (reservkraft): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
 - Ei, Mikroproduktion av el (aggregator): https://ei.se/konsument/el/mikroproduktion-av-el
+
+- Svenska kraftnät, 15 minuters handelsperiod införd (1 oktober 2025): https://www.svk.se/press-och-nyheter/nyheter/elmarknad-allmant/2025/svenska-kraftnat-bekraftar-inforandet-av-15-minuters-handelsperiod-over-elomradesgranser-pa-dagen-fore-marknaden/
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad: https://www.skatteverket.se/privat/fastigheterochbostad/inkomsterfranbostad/mikroproduktionavfornybarelprivatbostad.4.12815e4f14a62bc048f41a7.html
 
 
 ---
@@ -1612,3 +1633,103 @@ Virkjanir undir 100 kW þurfa ekki virkjunarleyfi. Ef tengja á við dreifikerfi
 ## Heimildir
 - Umhverfis- og orkustofnun, Smávirkjanir: https://orkustofnun.is/natturuaudlindir/smavirkjanir
 - Umhverfis- og orkustofnun, Sólarorka sem hluti af lausninni (21. maí 2026): https://uos.is/frettir/solarorka-sem-hluti-af-lausninni
+
+
+---
+
+## Smart styrning av solceller och batteri (EMS)
+
+Källa: https://norsolis.com/smart-styrning-solceller-batteri.html
+
+# Smart styrning av solceller och batteri – därför spelar styrsystemet roll
+
+<!-- AEO -->
+**Senast uppdaterad:** 2026-10-19
+
+> **Kort svar: Vad gör smart styrning och varför spelar den roll?** Ett styrsystem (EMS) bestämmer när batteriet ska laddas och laddas ur. Det tittar på elpriset per kvart, husets förbrukning, prognosen för solproduktion och eventuella effektavgifter. Sedan skattereduktionen på 60 öre per såld kWh försvann för el som matas in efter 31 december 2025 är det, enligt vår bedömning, styrningen som avgör en stor del av hela systemets ekonomi. Fråga därför i offerten vilken styrning som ingår, vad den kostar per månad och om den är öppen eller låst.
+
+### Fakta i korthet
+
+| Uppgift | Värde | Källa | Datum |
+|---|---|---|---|
+| Elpriset sätts per kvart | Sedan leveransdag 1 oktober 2025 | Svenska kraftnät | 2025-10-01 |
+| Skattereduktion 60 öre/kWh | Gäller inte el som matas in efter 31 december 2025 | Skatteverket | hämtad 2026-10-19 |
+| Stödtjänster | Bara via BSP eller underleverantör till en BSP | Svenska kraftnät | granskad 2026-09-14 |
+| Grönt avdrag batteri | 50 % av arbete och material | Skatteverket | hämtad 2026-10-19 |
+<!-- /AEO -->
+
+Ett batteri gör ingenting smart på egen hand. Det är styrsystemet, ofta kallat EMS (energy management system), som bestämmer när batteriet laddas, när det laddas ur och när solelen ska användas i huset eller säljas. Två batterier med samma kapacitet kan därför ge olika nytta beroende på hur de styrs. Här går vi igenom vad styrningen gör, varför den har blivit viktigare och vad du ska fråga om i offerten.
+
+## Vad gör ett styrsystem för solceller och batteri?
+
+Vad ett styrsystem faktiskt kan göra skiljer sig mellan tillverkare och tjänster. Vanliga funktioner är:
+
+- **Laddar och laddar ur efter elpriset per kvart.** Sedan den 1 oktober 2025 sätts priset på dagen före-marknaden per kvart i stället för per timme. Har du ett avtal med rörligt kvartspris kan styrningen ladda när det är billigt och använda batteriet när det är dyrt.
+- **Prioriterar husets egen förbrukning.** Solel som du använder själv i stället för att köpa är i regel värd mer än solel som du säljer. Se avsnittet om 60-öringen nedan.
+- **Använder en prognos för solproduktionen.** Om det ser ut att bli soligt i morgon behöver batteriet inte fyllas med köpt el i natt.
+- **Kapar effekttoppar.** Tar ditt elnätsföretag betalt för den högsta effekten du tar ut kan batteriet jämna ut topparna. Hur mycket det är värt beror på ditt elnätsföretag och din nättariff.
+- **Kan delta i stödtjänster.** Via ett företag som är BSP (leverantör av balanstjänster) eller underleverantör till en BSP kan batteriet bidra till att hålla balansen i elsystemet.
+
+Funktionerna kan krocka med varandra. Ett batteri som är reserverat för stödtjänster kan till exempel inte samtidigt vara tömt för att kapa en effekttopp. Fråga hur systemet prioriterar.
+
+## Varför är styrningen viktigare efter 60-öringen?
+
+Fram till och med 31 december 2025 kunde mikroproducenter få skattereduktion med 60 öre per kWh för el som matades in på elnätet. Riksdagen har slopat den, och för el som matas in från och med 1 januari 2026 får du ingen skattereduktion.
+
+Det gör det mindre värt att sälja solel och mer värt att använda den själv eller flytta den till dyrare tider. Det är just den flytten som styrsystemet sköter. **Vår bedömning är att styrningen står för en stor del av hela systemets ekonomi.** Det är en bedömning, inte ett belagt faktum. Vi har inte hittat någon myndighetskälla som mäter hur stor del av nyttan som beror på styrningen.
+
+Vill du läsa mer om kalkylen utan 60-öringen? Se [Lönar sig solceller?](gront-avdrag-solceller.html)
+
+## Kvartspris, effektavgifter och stödtjänster – vad betyder de för styrningen?
+
+**Kvartspris.** Svenska kraftnät förklarar att den som har haft timpris kan få avtalet omvandlat till kvartspris, medan fast pris och månadspris inte berörs direkt. Med fast pris eller månadspris har styrningen alltså inget elpris att jaga. Då handlar nyttan främst om egen förbrukning och eventuella effektavgifter.
+
+**Effektavgifter.** Ei upphävde i juni 2026 kravet på att alla elnätsföretag ska ha effektavgift från 2027. Elnätsföretag får fortfarande ha effektavgifter, och en ny modell ska föreslås senast den 12 april 2027. Kontrollera därför vad just ditt elnätsföretag tar betalt för.
+
+**Stödtjänster.** Svenska kraftnät köper stödtjänster, till exempel FCR-N, FCR-D upp och FCR-D ned, för att hålla balansen i elsystemet. Privatpersoner kan inte sälja direkt till Svenska kraftnät. Ersättningen betalas till BSP:n, som ersätter sina kunder enligt avtalet. Priset fastställs per kvart, och ersättning betalas bara när ett bud har avropats. Svenska kraftnät har ingen kännedom om eller möjlighet att påverka hur mycket en privatperson får.
+
+> Svenska kraftnät söker inte upp hushåll för att sälja stödtjänster eller energiinvesteringar. Var vaksam om någon säger sig representera Svenska kraftnät.
+
+## Vad ska jag fråga om styrningen i offerten?
+
+Be installatören svara skriftligt på de här frågorna. Svaren gör offerterna lättare att jämföra.
+
+1. **Vilken styrning ingår?** Tillverkarens egen app, en tjänst från elhandlaren eller en fristående EMS? Vilka funktioner ingår: kvartspris, solprognos, effekttoppar och stödtjänster?
+2. **Vad kostar den per månad, och hur länge?** Ingår styrningen i priset, eller är det ett abonnemang? Vad händer med priset efter en kampanjperiod?
+3. **Är systemet öppet eller låst?** Kan du byta styrtjänst, elhandlare eller aggregator utan att byta batteri eller växelriktare? Finns ett dokumenterat gränssnitt?
+4. **Fungerar det med mitt elavtal?** Kräver styrningen ett visst elavtal eller en viss elhandlare? Hanterar den kvartspriser?
+5. **Stödtjänster: via vem och på vilka villkor?** Vilket företag är BSP eller underleverantör? Hur delas ersättningen? Hur mycket av batteriet reserveras, och kan du säga upp avtalet?
+6. **Vad händer om tjänsten läggs ner eller internet går ner?** Fortsätter batteriet att fungera i ett grundläge?
+7. **Reservkraft.** Ett batteri ger inte automatiskt el vid strömavbrott. Enligt Energimyndigheten krävs bland annat en växelriktare som klarar ö-drift. Ska det ingå måste det stå i offerten.
+
+Tänk på att aktörer som själva säljer styrning eller stödtjänster också tar fram egna siffror om intäkterna. Se dem som säljarens uppskattningar. Ett exempel finns i artikeln om [hembatteriet och elpristoppen](batteri-elpristopp.html).
+
+## Smart styrning i en bostadsrättsförening
+
+För en BRF är principen densamma, men kalkylen ser annorlunda ut. Föreningen får inte grönt avdrag. Nyttan handlar därför om att använda mer solel i fastigheten, om eventuella effektavgifter i föreningens nättariff och om stödtjänster via en aggregator. Ei beskriver hur en aggregator köper flexibilitet från flera mindre producenter och säljer den vidare till Svenska kraftnät eller på lokala flexmarknader. Be om ett skriftligt svar på samma frågor som ovan, och be dessutom om en förklaring som styrelsen kan ta med till stämman. Mer om föreningar finns på sidan [Solceller för BRF](solceller-brf.html).
+
+## Vanliga frågor om smart styrning
+
+**Vad är ett EMS?**
+Ett energy management system, alltså ett styrsystem som bestämmer när batteriet laddas och laddas ur utifrån elpris, förbrukning, solprognos och eventuella effektavgifter.
+
+**Behöver jag kvartspris för att ha nytta av styrningen?**
+Nej, men med fast pris eller månadspris finns inget elpris att flytta förbrukningen efter. Då handlar nyttan främst om egen förbrukning och effekttoppar.
+
+**Kan jag sälja stödtjänster själv?**
+Nej. Enligt Svenska kraftnät går det bara via ett företag som är BSP eller underleverantör till en BSP.
+
+**Hur mycket sparar smart styrning?**
+Det beror på elavtal, förbrukning, nättariff och marknaden för stödtjänster. Vi anger ingen generell siffra.
+
+## Källor
+
+- Svenska kraftnät, 15 minuters handelsperiod på Dagen före-marknaden för el införs 30 september (12 september 2025): https://www.svk.se/press-och-nyheter/nyheter/elmarknad-allmant/2025/15-minuters-handelsperiod-pa-dagen-fore-marknaden-for-el-infors-30-september/
+- Svenska kraftnät, Svenska kraftnät bekräftar införandet av 15 minuters handelsperiod (1 oktober 2025): https://www.svk.se/press-och-nyheter/nyheter/elmarknad-allmant/2025/svenska-kraftnat-bekraftar-inforandet-av-15-minuters-handelsperiod-over-elomradesgranser-pa-dagen-fore-marknaden/
+- Svenska kraftnät, Hur påverkas mitt elpris av att elnätsbolagen mäter per kvart? (granskad 21 januari 2025): https://www.svk.se/utveckling-av-kraftsystemet/systemansvar--elmarknad/ny-nordisk-balanseringsmodell-nbm/15-minuters-tidsupplosning/generella-fragor-och-svar-om-15-minuters-tidsupplosning/hur-paverkas-mitt-elpris-av-att-elnatsbolagen-mater-per-kvart-i-stallet-for-per-timme/
+- Svenska kraftnät, Så kan du som privatperson bidra med stödtjänster (granskad 14 september 2026): https://www.svk.se/om-kraftsystemet/om-systemansvaret/verktyg-for-systemdrift/stodtjanster-och-avhjalpande-atgarder/sa-kan-du-som-privatperson-bidra-med-stodtjanster/
+- Skatteverket, Mikroproduktion av förnybar el – privatbostad (hämtad 19 oktober 2026): https://www.skatteverket.se/privat/fastigheterochbostad/inkomsterfranbostad/mikroproduktionavfornybarelprivatbostad.4.12815e4f14a62bc048f41a7.html
+- Skatteverket, Godkända arbeten – grön teknik (hämtad 19 oktober 2026): https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
+- Ei, Ei upphäver föreskrifterna om utformning av nättariffer (17 juni 2026): https://ei.se/om-oss/nyheter/2026/2026-06-17-ei-upphaver-foreskrifterna-om-utformning-av-nattariffer
+- Ei, Mikroproduktion av el (aggregator, odaterad): https://ei.se/konsument/el/mikroproduktion-av-el
+- Energimyndigheten, Välj en anläggning som passar dina behov (reservkraft, odaterad): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/

@@ -26,6 +26,7 @@
 - [Solceller i Sverige – statistik och utveckling](https://norsolis.com/solceller-i-sverige.html): Solceller i Sverige: från Huvudsta 1984 till 314 579 nätanslutna anläggningar 2025. Officiell statistik, stödens historia och vad som händer nu.
 - [Solceller och miljö – klimat, energi, återvinning](https://norsolis.com/solceller-miljo.html): Solceller och miljö: hur snabbt en panel betalar tillbaka energin, vad den består av, hur återvinningen fungerar och vad producentansvaret innebär.
 - [Perovskit solceller, tandem och V2G – framtiden](https://norsolis.com/framtidens-solceller.html): Perovskit solceller och tandemceller slår rekord i labbet. Läs vad som är bevisat, vad som återstår och vad smarta nät och V2G kan betyda.
+- [Smart styrning av solceller och batteri (EMS)](https://norsolis.com/smart-styrning-solceller-batteri.html): Smart styrning (EMS) för solceller och batteri: kvartspriser, egen förbrukning, solprognos, effekttoppar och stödtjänster – och vad du ska fråga om i offerten.
 
 ## Länder
 
