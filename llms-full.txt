@@ -922,7 +922,7 @@ Som jämförelse uppger Fraunhofer att solel i Tyskland 2025 gjorde att utsläpp
 
 ## Vad består en solpanel av?
 
-Fraunhofer ISE redovisar materialsammansättningen i en typisk kiselmodul. Den består till största delen av glas (cirka 67 procent av vikten) och en aluminiumram (cirka 13 procent). I mindre mängder finns bland annat koppar i ledarna (cirka 1,3 procent), silikon (cirka 1,2 procent) samt tenn och bly (vardera cirka 0,09 procent). Fraunhofer noterar att högtransparent solglas kan innehålla antimon, men att det kan tillverkas utan och att vissa europeiska leverantörer gör så.
+Fraunhofer ISE redovisar materialsammansättningen i en typisk kiselmodul. Den består till största delen av glas (cirka 67 procent av vikten) och en aluminiumram (cirka 13 procent). I mindre mängder finns bland annat koppar i ledarna (cirka 1,3 procent), silikon (cirka 1,2 procent) samt tenn och bly (vardera cirka 0,09 procent). Fraunhofer noterar att solglas med hög ljusgenomsläpplighet kan innehålla antimon, men att det kan tillverkas utan och att vissa europeiska leverantörer gör så.
 
 För tunnfilm gäller enligt Energimyndigheten att CdTe-solceller innehåller mer av det miljöfarliga ämnet kadmium än CIGS-solceller.
 
