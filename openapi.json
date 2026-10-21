@@ -187,7 +187,7 @@
                       },
                       "samtycke": {
                         "type": "string",
-                        "description": "Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
+                        "description": "Får sättas till \"on\" först när användaren uttryckligen har godkänt följande samtyckestext för just denna förfrågan och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html). Samtyckestext: Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
                         "enum": [
                           "on"
                         ]
@@ -400,7 +400,7 @@
                       },
                       "samtycke": {
                         "type": "string",
-                        "description": "Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
+                        "description": "Får sättas till \"on\" först när användaren uttryckligen har godkänt följande samtyckestext för just denna förfrågan och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html). Samtyckestext: Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
                         "enum": [
                           "on"
                         ]
@@ -548,7 +548,7 @@
                       },
                       "samtycke": {
                         "type": "string",
-                        "description": "Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
+                        "description": "Får sättas till \"on\" först när användaren uttryckligen har godkänt följande samtyckestext för just denna förfrågan och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html). Samtyckestext: Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
                         "enum": [
                           "on"
                         ]
@@ -696,7 +696,7 @@
                       },
                       "samtycke": {
                         "type": "string",
-                        "description": "Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
+                        "description": "Får sättas till \"on\" först när användaren uttryckligen har godkänt följande samtyckestext för just denna förfrågan och har fått länken till integritetspolicyn (https://norsolis.com/integritet.html). Samtyckestext: Jag vill att Norsolis skickar min förfrågan till en eller flera installatörer i mitt område som Norsolis väljer ut, och att de kontaktar mig på det sätt jag valt. Jag har läst integritetspolicyn.",
                         "enum": [
                           "on"
                         ]

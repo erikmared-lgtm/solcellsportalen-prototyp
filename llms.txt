@@ -1,6 +1,6 @@
 # Norsolis
 
-> Jämförelsetjänst för batterier och solceller. Gratis för användaren. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från upp till tre installatörer. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
+> Jämförelsetjänst för batterier och solceller. Gratis för användaren. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från en eller flera installatörer i området som Norsolis väljer ut. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
 
 ## Räkna & jämför
 
