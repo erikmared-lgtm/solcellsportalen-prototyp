@@ -1,6 +1,6 @@
 {
   "name": "Norsolis",
-  "description": "Jämförelsetjänst för batterier och solceller i Sverige. Användare kan begära offerter från upp till tre anslutna installatörer (villa) eller förslag för bostadsrättsföreningar. Gratis för användaren.",
+  "description": "Jämförelsetjänst för batterier och solceller i Sverige. Användare kan begära offerter från en eller flera installatörer i området som Norsolis väljer ut (villa) eller förslag för bostadsrättsföreningar. Gratis för användaren.",
   "url": "https://norsolis.com/",
   "version": "2026-10-17",
   "provider": {
@@ -25,7 +25,7 @@
     {
       "id": "offert-villa",
       "name": "Begär offerter för villa",
-      "description": "Skickar villaägarens behov (fritext) och uppgifter till Norsolis, som förmedlar till upp till tre anslutna installatörer i området.",
+      "description": "Skickar villaägarens behov (fritext) och uppgifter till Norsolis, som skickar förfrågan vidare till en eller flera installatörer i området som Norsolis väljer ut.",
       "endpoint": "https://script.google.com/macros/s/AKfycby5GUxDZQ5uTXZV521vJRx_0FWMC4_RNoT4jABRK5e6lnb0pQqXrCHFyR2Wl-wSSUVi/exec",
       "method": "POST",
       "tags": [
