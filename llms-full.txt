@@ -1,17 +1,17 @@
 # Norsolis
 
-> Jämförelsetjänst för batterier och solceller. Gratis för användaren. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från en eller flera installatörer i området som Norsolis väljer ut. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-17.
+> Jämförelsetjänst för batterier och solceller. Gratis för användaren. Villaägare kan räkna på sitt hus utan att lämna kontaktuppgifter och jämföra offerter från en eller flera installatörer i området som Norsolis väljer ut. Guider för villa och bostadsrättsföreningar med källor, och stöd och regler per land (Sverige, Norge, Danmark, Finland, Island). Senast uppdaterad 2026-10-22.
 
 ## Räkna & jämför
 
 - [Solcellskalkyl för villa – räkna på ditt hus | Norsolis](https://norsolis.com/solcellskalkyl.html): Räkna på batteri med solceller för ditt hus: investering efter grönt avdrag, årsnytta och återbetalning med ditt eget elpris. Utan kontaktuppgifter. Metodik och antaganden finns som text på sidan.
-- [Grönt avdrag solceller 2026 – regler och belopp](https://norsolis.com/gront-avdrag-solceller.html): Grönt avdrag för solceller 2026: 15 procent på arbete och material, 50 procent för batteri, tak 50 000 kr. Plus vad som gäller när 60-öringen är borta.
-- [Välja solcellsinstallatör – checklista](https://norsolis.com/valja-solcellsinstallator.html): Så väljer du solcellsinstallatör: kontrollera registreringen hos Elsäkerhetsverket, jämför offerter per kW och fråga om certifiering.
+- [Grönt avdrag 2026: solceller 15 %, batteri 50 % – räkneexempel | Norsolis](https://norsolis.com/gront-avdrag-solceller.html): Grönt avdrag för solceller 2026: 15 procent på arbete och material, 50 procent för batteri, tak 50 000 kr. Plus vad som gäller när 60-öringen är borta.
+- [Jämföra solcellsofferter – checklista för att välja installatör | Norsolis](https://norsolis.com/valja-solcellsinstallator.html): Så väljer du solcellsinstallatör: kontrollera registreringen hos Elsäkerhetsverket, jämför offerter per kW och fråga om certifiering.
 
 ## För villa
 
-- [Solceller på villa – storlek, pris och steg](https://norsolis.com/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
-- [Solcellsbatteri – lagra solel och få avdrag](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: när ett batterilager lönar sig, grönt avdrag på 50 procent, stödtjänster via aggregator, reservkraft och vad som gäller för BRF.
+- [Vad kostar solceller till villa 2026? Storlek, pris och steg | Norsolis](https://norsolis.com/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
+- [Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: när ett batterilager lönar sig, grönt avdrag på 50 procent, stödtjänster via aggregator, reservkraft och vad som gäller för BRF.
 - [Vanliga frågor om solceller – svar med källor](https://norsolis.com/vanliga-fragor-solceller.html): Vanliga frågor om solceller: kostnad, grönt avdrag, BRF, batterier, strömavbrott, bygglov, livslängd och att sälja överskottsel. Alla svar har källor.
 
 ## För BRF
@@ -559,14 +559,14 @@ Ett konkret förslag med dimensionering, delningsmodell och kalkyl gör det enkl
 
 ---
 
-## Solceller på villa – storlek, pris och steg
+## Vad kostar solceller till villa 2026? Storlek, pris och steg | Norsolis
 
 Källa: https://norsolis.com/solceller-villa.html
 
 # Solceller på villa – från tak och storlek till färdig anläggning
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-09
+**Senast uppdaterad:** 2026-10-22
 
 > **Kort svar: Hur stor solcellsanläggning behöver en villa och vad kostar den?** Det beror på takyta och elanvändning, men Energimyndigheten använder 5 kW som exempel på en rimlig storlek för en vanlig villa. En sådan anläggning kostar ungefär 92 500 kronor inklusive moms före grönt avdrag. Elinstallationen måste göras av ett registrerat elinstallationsföretag. Begär alltid aktuella offerter eftersom priserna varierar.
 
@@ -600,6 +600,16 @@ Storleken bör utgå både från takytan och från hur mycket el du använder ö
 ## Vad kostar solceller till en villa?
 
 Energimyndigheten anger att en anläggning på 5 kW, vilket är rimligt för en vanlig villa, kostar ungefär 92 500 kronor inklusive moms. Med grönt avdrag kan kostnaden för installationen sänkas med 15 procent. Energimyndigheten redovisar också, med IEA PVPS som källa, att priset för ett villasystem 2024 var 14,7 kronor per watt exklusive moms och att kostnaden justerat för inflation är den lägsta hittills.
+
+### Pris per storlek före och efter grönt avdrag
+
+Räkneexempel med Energimyndighetens genomsnittspris för villasystem 2024, 14,7 kronor per watt exklusive moms (källa IEA-PVPS, läst 2026-10-22). Moms 25 procent. Avdraget är räknat som Skatteverkets 15 procent av 97 procent av totalpriset vid fast pris, alltså 14,55 procent. Avrundat till närmaste 100 kronor. Det är ett genomsnitt från 2024 och inget offertpris.
+
+| Storlek | Exkl. moms | Inkl. moms, före avdrag | Efter grönt avdrag |
+|---|---|---|---|
+| 5 kW | ca 73 500 kr | ca 91 900 kr | ca 78 500 kr |
+| 8 kW | ca 117 600 kr | ca 147 000 kr | ca 125 600 kr |
+| 10 kW | ca 147 000 kr | ca 183 800 kr | ca 157 000 kr |
 
 Priset påverkas av storlek, leverantör, typ av solceller och hur komplicerad installationen är. Ta in flera offerter. Energimyndigheten rekommenderar minst tre.
 
@@ -655,6 +665,8 @@ Få ett förslag på dimensionering och pris för just ditt hus.
 
 
 ## Källor
+- Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (villasystem 2024: 14,7 kr/W, källa IEA-PVPS National Survey Report Sweden 2024; läst 2026-10-22): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
+- Skatteverket, Så fungerar skattereduktionen för grön teknik (läst 2026-10-22): https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
 - Boverket, PBL kunskapsbanken – Fasadändring (PBL 9 kap. 15 §, 17 a §, 36–37 §§; senast ändrad 1 juli 2026, läst 2026-10-09): https://www.boverket.se/sv/PBL-kunskapsbanken/lov--byggande/anmalningsplikt/byggnader/fasadandring/
 - Energimyndigheten, Välj en anläggning som passar dina behov: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/hur-stor-anlaggning-passar-mig/valj-en-anlaggning-som-passar-dina-behov/
 - Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud (pris 2024, tre offerter): https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
@@ -670,14 +682,14 @@ Få ett förslag på dimensionering och pris för just ditt hus.
 
 ---
 
-## Solcellsbatteri – lagra solel och få avdrag
+## Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis
 
 Källa: https://norsolis.com/solcellsbatteri.html
 
 # Solcellsbatteri – så fungerar energilagring med solceller
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-07
+**Senast uppdaterad:** 2026-10-22
 
 > **Kort svar: Lönar sig ett solcellsbatteri och vilket avdrag finns?** Det beror på din elanvändning, elnätsföretagets avgifter och vad du kan få för stödtjänster, så vi anger ingen generell återbetalningstid. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år. Stödtjänster till Svenska kraftnät säljs bara via en BSP eller underleverantör.
 
@@ -691,6 +703,14 @@ Källa: https://norsolis.com/solcellsbatteri.html
 <!-- /AEO -->
 
 Ett solcellsbatteri lagrar el som solcellerna producerar men som inte används just då, så att den kan användas senare. Batterier har på kort tid blivit en självklar del av många solcellsaffärer. Enligt Svensk Solenergi erbjuder i princip alla solcellsinstallatörer i dag batterilösningar, och en majoritet av anläggningarna installeras som hybridanläggningar med både solceller och batteri. Här går vi igenom vad ett batteri kan göra, vad det finns för stöd och vad du bör tänka på.
+
+## Vad kostar ett solcellsbatteri 2026?
+
+Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Grönt avdrag ger 50 procent av kostnaden för arbete och material. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket). Jämför offerter i kronor per kWh lagringskapacitet.
+
+## Kan jag lägga till batteri till befintliga solceller?
+
+Ja, det går. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Äldre växelriktare kan inte alltid styra ett batteri, så be installatören kontrollera om växelriktaren behöver bytas och ta med det i offerten.
 
 ## Vad kan ett solcellsbatteri användas till?
 
@@ -756,6 +776,7 @@ Vill du se hur ett batteri passar ihop med era solceller och er elanvändning?
 
 
 ## Källor
+- Skatteverket, Så fungerar skattereduktionen för grön teknik (läst 2026-10-22): https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
 - Svensk Solenergi, Solstatistik 2025: https://svensksolenergi.se/solstatistik-2025/
 - Elsäkerhetsverket, Installera din solcellsanläggning (energilager): https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
 - Boverket, Solel – Energiguiden: https://www.boverket.se/sv/energiguiden/energirenovera-smahus/5.valja_atgarder/solel/
@@ -772,16 +793,26 @@ Vill du se hur ett batteri passar ihop med era solceller och er elanvändning?
 
 ---
 
-## Grönt avdrag solceller 2026 – regler och belopp
+## Grönt avdrag 2026: solceller 15 %, batteri 50 % – räkneexempel | Norsolis
 
 Källa: https://norsolis.com/gront-avdrag-solceller.html
 
 # Grönt avdrag solceller 2026 – regler, belopp och övrig ekonomi
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-09
+**Senast uppdaterad:** 2026-10-22
 
 > **Kort svar: Hur mycket är grönt avdrag för solceller 2026?** Grönt avdrag för solceller är 15 procent av kostnaden för arbete och material. Vid fast pris räknas 97 procent som arbete och material, så avdraget blir i praktiken 14,55 procent av totalpriset. Taket är 50 000 kronor per person och år. Skattereduktionen för mikroproduktion, 60-öringen, slopades från och med den 1 januari 2026.
+
+### Grönt avdrag i korthet
+
+| Installation | Avdrag på arbete och material | Vid fast pris (97 % räknas som arbete och material) |
+|---|---|---|
+| Solceller | 15 % | 14,55 % av totalpriset |
+| Batteri (lagring av egenproducerad el) | 50 % | 48,5 % av totalpriset |
+| Laddningspunkt för elfordon | 50 % | 48,5 % av totalpriset |
+
+Tak: 50 000 kr per person och år. Källa: Skatteverket, Så fungerar skattereduktionen för grön teknik (läst 2026-10-22).
 
 ### Fakta i korthet
 
@@ -866,6 +897,7 @@ Gör en första uppskattning i [solcellskalkylen](/solcellskalkyl). Den räknar 
 
 
 ## Källor
+- Skatteverket, Så fungerar skattereduktionen för grön teknik (läst 2026-10-22): https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
 - Skatteverket, Grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik
 - Skatteverket, Så fungerar skattereduktionen för grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
 - Skatteverket, Godkända arbeten – grön teknik: https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/godkandaarbetengronteknik.html
@@ -1068,14 +1100,14 @@ Be om en anläggning som är förberedd för batteri, smart styrning och elbil.
 
 ---
 
-## Välja solcellsinstallatör – checklista
+## Jämföra solcellsofferter – checklista för att välja installatör | Norsolis
 
 Källa: https://norsolis.com/valja-solcellsinstallator.html
 
 # Välja solcellsinstallatör – en checklista för villa och BRF
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-07
+**Senast uppdaterad:** 2026-10-22
 
 > **Kort svar: Hur väljer jag en bra solcellsinstallatör?** Kontrollera först i Elsäkerhetsverkets e-tjänst Kolla elföretaget att företaget är registrerat för verksamhetstypen Elproduktionsanläggningar. Begär minst tre offerter, som Energimyndigheten rekommenderar, och jämför pris per kW, garantier och villkor. Certifiering är inget krav men ses som en fördel. Skriv avtal och gör en slutbesiktning.
 
@@ -1108,6 +1140,13 @@ Energimyndigheten rekommenderar offerter från minst tre leverantörer. Tänk p�
 - **Klargör vem som sköter anmälningarna** till elnätsföretaget och eventuellt bygglov.
 
 Du kan få kostnadsfri och opartisk rådgivning hos energi- och klimatrådgivningen i din kommun.
+
+## Hur jämför jag offerter på solceller och batteri?
+
+- **Solceller: räkna fram kr/kWp.** Dela totalpriset med anläggningens effekt i kilowatt (kWp). Energimyndigheten rekommenderar att jämföra pris per installerad effekt.
+- **Batteri: räkna fram kr/kWh.** Dela batteridelens pris med batteriets användbara kapacitet i kilowattimmar.
+- **Jämför samma sak.** Räkna på pris före och efter grönt avdrag i alla offerter, och kontrollera att moms, växelriktare, montage, styrning och eventuell reservkraft ingår.
+- **Kontrollera avdraget.** Grönt avdrag är 15 procent för solceller och 50 procent för batteri, på arbete och material (Skatteverket).
 
 ## 3. Behöver installatören vara certifierad?
 
@@ -1161,6 +1200,7 @@ Börja med en förfrågan, så får du underlag att jämföra enligt checklistan
 
 
 ## Källor
+- Skatteverket, Så fungerar skattereduktionen för grön teknik (läst 2026-10-22): https://www.skatteverket.se/privat/fastigheterochbostad/gronteknik/safungerarskattereduktionenforgronteknik
 - Elsäkerhetsverket, Installera din solcellsanläggning: https://www.elsakerhetsverket.se/privatpersoner/din-elanlaggning/bygga-och-renovera/installation-av-solceller/installera-din-solcellsanlaggning/
 - Elsäkerhetsverket, Kolla elföretaget: https://www.elsakerhetsverket.se/kollaelforetaget/
 - Energimyndigheten, Hjälp vid jämförelse av leverantörer och anbud: https://www.energimyndigheten.se/effektiv-energianvandning/guider/solelportalen/vad-ska-jag-tanka-pa-vid-inkop-och-val-av-leverantor/hjalp-vid-jamforelse-av-leverantorer-och-anbud/
@@ -1644,7 +1684,7 @@ Källa: https://norsolis.com/smart-styrning-solceller-batteri.html
 # Smart styrning av solceller och batteri – därför spelar styrsystemet roll
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-19
+**Senast uppdaterad:** 2026-10-22
 
 > **Kort svar: Vad gör smart styrning och varför spelar den roll?** Ett styrsystem (EMS) bestämmer när batteriet ska laddas och laddas ur. Det tittar på elpriset per kvart, husets förbrukning, prognosen för solproduktion och eventuella effektavgifter. Sedan skattereduktionen på 60 öre per såld kWh försvann för el som matas in efter 31 december 2025 är det, enligt vår bedömning, styrningen som avgör en stor del av hela systemets ekonomi. Fråga därför i offerten vilken styrning som ingår, vad den kostar per månad och om den är öppen eller låst.
 
@@ -1690,6 +1730,17 @@ Vill du läsa mer om kalkylen utan 60-öringen? Se [Lönar sig solceller?](gront
 
 > Svenska kraftnät söker inte upp hushåll för att sälja stödtjänster eller energiinvesteringar. Var vaksam om någon säger sig representera Svenska kraftnät.
 
+## Hur mycket kan ett hembatteri tjäna på stödtjänster (FCR-D)?
+
+Det finns ingen myndighetskälla som anger vad ett hembatteri tjänar, och Svenska kraftnät påverkar inte vad privatpersoner får. Det bestäms av avtalet med BSP:n eller aggregatorn. Det som finns är marknadspriset per MW och timme som Svenska kraftnät redovisar. Ett hembatteri har bara en liten del av en MW, och BSP:n tar en del av ersättningen.
+
+| Månad | FCR-D upp | FCR-D ned | Källa |
+|---|---|---|---|
+| April 2025 | 8,91 EUR/MW | 11,38 EUR/MW | Svenska kraftnät, månadsrapport (16 maj 2025) |
+| Oktober 2025 | 6,86 EUR/MW | 4,10 EUR/MW | Svenska kraftnät, månadsrapport (11 november 2025) |
+
+Priserna är månadsmedel per MW och timme och varierar mycket mellan timmar och månader. Be BSP:n om en skriftlig beräkning för ditt batteri.
+
 ## Vad ska jag fråga om styrningen i offerten?
 
 Be installatören svara skriftligt på de här frågorna. Svaren gör offerterna lättare att jämföra.
@@ -1723,6 +1774,8 @@ Nej. Enligt Svenska kraftnät går det bara via ett företag som är BSP eller u
 Det beror på elavtal, förbrukning, nättariff och marknaden för stödtjänster. Vi anger ingen generell siffra.
 
 ## Källor
+- Svenska kraftnät, Månadsrapporter för april om priser på FCR, aFRR och mFRR (16 maj 2025, läst 2026-10-22): https://www.svk.se/press-och-nyheter/nyheter/balansansvar/2025/manadsrapporter-for-april-om-priser-pa-fcr-afrr-och-mfrr/
+- Svenska kraftnät, Månadsrapporter för oktober om priser på FCR, aFRR och mFRR (11 november 2025, läst 2026-10-22): https://www.svk.se/press-och-nyheter/nyheter/balansansvar/2025/manadsrapporter-for-oktober-om-priser-pa-fcr-afrr-och-mfrr/
 
 - Svenska kraftnät, 15 minuters handelsperiod på Dagen före-marknaden för el införs 30 september (12 september 2025): https://www.svk.se/press-och-nyheter/nyheter/elmarknad-allmant/2025/15-minuters-handelsperiod-pa-dagen-fore-marknaden-for-el-infors-30-september/
 - Svenska kraftnät, Svenska kraftnät bekräftar införandet av 15 minuters handelsperiod (1 oktober 2025): https://www.svk.se/press-och-nyheter/nyheter/elmarknad-allmant/2025/svenska-kraftnat-bekraftar-inforandet-av-15-minuters-handelsperiod-over-elomradesgranser-pa-dagen-fore-marknaden/
