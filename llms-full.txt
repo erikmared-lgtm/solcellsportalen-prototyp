@@ -689,7 +689,9 @@ Källa: https://norsolis.com/solcellsbatteri.html
 # Solcellsbatteri – så fungerar energilagring med solceller
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-22
+**Senast uppdaterad:** 2026-10-27
+
+> **Kort svar: Kan jag lägga till batteri till befintliga solceller?** Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Äldre växelriktare kan inte alltid styra ett batteri, så be installatören kontrollera om växelriktaren behöver bytas och ta med det i offerten. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år.
 
 > **Kort svar: Lönar sig ett solcellsbatteri och vilket avdrag finns?** Det beror på din elanvändning, elnätsföretagets avgifter och vad du kan få för stödtjänster, så vi anger ingen generell återbetalningstid. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år. Stödtjänster till Svenska kraftnät säljs bara via en BSP eller underleverantör.
 
@@ -767,6 +769,9 @@ Det beror på din elanvändning, ditt elnätsföretags avgifter och vad du kan f
 
 **Kan jag sälja stödtjänster själv till Svenska kraftnät?**
 Nej. Det går bara via ett företag som är BSP eller underleverantör till en BSP.
+
+**Kan jag lägga till batteri till befintliga solceller?**
+Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Äldre växelriktare kan inte alltid styra ett batteri, så be installatören kontrollera om växelriktaren behöver bytas och ta med det i offerten. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år.
 
 ## Komplettera med batteri
 
