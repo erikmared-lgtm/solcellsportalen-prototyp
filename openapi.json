@@ -30,7 +30,7 @@
                 "oneOf": [
                   {
                     "title": "Villa – fritext",
-                    "description": "Offertförfrågan för villa, läge=fritext: postnummer, kontakt och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka hustyp, projekt och elanvandning som \"ej angivet\" och behov även i meddelande.",
+                    "description": "Offertförfrågan för villa, läge=fritext: postnummer, kontakt och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka projekt som användarens val: Solceller, Batteri eller Solceller + batteri. Skicka hustyp och elanvandning som \"ej angivet\" om de inte är ifyllda, och behov även i meddelande.",
                     "type": "object",
                     "required": [
                       "typ",
@@ -75,8 +75,11 @@
                       },
                       "projekt": {
                         "type": "string",
-                        "description": "Projekt. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "description": "Vad offerten gäller: Solceller, Batteri eller Solceller + batteri. Äldre värden Batteri + solceller och Batteri till befintliga solceller tas också emot. \"ej angivet\" bara om valet saknas.",
                         "enum": [
+                          "Solceller",
+                          "Batteri",
+                          "Solceller + batteri",
                           "Batteri + solceller",
                           "Batteri till befintliga solceller",
                           "ej angivet"
@@ -288,8 +291,11 @@
                       },
                       "projekt": {
                         "type": "string",
-                        "description": "Projekt. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "description": "Vad offerten gäller: Solceller, Batteri eller Solceller + batteri. Äldre värden Batteri + solceller och Batteri till befintliga solceller tas också emot. \"ej angivet\" bara om valet saknas.",
                         "enum": [
+                          "Solceller",
+                          "Batteri",
+                          "Solceller + batteri",
                           "Batteri + solceller",
                           "Batteri till befintliga solceller",
                           "ej angivet"
@@ -453,7 +459,7 @@
                   },
                   {
                     "title": "BRF – fritext",
-                    "description": "Förfrågan för BRF, läge=fritext: förening, kontaktperson, roll, e-post, adress/ort och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka intresse som \"ej angivet\" och behov även i m.",
+                    "description": "Förfrågan för BRF, läge=fritext: förening, kontaktperson, roll, e-post, adress/ort och samtycke krävs; behov är frivilligt (\"ej angivet\" om tomt). Skicka intresse som användarens val (Solceller, Batteri, Solceller + batteri eller övriga värden). \"ej angivet\" bara om valet saknas. Behov även i m.",
                     "type": "object",
                     "required": [
                       "typ",
@@ -532,11 +538,12 @@
                       },
                       "intresse": {
                         "type": "string",
-                        "description": "Intresse. Kan upprepas. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "description": "Vad förfrågan gäller: Solceller, Batteri eller Solceller + batteri, eller övriga värden i listan. \"ej angivet\" bara om valet saknas.",
                         "enum": [
-                          "Batteri och solceller",
-                          "Batteri",
                           "Solceller",
+                          "Batteri",
+                          "Solceller + batteri",
+                          "Batteri och solceller",
                           "Laddning (elbil)",
                           "Vet inte än",
                           "ej angivet"
@@ -680,11 +687,12 @@
                       },
                       "intresse": {
                         "type": "string",
-                        "description": "Intresse. Kan upprepas. I läge fritext: skicka \"ej angivet\" (krävs av nuvarande mottagare).",
+                        "description": "Vad förfrågan gäller: Solceller, Batteri eller Solceller + batteri, eller övriga värden i listan. \"ej angivet\" bara om valet saknas.",
                         "enum": [
-                          "Batteri och solceller",
-                          "Batteri",
                           "Solceller",
+                          "Batteri",
+                          "Solceller + batteri",
+                          "Batteri och solceller",
                           "Laddning (elbil)",
                           "Vet inte än",
                           "ej angivet"
