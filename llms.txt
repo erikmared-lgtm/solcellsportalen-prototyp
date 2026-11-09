@@ -11,7 +11,7 @@
 ## För villa
 
 - [Vad kostar solceller till villa 2026? Storlek, pris och steg | Norsolis](https://norsolis.com/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
-- [Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: när ett batterilager lönar sig, grönt avdrag på 50 procent, stödtjänster via aggregator, reservkraft och vad som gäller för BRF.
+- [Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: grönt avdrag 50 procent, AC- eller DC-koppling till befintliga solceller, stödtjänster via aggregator och reservkraft.
 - [Vanliga frågor om solceller – svar med källor](https://norsolis.com/vanliga-fragor-solceller.html): Vanliga frågor om solceller: kostnad, grönt avdrag, BRF, batterier, strömavbrott, bygglov, livslängd och att sälja överskottsel. Alla svar har källor.
 
 ## För BRF
@@ -51,7 +51,7 @@
 - [OpenAPI-beskrivning](https://norsolis.com/openapi.json): POST-anropet för villa, BRF och nyhetsbrev.
 - [Agent card](https://norsolis.com/.well-known/agent-card.json)
 
-En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och att upp till tre installatörer kan kontakta användaren. Välj ett läge: `lage=fritext` (användarens egna ord i `behov`, frivilligt – "ej angivet" om tomt, samma text i `meddelande`/`m` som "Behov: …", och frågefälten `hustyp`/`projekt`/`elanvandning` resp. `intresse` = "ej angivet") eller `lage=fragor` (de strukturerade fälten i openapi.json, utan `behov`). Skicka aldrig båda. I båda lägena krävs kontaktuppgifter (villa: postnummer, namn, epost, kontaktsatt; BRF: n, kp, r, e, a), `samtycke=on`, `kalla=agent`, `fv=3` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
+En agent får skicka en förfrågan **bara efter användarens uttryckliga samtycke** till att förfrågan skickas till Norsolis och att upp till tre installatörer kan kontakta användaren. Välj ett läge: `lage=fritext` (användarens egna ord i `behov`, frivilligt – "ej angivet" om tomt, samma text i `meddelande`/`m` som "Behov: …". Skicka `projekt` respektive `intresse` som användarens val: Solceller, Batteri eller Solceller + batteri. Övriga frågefält i fritext, `hustyp` och `elanvandning`, ska vara "ej angivet" om de inte är ifyllda) eller `lage=fragor` (de strukturerade fälten i openapi.json, inklusive samma produktval, utan `behov`). Skicka aldrig båda. I båda lägena krävs kontaktuppgifter (villa: postnummer, namn, epost, kontaktsatt; BRF: n, kp, r, e, a), `samtycke=on`, `kalla=agent`, `fv=3` och `t0`. Svaret `ok` betyder mottaget; allt annat betyder att förfrågan inte togs emot. Hitta aldrig på uppgifter och fråga aldrig efter personnummer.
 
 ## Optional
 
