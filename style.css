@@ -37,6 +37,12 @@ details{margin:14px 0;border:1px solid #c8cfd8;border-radius:8px;padding:10px 16
 input[aria-invalid=true]{border-color:#b3261e;background:#fff5f4}.err{color:#b3261e;font-weight:600}
 .kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:12px;margin:10px 0}.kpi{background:#eef5ee;border-radius:10px;padding:14px}.kpi span{font-size:.88rem;color:#2c4a3e}.kpi strong{display:block;font-size:1.5rem;color:var(--b);line-height:1.25;margin:4px 0}.kpi small{font-size:.8rem;color:#4a5866}
 table caption{text-align:left;font-weight:600;padding:6px 0;color:var(--b)}
+table.sumtbl{display:table;width:100%;table-layout:fixed}
+table.sumtbl th:nth-child(1){width:26%}
+table.sumtbl th:nth-child(2){width:40%}
+table.sumtbl th:nth-child(3){width:34%}
+table.sumtbl td,table.sumtbl th{hyphens:auto}
+#brandcell{scroll-margin-top:80px}
 .ctabox.big{display:block;background:#fff7e0;border:2px solid var(--y)}.ctabox.big h2{margin-top:0}
 .stegind{font-weight:700;color:var(--g);margin:18px 0 0}.btnrow{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
 form label.c{align-items:flex-start}form label.c input{margin-top:5px}form h2{margin-top:20px}
