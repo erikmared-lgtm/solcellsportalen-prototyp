@@ -11,7 +11,7 @@
 ## För villa
 
 - [Vad kostar solceller till villa 2026? Storlek, pris och steg | Norsolis](https://norsolis.com/solceller-villa.html): Solceller på villa: hur stor anläggning du behöver, vad den kostar, grönt avdrag, bygglov, anmälan till elnätet och vad du ska kontrollera innan du köper.
-- [Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: grönt avdrag 50 procent, AC- eller DC-koppling till befintliga solceller, stödtjänster via aggregator och reservkraft.
+- [Solcellsbatteri 2026 – pris och avdrag | Norsolis](https://norsolis.com/solcellsbatteri.html): Solcellsbatteri: grönt avdrag 50 procent, AC- eller DC-koppling, stödtjänster via aggregator och reservkraft.
 - [Batteri till befintliga solceller – när det kan löna sig | Norsolis](https://norsolis.com/batteri-till-befintliga-solceller.html): Batteri till solceller du redan har: när det kan löna sig, växelriktare, anmälan till elnätsbolaget och grönt avdrag 50 procent.
 - [Vanliga frågor om solceller – svar med källor](https://norsolis.com/vanliga-fragor-solceller.html): Vanliga frågor om solceller: kostnad, grönt avdrag, BRF, batterier, strömavbrott, bygglov, livslängd och att sälja överskottsel. Alla svar har källor.
 
@@ -683,7 +683,7 @@ Få ett förslag på dimensionering och pris för just ditt hus.
 
 ---
 
-## Solcellsbatteri 2026 – pris, avdrag och batteri till befintliga solceller | Norsolis
+## Solcellsbatteri 2026 – pris och avdrag | Norsolis
 
 Källa: https://norsolis.com/solcellsbatteri.html
 
