@@ -1842,7 +1842,7 @@ Källa: https://norsolis.com/batteri-till-befintliga-solceller.html
 
 # Batteri till befintliga solceller
 
-**Senast uppdaterad:** 2026-11-11
+**Senast uppdaterad:** 2026-11-19
 
 Sidan är för villaägare som redan har solceller. Ingen generell återbetalningstid anges.
 
@@ -1853,4 +1853,6 @@ Hybridväxelriktare kan ladda och ladda ur ett batteri (Energimyndigheten/RISE 2
 Elsäkerhetsverket: skriftlig föranmälan till elnätsbolaget innan arbetet påbörjas. Färdiganmälan görs av elinstallationsföretaget. Ellevio: anmälan av installatören när batteriet ska mata in el eller användas för stödtjänster, också till befintliga solceller. Ett batteri som bara tar emot el och inte matar in behöver enligt Ellevio inte anmälas. Installatören ska vara registrerad för Elproduktionsanläggningar.
 
 Skatteverket, läst 2026-11-11: 50 procent av arbete och material för lagring, tak 50 000 kronor per person och år. Vid fast pris räknas 97 procent som arbete och material. Batterierna ska vara kopplade till redan installerade solceller, eller installeras samtidigt. Sidorna säger inte vilken procentsats som gäller om växelriktaren byts senare enbart för batteriet. I formuläret för villa väljer du Batteri. Upp till tre installatörer kan kontakta dig.
+
+RISE Rapport 2026:94 gäller solceller och batteri som installeras samtidigt i typvillor, inte eftermontering: solcellsdelen står för den största besparingen när batteriet styrs för egenanvändning eller effekttoppar, och batteriinvesteringen förlänger då i många fall återbetalningstiden, ofta till över 15 år utan investeringsstöd. Med dagens skattereduktion för grön teknik blir investeringen i batterilager ekonomiskt konkurrenskraftig. Räkneexemplet visar hur grönt avdrag räknas på offerten vid fast pris, i praktiken 48,5 procent av totalpriset (0,50 × 0,97), högst 50 000 kronor per person och år, utan typpris eller återbetalningstid för eftermontering.
 
