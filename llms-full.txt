@@ -690,11 +690,11 @@ Källa: https://norsolis.com/solcellsbatteri.html
 # Solcellsbatteri – så fungerar energilagring med solceller
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-11-11
+**Senast uppdaterad:** 2026-11-20
 
 > **Kort svar: Kan jag lägga till batteri till befintliga solceller?** Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Batteriet kan kopplas på likströmssidan via en hybridväxelriktare, eller läggas till bredvid den växelriktare du har. En växelriktare utan batterifunktion kan inte antas styra ett batteri, så be installatören kontrollera om den kan sitta kvar eller behöver bytas, och ta med det i offerten. Innan arbetet påbörjas ska en skriftlig föranmälan göras till elnätsbolaget. Färdiganmälan görs av elinstallationsföretaget (Elsäkerhetsverket). Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år.
 
-> **Kort svar: Lönar sig ett solcellsbatteri och vilket avdrag finns?** Det beror på din elanvändning, elnätsföretagets avgifter och vad du kan få för stödtjänster, så vi anger ingen generell återbetalningstid. Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år. Stödtjänster till Svenska kraftnät säljs bara via en BSP eller underleverantör.
+> **Kort svar: Vad kostar ett solcellsbatteri och hur stort är avdraget?** Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Skattereduktionen för grön teknik ger 50 procent av kostnaden för arbete och material vid installation av system för lagring av egenproducerad el, inom taket på 50 000 kronor per person och år. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket).
 
 ### Fakta i korthet
 
@@ -713,31 +713,7 @@ Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi ange
 
 ## Kan jag lägga till batteri till befintliga solceller?
 
-Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Hur batteriet kopplas in beror på växelriktaren du redan har. En växelriktare utan batterifunktion kan inte antas styra ett batteri. Be installatören kontrollera om den kan sitta kvar eller behöver bytas, och ta med det i offerten. [Läs guiden om batteri till befintliga solceller](https://norsolis.com/batteri-till-befintliga-solceller.html). [Jämför offerter](https://norsolis.com/offert-villa.html) och välj Batteri i formuläret. Upp till tre installatörer kan kontakta dig.
-
-### AC-kopplat eller DC-kopplat
-
-Det finns två huvudvägar. Skillnaden är om batteriet sitter på likströmssidan (DC) eller på växelströmssidan (AC).
-
-**DC-koppling via hybridväxelriktare.** Energimyndighetens marknadsöversikt, skriven av RISE och daterad 2019-11-21, beskriver en hybridväxelriktare som en växelriktare som utöver de vanliga uppgifterna även kan ladda upp och ladda ur ett batteri. I RISE provning av villasystem för Energimyndighetens Testlab, slutrapport 2021-10-05, hade ett av systemen ett litiumjonbatteri anslutet till en hybridväxelriktare, på likströmssidan. Översikten skriver att hybridväxelriktare är fördelaktigast när batterier ska anslutas, eftersom vissa av dem samlar de nödvändiga funktionerna, utom själva batterierna, i en produkt. Texten är från 2019 och beskriver tekniken som under utveckling. Vilka funktioner som ingår varierar, och översikten säger att det är svårt för en lekman att avgöra det utifrån datablad. Vilket batteri som passar en viss modell står inte i de svenska källorna. Be installatören kontrollera det.
-
-**Batteri vid sidan av den växelriktare du har.** Samma marknadsöversikt skriver att flera så kallade hybridväxelriktare inte har funktionerna för att hantera solcellerna inbyggda, utan är ett tillägg till en traditionell strängväxelriktare. Energy Policy WA (september 2025) kallar den vägen ett AC-kopplat batteri, med egen batteriväxelriktare på växelströmssidan och ett extra omvandlingssteg. Faktabladet skriver att AC-kopplade system är något mindre effektiva. De svenska källorna anger ingen procentsiffra. Faktabladet är inte en svensk regel. Vi anger inga procenttal och inga priser.
-
-Man kan också byta den befintliga växelriktaren mot en hybridväxelriktare. Att en ny hybrid kan sättas bredvid den gamla står i det australiska faktabladet, inte i de svenska källorna.
-
-Grönt avdrag följer Skatteverkets villkor för lagring av egenproducerad el. I de Skatteverkssidor vi länkar till står ingen särskild kopplingsmetod. Elinstallationen ska göras av ett elinstallationsföretag som är registrerat hos Elsäkerhetsverket för verksamhetstypen Elproduktionsanläggningar.
-
-Har huset trefas eller flera växelriktare beskriver det australiska faktabladet flera upplägg, men nätkraven där är australiska. I Sverige ska installatören kontrollera anslutningen.
-
-### Vanliga växelriktare och vad som typiskt gäller
-
-| Situation | Vad som typiskt gäller | Källa |
-|---|---|---|
-| Strängväxelriktare utan batteristöd | Tillägg till den befintliga strängväxelriktaren, eller byte till hybrid. Energy Policy WA beskriver tillägget som AC-koppling. | Energimyndigheten/RISE, 2019-11-21; Energy Policy WA, september 2025 |
-| Hybridväxelriktare | I RISE provning 2021 satt batteriet på likströmssidan. Vilken modell som passar kontrollerar installatören. | RISE 2021-10-05 och 2019-11-21; Energy Policy WA, september 2025 |
-| Mikroväxelriktare | Översikten 2019 beskriver omvandling vid modulerna men inte hur ett batteri läggs till. Energy Policy WA tar upp AC-kopplat batteri. | Energimyndigheten/RISE, 2019-11-21; Energy Policy WA, september 2025 |
-
-Energy Policy WA skriver att AC-kopplade system har begränsningar vid reservkraft. Energimyndigheten skriver att ström vid avbrott kräver en växelriktare som klarar ö-drift och en nödströmsfunktion som nätbolaget ska godkänna. Det ska stå i offerten om reservkraft ingår.
+Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). [Läs guiden: Batteri till befintliga solceller](https://norsolis.com/batteri-till-befintliga-solceller.html).
 
 ## Vad kan ett solcellsbatteri användas till?
 
@@ -1842,7 +1818,7 @@ Källa: https://norsolis.com/batteri-till-befintliga-solceller.html
 
 # Batteri till befintliga solceller
 
-**Senast uppdaterad:** 2026-11-19
+**Senast uppdaterad:** 2026-11-20
 
 Sidan är för villaägare som redan har solceller. Ingen generell återbetalningstid anges.
 
@@ -1854,5 +1830,5 @@ Elsäkerhetsverket: skriftlig föranmälan till elnätsbolaget innan arbetet på
 
 Skatteverket, läst 2026-11-11: 50 procent av arbete och material för lagring, tak 50 000 kronor per person och år. Vid fast pris räknas 97 procent som arbete och material. Batterierna ska vara kopplade till redan installerade solceller, eller installeras samtidigt. Sidorna säger inte vilken procentsats som gäller om växelriktaren byts senare enbart för batteriet. I formuläret för villa väljer du Batteri. Upp till tre installatörer kan kontakta dig.
 
-RISE Rapport 2026:94 gäller solceller och batteri som installeras samtidigt i typvillor, inte eftermontering: solcellsdelen står för den största besparingen när batteriet styrs för egenanvändning eller effekttoppar, och batteriinvesteringen förlänger då i många fall återbetalningstiden, ofta till över 15 år utan investeringsstöd. Med dagens skattereduktion för grön teknik blir investeringen i batterilager ekonomiskt konkurrenskraftig. Räkneexemplet visar hur grönt avdrag räknas på offerten vid fast pris, i praktiken 48,5 procent av totalpriset (0,50 × 0,97), högst 50 000 kronor per person och år, utan typpris eller återbetalningstid för eftermontering.
+RISE Rapport 2026:94 gäller solceller och batteri som installeras samtidigt i typvillor, inte eftermontering: solcellsdelen står för den största besparingen när batteriet styrs för egenanvändning eller effekttoppar, och batteriinvesteringen förlänger då i många fall återbetalningstiden, ofta till över 15 år utan investeringsstöd. Rapporten bedömer att investeringen i batterilager kan bli ekonomiskt konkurrenskraftig med dagens skattereduktion för grön teknik, men att nyttan beror i hög grad på dimensionering och styrning. Räkneexemplet visar hur grönt avdrag räknas på offerten vid fast pris, i praktiken 48,5 procent av totalpriset (0,50 × 0,97), högst 50 000 kronor per person och år, utan typpris eller återbetalningstid för eftermontering.
 
