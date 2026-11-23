@@ -1240,7 +1240,7 @@ Källa: https://norsolis.com/vanliga-fragor-solceller.html
 # Vanliga frågor om solceller – korta svar med källor
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-10-09
+**Senast uppdaterad:** 2026-11-23
 
 > **Kort svar: Vad kostar solceller och vilket stöd finns?** Energimyndigheten anger ungefär 92 500 kronor inklusive moms för en villaanläggning på 5 kW och cirka 225 000 kronor för 15 kW. Grönt avdrag är 15 procent av arbete och material för solceller och 50 procent för batteri, högst 50 000 kronor per person och år. 60-öringen slopades den 1 januari 2026.
 
@@ -1289,7 +1289,7 @@ Delvis. Avdrag får göras för den andel av solelen som säljs i momspliktig ve
 ## Hur fungerar tekniken och driften?
 
 **Får jag el vid ett strömavbrott?**
-Inte med en vanlig nätansluten anläggning. Den kopplar ner av säkerhetsskäl. Det krävs batteri, styrelektronik, brytare mot nätet och en växelriktare som klarar ö-drift.
+Inte med en vanlig nätansluten anläggning. Den kopplar ner av säkerhetsskäl. Det krävs batteri, styrelektronik, brytare mot nätet och en växelriktare som klarar ö-drift. Läs mer i guiden [Batteri till befintliga solceller](https://norsolis.com/batteri-till-befintliga-solceller.html).
 
 **Hur mycket el ger solceller i Sverige?**
 Enligt Energimyndigheten ger 1 kW runt 800–1 100 kWh per år i söderläge med 30–50 graders lutning och utan skuggning.
