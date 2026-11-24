@@ -690,11 +690,11 @@ Källa: https://norsolis.com/solcellsbatteri.html
 # Solcellsbatteri – så fungerar energilagring med solceller
 
 <!-- AEO -->
-**Senast uppdaterad:** 2026-11-20
+**Senast uppdaterad:** 2026-11-24
 
 > **Kort svar: Kan jag lägga till batteri till befintliga solceller?** Ja, det går ofta. Avdraget gäller system för lagring av egenproducerad el, så du behöver egen elproduktion som solceller (Skatteverket). Batteriet kan kopplas på likströmssidan via en hybridväxelriktare, eller läggas till bredvid den växelriktare du har. En växelriktare utan batterifunktion kan inte antas styra ett batteri, så be installatören kontrollera om den kan sitta kvar eller behöver bytas, och ta med det i offerten. Innan arbetet påbörjas ska en skriftlig föranmälan göras till elnätsbolaget. Färdiganmälan görs av elinstallationsföretaget (Elsäkerhetsverket). Grönt avdrag ger 50 procent av kostnaden för arbete och material, inom taket 50 000 kronor per person och år.
 
-> **Kort svar: Vad kostar ett solcellsbatteri och hur stort är avdraget?** Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Skattereduktionen för grön teknik ger 50 procent av kostnaden för arbete och material vid installation av system för lagring av egenproducerad el, inom taket på 50 000 kronor per person och år. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket).
+> **Kort svar: Vad kostar ett solcellsbatteri och hur stort är avdraget?** Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Publicerade paketpriser från namngivna installatörer, lästa 2026-11-24, ligger på 3 122–10 082 kronor per kWh efter grönt avdrag (se Publicerade priser). Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Skattereduktionen för grön teknik ger 50 procent av kostnaden för arbete och material vid installation av system för lagring av egenproducerad el, inom taket på 50 000 kronor per person och år. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket).
 
 ### Fakta i korthet
 
@@ -709,7 +709,34 @@ Ett solcellsbatteri lagrar el som solcellerna producerar men som inte används j
 
 ## Vad kostar ett solcellsbatteri 2026?
 
-Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Grönt avdrag ger 50 procent av kostnaden för arbete och material. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket). Jämför offerter i kronor per kWh lagringskapacitet.
+Det finns ingen officiell prisstatistik för hembatterier i Sverige, så vi anger inget generellt pris. Publicerade paketpriser från namngivna installatörer, lästa 2026-11-24, ligger på 3 122–10 082 kronor per kWh efter grönt avdrag. Priset beror på kapacitet (kWh), växelriktare, installation och om reservkraft ingår. Grönt avdrag ger 50 procent av kostnaden för arbete och material. Vid fast pris räknas 97 procent av totalpriset som arbete och material, alltså i praktiken 48,5 procent av totalpriset, högst 50 000 kronor per person och år (Skatteverket). Jämför offerter i kronor per kWh lagringskapacitet.
+
+### Vad kostar ett solcellsbatteri? Publicerade priser (läst 2026-11-24)
+
+Det här är inte officiell prisstatistik. Siffrorna är priser som stod på namngivna installatörers egna sidor den 24 november 2026. Spannet är efter grönt avdrag. Ordinarie pris är pris före avdrag där installatören själv publicerar det. De beloppen ingår inte i spannet och har inte räknats om. Faktiskt pris beror på installation och offert.
+
+| Källa | Storlek | Publicerat pris | Läst |
+|---|---|---|---|
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/emaldo-emaldo-power-store-5-12-kwh-allt-i-ett/) | 5,12 kWh, Emaldo Power Store, växelriktare och standardinstallation | 47 350 kr efter grönt avdrag. Ordinarie pris 91 950 kr inklusive installation. | 2026-11-24 |
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/emaldo-emaldo-power-core-5-12-kwh-allt-i-ett/) | 5,12 kWh, Emaldo Power Core, växelriktare och standardinstallation | 51 620 kr efter grönt avdrag. Ordinarie pris 100 230 kr inklusive installation. | 2026-11-24 |
+| [PowerUp Electrics](https://powerupelectrics.se/produkt/batterilager-10-kwh-villapaket/) | 10 kWh, Dyness STACK100 och Solis hybridväxelriktare 10 kW, installerat | Från 31 900 kr efter 50 % grönt avdrag. | 2026-11-24 |
+| [Håpe Kraft](https://hapekraft.se/priser/) | 10 kWh inklusive hybridväxelriktare (Solis 10 kW) och installation | Från cirka 40 000 kr efter grönt avdrag. | 2026-11-24 |
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/pylontech-pylontech-force-h3-10-24-kwh-paket/) | 10,24 kWh, Pylontech Force H3 med förvald växelriktare och standardinstallation | 42 300 kr efter grönt avdrag. Ordinarie pris 73 380 kr inklusive installation. | 2026-11-24 |
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/saj-hs3-12kw-10kwh/) | 10 kWh, SAJ HS3 12 kW, växelriktare ingår, standardinstallation | 48 440 kr efter grönt avdrag. Ordinarie pris 94 060 kr inklusive installation. | 2026-11-24 |
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/pylontech-pylontech-force-h3-15-36-kwh-paket/) | 15,36 kWh, Pylontech Force H3 med förvald växelriktare och standardinstallation | 47 960 kr efter grönt avdrag. Ordinarie pris 84 370 kr inklusive installation. | 2026-11-24 |
+| [ReNERGI](https://www.renergi.nu/handla/batterilager/dyness-dyness-stack100-pro-15-36-kwh-paket/) | 15,36 kWh, Dyness Stack100 Pro med förvald växelriktare och standardinstallation | 48 200 kr efter grönt avdrag. Ordinarie pris 84 840 kr inklusive installation. | 2026-11-24 |
+| [ChargeBuddy](https://chargebuddy.se/hembatteri/) | 10 kWh / 12 kW, SAJ HS3, installation ingår | Från 58 000 kr efter grönt teknik-avdrag. Ingår inte i spannet. | 2026-11-24 |
+| [ChargeBuddy](https://chargebuddy.se/hembatteri/) | 15 kWh / 12 kW, SAJ HS3, installation ingår | Från 64 990 kr efter grönt teknik-avdrag. Ingår inte i spannet. | 2026-11-24 |
+
+**Spann efter grönt avdrag:** 3 122–10 082 kronor per kWh. Lägst är 47 960 kr för 15,36 kWh hos ReNERGI (Pylontech Force H3), alltså 47 960 / 15,36 = 3 122 kr/kWh. Högst är 51 620 kr för 5,12 kWh hos ReNERGI (Emaldo Power Core), alltså 51 620 / 5,12 = 10 082 kr/kWh. ReNERGI skriver själv 10 082 kr/kWh efter avdrag för det paketet, 9 248 kr/kWh för Emaldo Power Store 5,12 kWh och 4 844 kr/kWh för SAJ HS3 10 kWh. De andra raderna som ingår i spannet hamnar däremellan. Uträkningen är publicerat pris efter avdrag delat med angiven kapacitet, avrundat till närmaste krona.
+
+För cirka 5 kWh publicerar ReNERGI 47 350 kr och 51 620 kr efter avdrag för 5,12 kWh. Vi har inte sett ett bestämt paketpris kring 5 kWh hos de andra installatörerna i tabellen. För cirka 10 kWh ligger de publicerade priserna efter avdrag på från 31 900 kr (PowerUp Electrics) till 48 440 kr (ReNERGI, SAJ HS3). Däremellan står Håpe Krafts från cirka 40 000 kr och ReNERGIs 42 300 kr för Pylontech Force H3 10,24 kWh. För cirka 15 kWh publicerar ReNERGI 47 960 kr (Pylontech Force H3 15,36 kWh) och 48 200 kr (Dyness Stack100 Pro 15,36 kWh) efter avdrag.
+
+I de ReNERGI-rader som ingår i spannet är skillnaden mellan ordinarie pris och pris efter avdrag högst 48 610 kr. Det ryms i taket 50 000 kr för en person, så beloppet efter avdrag blir detsamma för en ägare. Flera av sidorna visar priset i läget två ägare. ReNERGI skriver också paket där avdraget är större än 50 000 kr och sidan räknar med två ägare, till exempel [Emaldo Power Store 10,24 kWh](https://www.renergi.nu/handla/batterilager/emaldo-emaldo-power-store-10-24-kwh-allt-i-ett/) för 55 170 kr efter avdrag (ordinarie pris 107 130 kr inklusive installation). Den raden ingår inte i spannet.
+
+ChargeBuddy skriver från 58 000 kr för 10 kWh och från 64 990 kr för 15 kWh efter grönt teknik-avdrag, inklusive moms och installation. Sidan visar inte priset före avdrag. Om beloppen vore exakt hälften av priset före avdrag skulle avdraget överstiga 50 000 kr för en person. Därför ingår de inte i spannet. Håpe Kraft skriver också från cirka 54 000 kr efter avdrag för 20 kWh. Det är ett riktpris med ordet cirka, och ingår inte i spannet per kWh.
+
+PowerUp Electrics visar priset efter 50 procent grönt avdrag. Ordet från betyder att 31 900 kr är ett startpris. Paketet innehåller batteri, hybridväxelriktare, elmätare, montage och driftsättning. Håpe Krafts belopp är riktpriser inklusive moms för en normal villa inom fem mil från Hudiksvall, och sidan skriver att de förutsätter fullt avdrag. Den sidan är uppdaterad september 2026. ReNERGIs ordinarie pris är inklusive moms och standardinstallation: behörig elektriker, 10 meter kabel, en håltagning, säkring och driftsättning. Mer arbete kostar extra enligt ReNERGI.
 
 ## Kan jag lägga till batteri till befintliga solceller?
 
@@ -761,6 +788,9 @@ En BRF kan också installera batterier, men grönt avdrag gäller inte för för
 Ett batteri är en del av elanläggningen. Elinstallationen ska göras av ett elinstallationsföretag som är registrerat hos Elsäkerhetsverket för verksamhetstypen Elproduktionsanläggningar. Elsäkerhetsverket skriver att en skriftlig föranmälan ska göras till elnätsbolaget innan installationsarbetet påbörjas, och att färdiganmälan görs av elinstallationsföretaget. Ellevio skriver att anmälan gäller när batteriet ska mata in el eller användas för stödtjänster, också till befintliga solceller, men att ett batteri som enbart tar emot el och inte matar in inte behöver anmälas hos Ellevio. Installatören stämmer av med ditt bolag.
 
 ## Vanliga frågor om solcellsbatterier
+
+**Vad kostar ett solcellsbatteri?**
+Det finns ingen officiell prisstatistik för hembatterier i Sverige. Publicerade installatörspriser lästa 2026-11-24 ger 3 122–10 082 kronor per kWh efter grönt avdrag. Det är inte officiell statistik. Faktiskt pris beror på installation och offert. Se Publicerade priser på den här sidan.
 
 **Lönar sig ett solcellsbatteri?**
 Det beror på din elanvändning, ditt elnätsföretags avgifter och vad du kan få för stödtjänster. Vi anger ingen generell återbetalningstid eftersom den beror helt på förutsättningarna.
