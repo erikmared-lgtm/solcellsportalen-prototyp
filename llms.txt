@@ -40,7 +40,7 @@
 ## Om tjänsten
 
 - [Om Norsolis – så fungerar jämförelsetjänsten](https://norsolis.com/om-tjansten.html): Norsolis är en jämförelsetjänst för batterier och solceller. Gratis för dig. Så fungerar urval och kontakt.
-- [Vad tjänade ett hembatteri på elpristoppen? | Norsolis](https://norsolis.com/batteri-elpristopp.html): Dyraste kvarten 14 september 2026 kostade 8,98 kr/kWh i SE4. Tibber uppskattar 60–90 kr för ett standardbatteri och ser värdet i daglig styrning.
+- [Vad tjänade ett hembatteri på elpristoppen? | Norsolis](https://norsolis.com/batteri-elpristopp.html): Dyraste kvarten 14 september 2026 kostade 8,98 kr/kWh i SE4. Tibber uppskattar 60–90 kr för en standardinstallation med solceller och batteri och ser värdet i daglig styrning.
 - [Bli pilotpartner (för installatörer)](https://norsolis.com/partner.html): Information för installatörer som vill bli anslutna partner.
 - [Integritetspolicy](https://norsolis.com/integritet.html)
 - [Alla guider](https://norsolis.com/kunskap.html)
